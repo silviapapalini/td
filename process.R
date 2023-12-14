@@ -1,4 +1,5 @@
 library(tidyverse)
+library(readxl)
 
 Sys.setlocale("LC_ALL", "C")
 
@@ -12,12 +13,12 @@ Sys.setlocale("LC_ALL", "C")
 
 color_to_cs <- Vectorize(function(CB, color = NULL) {
     tab <- switch(CB,
-        `1` = c("Blue"   = "CSplus" , "Yellow" = "CSmin1", "Red"    = "CSmin2"),
-        `2` = c("Red"    = "CSplus" , "Yellow" = "CSmin1", "Blue"   = "CSmin2"),
-        `3` = c("Red"    = "CSplus" , "Blue"   = "CSmin1", "Yellow" = "CSmin2"),
-        `4` = c("Yellow" = "CSplus" , "Blue"   = "CSmin1", "Red"    = "CSmin2"),
-        `5` = c("Blue"   = "CSplus" , "Red"    = "CSmin1", "Yellow" = "CSmin2"),
-        `6` = c("Yellow" = "CSplus" , "Red"    = "CSmin1", "Blue"   = "CSmin2")
+        `1` = c("Blue"   = "CSplus", "Yellow" = "CSmin1", "Red"    = "CSmin2"),
+        `2` = c("Red"    = "CSplus", "Yellow" = "CSmin1", "Blue"   = "CSmin2"),
+        `3` = c("Red"    = "CSplus", "Blue"   = "CSmin1", "Yellow" = "CSmin2"),
+        `4` = c("Yellow" = "CSplus", "Blue"   = "CSmin1", "Red"    = "CSmin2"),
+        `5` = c("Blue"   = "CSplus", "Red"    = "CSmin1", "Yellow" = "CSmin2"),
+        `6` = c("Yellow" = "CSplus", "Red"    = "CSmin1", "Blue"   = "CSmin2")
     )
     if(is.null(color)) tab else tab[color]
 })
@@ -56,11 +57,11 @@ X <- dplyr::bind_rows(
     dplyr::group_by(ID, Phase, TimingCS) %>%
         dplyr::mutate(
             TrialCS = calc_trial_number(`CS-`, `CS--`, `CS+`),
-            `Trial#` = trial_counter - min(trial_counter) + 1) %>%
+            Trial = trial_counter - min(trial_counter) + 1) %>%
     dplyr::ungroup() %>%
     dplyr::mutate(
         Phase = gsub(x = Phase, pattern = "_phase", replacement = ""),
-        ReliefChoice = as.integer(ReliefChoice - 1),
+        ReliefChoice = recode(ReliefChoice, `1` = 0L, `2` = 1L, `3` = NA_integer_),
         ReliefRating = ifelse(ReliefChoice == 1, ReliefRating, NA),
         CSType = factor(CSType,
             levels = c("1_0_0", "0_1_0", "0_0_1"),
@@ -72,8 +73,8 @@ X <- dplyr::bind_rows(
         ReliefChoice = ifelse(shock & (TimingCS == "US"), NA_integer_, ReliefChoice),
         ReliefRating = ifelse(shock & (TimingCS == "US"), NA_real_, ReliefRating),
     ) %>%
-    dplyr::arrange(ID, Phase, `Trial#`) %>%
-    dplyr::relocate(ID, Phase, `Trial#`, TrialCS, ReliefChoice, ReliefRating, `CS+`, `CS-`, `CS--`, CSType, TimingCS, shock) %>%
+    dplyr::arrange(ID, Phase, Trial) %>%
+    dplyr::relocate(ID, Phase, Trial, TrialCS, ReliefChoice, ReliefRating, `CS+`, `CS-`, `CS--`, CSType, TimingCS, shock) %>%
     # remove unused
     dplyr::select(-trial_counter)
 
