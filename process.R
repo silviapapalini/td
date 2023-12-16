@@ -72,6 +72,7 @@ X <- dplyr::bind_rows(
     dplyr::mutate(
         ReliefChoice = ifelse(shock & (TimingCS == "US"), NA_integer_, ReliefChoice),
         ReliefRating = ifelse(shock & (TimingCS == "US"), NA_real_, ReliefRating),
+        Relief = ifelse(!is.na(ReliefChoice) & ReliefChoice, ReliefRating, 0)
     ) %>%
     dplyr::arrange(ID, Phase, Trial) %>%
     dplyr::relocate(ID, Phase, Trial, TrialCS, ReliefChoice, ReliefRating, `CS+`, `CS-`, `CS--`, CSType, TimingCS, shock) %>%
@@ -83,7 +84,10 @@ my_write_csv <- function(X, file = "") {
     X
 }
 
+exclude = c("RS45")
 X <- purrr::reduce(list(X, STAI, DTS, PANAS), dplyr::left_join, by = "ID") %>%
+    dplyr::mutate(Anxiety = factor(ifelse(STAI >= 43, 1, 0), levels=c(0,1), labels=c("Low", "High"))) %>%
+    dplyr::filter(!ID %in% exclude) %>%
     my_write_csv(file = "Relief.csv")
 
 Expectancies <- read_excel("data/ReliefShiftData.xlsx", sheet="Expectancies", range="A1:N51") %>%
