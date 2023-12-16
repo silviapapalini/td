@@ -1,2301 +1,2348 @@
-SUBJ_ID	#TRIAL_FLOW	trial_counter	ReliefChoiceCS	ReliefCS	T.CSM	T.CS_EE	T.CS_UU	shock
-RS01	Pavlovian_phase	1	1	0	0	1	0	1
-RS01	Pavlovian_phase	2	2	76	1	0	0	0
-RS01	Pavlovian_phase	3	1	0	0	1	0	1
-RS01	Pavlovian_phase	4	1	0	0	1	0	1
-RS01	Pavlovian_phase	5	2	79	1	0	0	0
-RS01	Pavlovian_phase	6	1	0	0	1	0	1
-RS01	Pavlovian_phase	7	2	84	1	0	0	0
-RS01	Pavlovian_phase	8	2	87	1	0	0	0
-RS01	Pavlovian_phase	9	1	0	0	0	1	0
-RS01	Pavlovian_phase	10	1	0	0	0	1	0
-RS01	Pavlovian_phase	11	1	0	0	1	0	1
-RS01	Pavlovian_phase	12	2	19	0	1	0	1
-RS01	Pavlovian_phase	13	1	0	0	0	1	0
-RS01	Pavlovian_phase	14	2	87	1	0	0	0
-RS01	Pavlovian_phase	15	2	69	0	0	1	0
-RS01	Pavlovian_phase	16	2	4	0	1	0	1
-RS01	Pavlovian_phase	17	1	0	0	1	0	1
-RS01	Pavlovian_phase	18	2	87	1	0	0	0
-RS01	Pavlovian_phase	19	2	11	0	1	0	1
-RS01	Pavlovian_phase	20	2	89	0	0	1	0
-RS01	Pavlovian_phase	21	2	96	1	0	0	0
-RS01	Pavlovian_phase	22	2	92	0	0	1	0
-RS01	Pavlovian_phase	23	2	44	0	1	0	1
-RS01	Pavlovian_phase	24	1	0	0	1	0	1
-RS01	Pavlovian_phase	25	2	88	1	0	0	0
-RS01	Pavlovian_phase	26	2	92	0	0	1	0
-RS01	Pavlovian_phase	27	1	0	0	1	0	1
-RS01	Pavlovian_phase	28	2	94	0	0	1	0
-RS01	Extinction_phase	29	1	0	0	1	0	0
-RS01	Extinction_phase	30	1	0	0	0	1	0
-RS01	Extinction_phase	31	1	0	0	0	1	0
-RS01	Extinction_phase	32	1	0	0	1	0	0
-RS01	Extinction_phase	33	1	0	0	1	0	0
-RS01	Extinction_phase	34	1	0	0	0	1	0
-RS01	Extinction_phase	35	1	0	1	0	0	0
-RS01	Extinction_phase	36	2	19	0	1	0	0
-RS01	Extinction_phase	37	2	66	1	0	0	0
-RS01	Extinction_phase	38	1	0	0	0	1	0
-RS01	Extinction_phase	39	2	47	1	0	0	0
-RS01	Extinction_phase	40	1	0	0	1	0	0
-RS01	Extinction_phase	41	1	0	0	0	1	0
-RS01	Extinction_phase	42	1	0	0	1	0	0
-RS01	Extinction_phase	43	1	0	1	0	0	0
-RS01	Extinction_phase	44	1	0	0	1	0	0
-RS01	Extinction_phase	45	1	0	1	0	0	0
-RS01	Extinction_phase	46	1	0	0	1	0	0
-RS02	Pavlovian_phase	1	1	0	1	0	0	0
-RS02	Pavlovian_phase	2	2	84	1	0	0	0
-RS02	Pavlovian_phase	3	1	0	0	1	0	1
-RS02	Pavlovian_phase	4	1	0	0	1	0	1
-RS02	Pavlovian_phase	5	2	98	1	0	0	0
-RS02	Pavlovian_phase	6	1	0	0	1	0	1
-RS02	Pavlovian_phase	7	2	96	1	0	0	0
-RS02	Pavlovian_phase	8	1	0	0	1	0	1
-RS02	Pavlovian_phase	9	1	0	0	1	0	1
-RS02	Pavlovian_phase	10	1	0	0	0	1	0
-RS02	Pavlovian_phase	11	2	97	0	0	1	0
-RS02	Pavlovian_phase	12	1	0	0	1	0	1
-RS02	Pavlovian_phase	13	2	16	0	1	0	1
-RS02	Pavlovian_phase	14	2	86	0	0	1	0
-RS02	Pavlovian_phase	15	2	16	0	1	0	1
-RS02	Pavlovian_phase	16	2	99	0	0	1	0
-RS02	Pavlovian_phase	17	2	23	0	1	0	1
-RS02	Pavlovian_phase	18	2	97	0	0	1	0
-RS02	Pavlovian_phase	19	2	49	0	1	0	1
-RS02	Pavlovian_phase	20	2	100	0	0	1	0
-RS02	Pavlovian_phase	21	2	98	0	0	1	0
-RS02	Pavlovian_phase	22	2	96	1	0	0	0
-RS02	Pavlovian_phase	23	1	0	0	1	0	1
-RS02	Pavlovian_phase	24	2	88	1	0	0	0
-RS02	Pavlovian_phase	25	2	87	0	0	1	0
-RS02	Pavlovian_phase	26	1	0	1	0	0	0
-RS02	Pavlovian_phase	27	2	19	0	1	0	1
-RS02	Pavlovian_phase	28	2	74	1	0	0	0
-RS02	Extinction_phase	29	1	0	0	1	0	0
-RS02	Extinction_phase	30	1	0	0	0	1	0
-RS02	Extinction_phase	31	2	60	0	1	0	0
-RS02	Extinction_phase	32	1	0	0	1	0	0
-RS02	Extinction_phase	33	1	0	1	0	0	0
-RS02	Extinction_phase	34	2	27	0	0	1	0
-RS02	Extinction_phase	35	2	24	1	0	0	0
-RS02	Extinction_phase	36	1	0	0	1	0	0
-RS02	Extinction_phase	37	2	87	0	1	0	0
-RS02	Extinction_phase	38	2	71	0	0	1	0
-RS02	Extinction_phase	39	2	85	0	0	1	0
-RS02	Extinction_phase	40	2	94	1	0	0	0
-RS02	Extinction_phase	41	2	86	0	0	1	0
-RS02	Extinction_phase	42	2	80	0	1	0	0
-RS02	Extinction_phase	43	2	95	1	0	0	0
-RS02	Extinction_phase	44	2	99	0	1	0	0
-RS02	Extinction_phase	45	2	98	1	0	0	0
-RS02	Extinction_phase	46	2	97	0	1	0	0
-RS03	Pavlovian_phase	1	1	0	0	1	0	1
-RS03	Pavlovian_phase	2	1	0	1	0	0	0
-RS03	Pavlovian_phase	3	2	14	1	0	0	0
-RS03	Pavlovian_phase	4	1	0	0	1	0	1
-RS03	Pavlovian_phase	5	1	0	0	1	0	1
-RS03	Pavlovian_phase	6	1	0	1	0	0	0
-RS03	Pavlovian_phase	7	2	26	1	0	0	0
-RS03	Pavlovian_phase	8	1	0	0	1	0	1
-RS03	Pavlovian_phase	9	1	0	0	0	1	0
-RS03	Pavlovian_phase	10	1	0	0	1	0	1
-RS03	Pavlovian_phase	11	1	0	0	1	0	1
-RS03	Pavlovian_phase	12	2	10	0	0	1	0
-RS03	Pavlovian_phase	13	2	38	0	0	1	0
-RS03	Pavlovian_phase	14	1	0	0	1	0	1
-RS03	Pavlovian_phase	15	1	0	0	1	0	1
-RS03	Pavlovian_phase	16	2	8	1	0	0	0
-RS03	Pavlovian_phase	17	1	0	0	0	1	0
-RS03	Pavlovian_phase	18	1	0	0	0	1	0
-RS03	Pavlovian_phase	19	2	9	1	0	0	0
-RS03	Pavlovian_phase	20	2	11	0	0	1	0
-RS03	Pavlovian_phase	21	1	0	0	1	0	1
-RS03	Pavlovian_phase	22	1	0	0	1	0	1
-RS03	Pavlovian_phase	23	2	20	0	0	1	0
-RS03	Pavlovian_phase	24	2	35	0	0	1	0
-RS03	Pavlovian_phase	25	1	0	0	1	0	1
-RS03	Pavlovian_phase	26	2	18	1	0	0	0
-RS03	Pavlovian_phase	27	2	19	1	0	0	0
-RS03	Pavlovian_phase	28	1	0	0	1	0	1
-RS03	Extinction_phase	29	1	0	0	1	0	0
-RS03	Extinction_phase	30	1	0	0	0	1	0
-RS03	Extinction_phase	31	1	0	1	0	0	0
-RS03	Extinction_phase	32	1	0	0	0	1	0
-RS03	Extinction_phase	33	1	0	0	1	0	0
-RS03	Extinction_phase	34	2	7	0	0	1	0
-RS03	Extinction_phase	35	1	0	0	1	0	0
-RS03	Extinction_phase	36	1	0	1	0	0	0
-RS03	Extinction_phase	37	1	0	0	0	1	0
-RS03	Extinction_phase	38	1	0	0	1	0	0
-RS03	Extinction_phase	39	2	14	1	0	0	0
-RS03	Extinction_phase	40	2	12	0	1	0	0
-RS03	Extinction_phase	41	2	12	0	1	0	0
-RS03	Extinction_phase	42	2	16	1	0	0	0
-RS03	Extinction_phase	43	2	14	1	0	0	0
-RS03	Extinction_phase	44	2	6	0	1	0	0
-RS03	Extinction_phase	45	2	9	0	1	0	0
-RS03	Extinction_phase	46	2	7	0	0	1	0
-RS04	Pavlovian_phase	1	1	0	1	0	0	0
-RS04	Pavlovian_phase	2	1	0	0	1	0	1
-RS04	Pavlovian_phase	3	1	0	0	1	0	1
-RS04	Pavlovian_phase	4	2	13	1	0	0	0
-RS04	Pavlovian_phase	5	2	34	1	0	0	0
-RS04	Pavlovian_phase	6	1	0	0	1	0	1
-RS04	Pavlovian_phase	7	2	31	1	0	0	0
-RS04	Pavlovian_phase	8	1	0	0	1	0	1
-RS04	Pavlovian_phase	9	1	0	0	1	0	1
-RS04	Pavlovian_phase	10	1	0	0	0	1	0
-RS04	Pavlovian_phase	11	1	0	0	1	0	1
-RS04	Pavlovian_phase	12	1	0	0	0	1	0
-RS04	Pavlovian_phase	13	1	0	0	1	0	1
-RS04	Pavlovian_phase	14	1	0	0	0	1	0
-RS04	Pavlovian_phase	15	2	36	1	0	0	0
-RS04	Pavlovian_phase	16	1	0	0	0	1	0
-RS04	Pavlovian_phase	17	1	0	0	0	1	0
-RS04	Pavlovian_phase	18	1	0	0	1	0	1
-RS04	Pavlovian_phase	19	1	0	0	1	0	1
-RS04	Pavlovian_phase	20	2	45	0	0	1	0
-RS04	Pavlovian_phase	21	2	59	1	0	0	0
-RS04	Pavlovian_phase	22	2	19	0	0	1	0
-RS04	Pavlovian_phase	23	1	0	0	1	0	1
-RS04	Pavlovian_phase	24	1	0	0	1	0	1
-RS04	Pavlovian_phase	25	2	35	0	0	1	0
-RS04	Pavlovian_phase	26	2	61	1	0	0	0
-RS04	Pavlovian_phase	27	2	57	1	0	0	0
-RS04	Pavlovian_phase	28	1	0	0	1	0	1
-RS04	Extinction_phase	29	1	0	0	0	1	0
-RS04	Extinction_phase	30	1	0	1	0	0	0
-RS04	Extinction_phase	31	1	0	0	1	0	0
-RS04	Extinction_phase	32	1	0	0	0	1	0
-RS04	Extinction_phase	33	1	0	0	1	0	0
-RS04	Extinction_phase	34	1	0	0	1	0	0
-RS04	Extinction_phase	35	1	0	0	0	1	0
-RS04	Extinction_phase	36	1	0	1	0	0	0
-RS04	Extinction_phase	37	1	0	0	1	0	0
-RS04	Extinction_phase	38	1	0	0	1	0	0
-RS04	Extinction_phase	39	1	0	1	0	0	0
-RS04	Extinction_phase	40	1	0	0	0	1	0
-RS04	Extinction_phase	41	1	0	1	0	0	0
-RS04	Extinction_phase	42	1	0	1	0	0	0
-RS04	Extinction_phase	43	1	0	0	0	1	0
-RS04	Extinction_phase	44	1	0	0	1	0	0
-RS04	Extinction_phase	45	1	0	0	1	0	0
-RS04	Extinction_phase	46	1	0	0	1	0	0
-RS05	Pavlovian_phase	1	1	0	1	0	0	0
-RS05	Pavlovian_phase	2	1	0	0	1	0	1
-RS05	Pavlovian_phase	3	2	13	1	0	0	0
-RS05	Pavlovian_phase	4	1	0	0	1	0	1
-RS05	Pavlovian_phase	5	2	21	1	0	0	0
-RS05	Pavlovian_phase	6	2	8	1	0	0	0
-RS05	Pavlovian_phase	7	1	0	0	1	0	1
-RS05	Pavlovian_phase	8	1	0	0	1	0	1
-RS05	Pavlovian_phase	9	1	0	0	1	0	1
-RS05	Pavlovian_phase	10	1	0	0	0	1	0
-RS05	Pavlovian_phase	11	1	0	0	1	0	1
-RS05	Pavlovian_phase	12	1	0	0	0	1	0
-RS05	Pavlovian_phase	13	2	10	0	0	1	0
-RS05	Pavlovian_phase	14	2	15	1	0	0	0
-RS05	Pavlovian_phase	15	2	15	0	0	1	0
-RS05	Pavlovian_phase	16	1	0	0	1	0	1
-RS05	Pavlovian_phase	17	1	0	0	1	0	1
-RS05	Pavlovian_phase	18	2	19	1	0	0	0
-RS05	Pavlovian_phase	19	2	21	1	0	0	0
-RS05	Pavlovian_phase	20	1	0	0	1	0	1
-RS05	Pavlovian_phase	21	2	13	0	0	1	0
-RS05	Pavlovian_phase	22	2	21	0	0	1	0
-RS05	Pavlovian_phase	23	1	0	0	1	0	1
-RS05	Pavlovian_phase	24	1	0	0	1	0	1
-RS05	Pavlovian_phase	25	2	21	0	0	1	0
-RS05	Pavlovian_phase	26	2	9	1	0	0	0
-RS05	Pavlovian_phase	27	1	0	0	1	0	1
-RS05	Pavlovian_phase	28	1	0	0	0	1	0
-RS05	Extinction_phase	29	1	0	0	0	1	0
-RS05	Extinction_phase	30	1	0	1	0	0	0
-RS05	Extinction_phase	31	1	0	0	1	0	0
-RS05	Extinction_phase	32	1	0	0	1	0	0
-RS05	Extinction_phase	33	2	5	0	0	1	0
-RS05	Extinction_phase	34	2	13	0	0	1	0
-RS05	Extinction_phase	35	2	9	0	1	0	0
-RS05	Extinction_phase	36	1	0	1	0	0	0
-RS05	Extinction_phase	37	2	18	1	0	0	0
-RS05	Extinction_phase	38	1	0	0	1	0	0
-RS05	Extinction_phase	39	2	6	1	0	0	0
-RS05	Extinction_phase	40	1	0	0	1	0	0
-RS05	Extinction_phase	41	2	5	0	1	0	0
-RS05	Extinction_phase	42	2	7	0	0	1	0
-RS05	Extinction_phase	43	1	0	0	1	0	0
-RS05	Extinction_phase	44	1	0	0	0	1	0
-RS05	Extinction_phase	45	1	0	0	1	0	0
-RS05	Extinction_phase	46	1	0	1	0	0	0
-RS06	Pavlovian_phase	1	1	0	0	1	0	1
-RS06	Pavlovian_phase	2	1	0	0	1	0	1
-RS06	Pavlovian_phase	3	2	40	1	0	0	0
-RS06	Pavlovian_phase	4	2	55	1	0	0	0
-RS06	Pavlovian_phase	5	1	0	0	1	0	1
-RS06	Pavlovian_phase	6	2	63	1	0	0	0
-RS06	Pavlovian_phase	7	1	0	0	1	0	1
-RS06	Pavlovian_phase	8	2	66	1	0	0	0
-RS06	Pavlovian_phase	9	1	0	0	1	0	1
-RS06	Pavlovian_phase	10	1	0	0	0	1	0
-RS06	Pavlovian_phase	11	1	0	0	1	0	1
-RS06	Pavlovian_phase	12	2	62	0	0	1	0
-RS06	Pavlovian_phase	13	2	69	0	0	1	0
-RS06	Pavlovian_phase	14	2	69	1	0	0	0
-RS06	Pavlovian_phase	15	2	81	0	0	1	0
-RS06	Pavlovian_phase	16	2	86	1	0	0	0
-RS06	Pavlovian_phase	17	1	0	0	1	0	1
-RS06	Pavlovian_phase	18	1	0	0	1	0	1
-RS06	Pavlovian_phase	19	2	83	1	0	0	0
-RS06	Pavlovian_phase	20	2	50	1	0	0	0
-RS06	Pavlovian_phase	21	1	0	0	1	0	1
-RS06	Pavlovian_phase	22	2	40	0	0	1	0
-RS06	Pavlovian_phase	23	1	0	0	1	0	1
-RS06	Pavlovian_phase	24	2	30	0	0	1	0
-RS06	Pavlovian_phase	25	2	32	0	0	1	0
-RS06	Pavlovian_phase	26	1	0	0	1	0	1
-RS06	Pavlovian_phase	27	2	26	0	0	1	0
-RS06	Pavlovian_phase	28	1	0	0	1	0	1
-RS06	Extinction_phase	29	1	0	0	1	0	0
-RS06	Extinction_phase	30	1	0	1	0	0	0
-RS06	Extinction_phase	31	2	49	0	1	0	0
-RS06	Extinction_phase	32	2	31	0	1	0	0
-RS06	Extinction_phase	33	1	0	0	0	1	0
-RS06	Extinction_phase	34	2	32	0	0	1	0
-RS06	Extinction_phase	35	2	33	1	0	0	0
-RS06	Extinction_phase	36	2	31	1	0	0	0
-RS06	Extinction_phase	37	1	0	0	0	1	0
-RS06	Extinction_phase	38	1	0	1	0	0	0
-RS06	Extinction_phase	39	1	0	0	1	0	0
-RS06	Extinction_phase	40	1	0	0	1	0	0
-RS06	Extinction_phase	41	1	0	0	0	1	0
-RS06	Extinction_phase	42	1	0	1	0	0	0
-RS06	Extinction_phase	43	1	0	0	1	0	0
-RS06	Extinction_phase	44	1	0	0	1	0	0
-RS06	Extinction_phase	45	1	0	0	0	1	0
-RS06	Extinction_phase	46	1	0	0	1	0	0
-RS07	Pavlovian_phase	1	1	0	0	1	0	1
-RS07	Pavlovian_phase	2	2	9	1	0	0	0
-RS07	Pavlovian_phase	3	1	0	0	1	0	1
-RS07	Pavlovian_phase	4	2	30	1	0	0	0
-RS07	Pavlovian_phase	5	1	0	0	1	0	1
-RS07	Pavlovian_phase	6	2	33	1	0	0	0
-RS07	Pavlovian_phase	7	2	50	1	0	0	0
-RS07	Pavlovian_phase	8	2	6	0	1	0	1
-RS07	Pavlovian_phase	9	1	0	0	1	0	1
-RS07	Pavlovian_phase	10	1	0	0	1	0	1
-RS07	Pavlovian_phase	11	2	11	0	0	1	0
-RS07	Pavlovian_phase	12	2	41	0	0	1	0
-RS07	Pavlovian_phase	13	2	69	1	0	0	0
-RS07	Pavlovian_phase	14	2	53	0	0	1	0
-RS07	Pavlovian_phase	15	2	49	1	0	0	0
-RS07	Pavlovian_phase	16	1	0	0	1	0	1
-RS07	Pavlovian_phase	17	1	0	0	1	0	1
-RS07	Pavlovian_phase	18	2	62	1	0	0	0
-RS07	Pavlovian_phase	19	2	43	0	0	1	0
-RS07	Pavlovian_phase	20	1	0	0	1	0	1
-RS07	Pavlovian_phase	21	2	61	0	0	1	0
-RS07	Pavlovian_phase	22	2	78	0	0	1	0
-RS07	Pavlovian_phase	23	2	87	1	0	0	0
-RS07	Pavlovian_phase	24	1	0	0	1	0	1
-RS07	Pavlovian_phase	25	2	89	0	0	1	0
-RS07	Pavlovian_phase	26	1	0	0	1	0	1
-RS07	Pavlovian_phase	27	1	0	0	1	0	1
-RS07	Pavlovian_phase	28	2	92	0	0	1	0
-RS07	Extinction_phase	29	2	66	0	0	1	0
-RS07	Extinction_phase	30	2	89	0	0	1	0
-RS07	Extinction_phase	31	1	0	0	1	0	0
-RS07	Extinction_phase	32	1	0	0	1	0	0
-RS07	Extinction_phase	33	2	72	0	0	1	0
-RS07	Extinction_phase	34	1	0	1	0	0	0
-RS07	Extinction_phase	35	2	77	0	0	1	0
-RS07	Extinction_phase	36	2	13	0	1	0	0
-RS07	Extinction_phase	37	2	53	1	0	0	0
-RS07	Extinction_phase	38	2	71	1	0	0	0
-RS07	Extinction_phase	39	2	67	0	0	1	0
-RS07	Extinction_phase	40	2	34	0	1	0	0
-RS07	Extinction_phase	41	2	36	0	1	0	0
-RS07	Extinction_phase	42	2	60	1	0	0	0
-RS07	Extinction_phase	43	2	39	0	1	0	0
-RS07	Extinction_phase	44	2	62	1	0	0	0
-RS07	Extinction_phase	45	2	37	0	1	0	0
-RS07	Extinction_phase	46	2	42	0	1	0	0
-RS08	Pavlovian_phase	1	1	0	1	0	0	0
-RS08	Pavlovian_phase	2	1	0	0	1	0	1
-RS08	Pavlovian_phase	3	1	0	1	0	0	0
-RS08	Pavlovian_phase	4	1	0	0	1	0	1
-RS08	Pavlovian_phase	5	1	0	0	1	0	1
-RS08	Pavlovian_phase	6	1	0	1	0	0	0
-RS08	Pavlovian_phase	7	1	0	0	1	0	1
-RS08	Pavlovian_phase	8	1	0	1	0	0	0
-RS08	Pavlovian_phase	9	1	0	0	0	1	0
-RS08	Pavlovian_phase	10	1	0	0	1	0	1
-RS08	Pavlovian_phase	11	1	0	0	0	1	0
-RS08	Pavlovian_phase	12	1	0	0	1	0	1
-RS08	Pavlovian_phase	13	1	0	0	0	1	0
-RS08	Pavlovian_phase	14	1	0	1	0	0	0
-RS08	Pavlovian_phase	15	1	0	0	1	0	1
-RS08	Pavlovian_phase	16	2	50	0	0	1	0
-RS08	Pavlovian_phase	17	1	0	0	1	0	1
-RS08	Pavlovian_phase	18	2	50	1	0	0	0
-RS08	Pavlovian_phase	19	2	55	0	0	1	0
-RS08	Pavlovian_phase	20	2	66	0	0	1	0
-RS08	Pavlovian_phase	21	1	0	0	1	0	1
-RS08	Pavlovian_phase	22	1	0	0	1	0	1
-RS08	Pavlovian_phase	23	2	54	0	0	1	0
-RS08	Pavlovian_phase	24	1	0	0	1	0	1
-RS08	Pavlovian_phase	25	2	61	1	0	0	0
-RS08	Pavlovian_phase	26	1	0	0	1	0	1
-RS08	Pavlovian_phase	27	2	60	0	0	1	0
-RS08	Pavlovian_phase	28	2	58	1	0	0	0
-RS08	Extinction_phase	29	1	0	0	1	0	0
-RS08	Extinction_phase	30	1	0	0	1	0	0
-RS08	Extinction_phase	31	1	0	0	0	1	0
-RS08	Extinction_phase	32	1	0	0	0	1	0
-RS08	Extinction_phase	33	1	0	1	0	0	0
-RS08	Extinction_phase	34	1	0	0	1	0	0
-RS08	Extinction_phase	35	1	0	0	0	1	0
-RS08	Extinction_phase	36	1	0	0	0	1	0
-RS08	Extinction_phase	37	1	0	0	1	0	0
-RS08	Extinction_phase	38	1	0	0	1	0	0
-RS08	Extinction_phase	39	1	0	1	0	0	0
-RS08	Extinction_phase	40	1	0	1	0	0	0
-RS08	Extinction_phase	41	1	0	0	1	0	0
-RS08	Extinction_phase	42	1	0	0	1	0	0
-RS08	Extinction_phase	43	1	0	0	0	1	0
-RS08	Extinction_phase	44	1	0	0	1	0	0
-RS08	Extinction_phase	45	1	0	1	0	0	0
-RS08	Extinction_phase	46	1	0	1	0	0	0
-RS09	Pavlovian_phase	1	1	0	0	1	0	1
-RS09	Pavlovian_phase	2	1	0	1	0	0	0
-RS09	Pavlovian_phase	3	1	0	1	0	0	0
-RS09	Pavlovian_phase	4	1	0	0	1	0	1
-RS09	Pavlovian_phase	5	1	0	1	0	0	0
-RS09	Pavlovian_phase	6	1	0	0	1	0	1
-RS09	Pavlovian_phase	7	1	0	1	0	0	0
-RS09	Pavlovian_phase	8	1	0	0	1	0	1
-RS09	Pavlovian_phase	9	1	0	1	0	0	0
-RS09	Pavlovian_phase	10	1	0	0	1	0	1
-RS09	Pavlovian_phase	11	1	0	0	0	1	0
-RS09	Pavlovian_phase	12	1	0	0	0	1	0
-RS09	Pavlovian_phase	13	1	0	0	1	0	1
-RS09	Pavlovian_phase	14	1	0	0	1	0	1
-RS09	Pavlovian_phase	15	2	65	1	0	0	0
-RS09	Pavlovian_phase	16	1	0	0	1	0	1
-RS09	Pavlovian_phase	17	1	0	1	0	0	0
-RS09	Pavlovian_phase	18	1	0	0	1	0	1
-RS09	Pavlovian_phase	19	2	64	0	0	1	0
-RS09	Pavlovian_phase	20	2	68	0	0	1	0
-RS09	Pavlovian_phase	21	1	0	0	1	0	1
-RS09	Pavlovian_phase	22	1	0	0	1	0	1
-RS09	Pavlovian_phase	23	2	65	0	0	1	0
-RS09	Pavlovian_phase	24	2	61	0	0	1	0
-RS09	Pavlovian_phase	25	1	0	1	0	0	0
-RS09	Pavlovian_phase	26	2	64	0	0	1	0
-RS09	Pavlovian_phase	27	1	0	0	1	0	1
-RS09	Pavlovian_phase	28	2	66	0	0	1	0
-RS09	Extinction_phase	29	1	0	0	1	0	0
-RS09	Extinction_phase	30	1	0	0	0	1	0
-RS09	Extinction_phase	31	2	68	0	0	1	0
-RS09	Extinction_phase	32	1	0	1	0	0	0
-RS09	Extinction_phase	33	1	0	0	1	0	0
-RS09	Extinction_phase	34	1	0	0	0	1	0
-RS09	Extinction_phase	35	1	0	1	0	0	0
-RS09	Extinction_phase	36	1	0	0	1	0	0
-RS09	Extinction_phase	37	1	0	1	0	0	0
-RS09	Extinction_phase	38	1	0	0	1	0	0
-RS09	Extinction_phase	39	1	0	0	1	0	0
-RS09	Extinction_phase	40	1	0	1	0	0	0
-RS09	Extinction_phase	41	1	0	0	1	0	0
-RS09	Extinction_phase	42	1	0	1	0	0	0
-RS09	Extinction_phase	43	1	0	0	0	1	0
-RS09	Extinction_phase	44	1	0	0	1	0	0
-RS09	Extinction_phase	45	1	0	0	0	1	0
-RS09	Extinction_phase	46	1	0	0	1	0	0
-RS10	Pavlovian_phase	1	1	0	0	1	0	1
-RS10	Pavlovian_phase	2	1	0	1	0	0	0
-RS10	Pavlovian_phase	3	1	0	0	1	0	1
-RS10	Pavlovian_phase	4	2	37	1	0	0	0
-RS10	Pavlovian_phase	5	2	34	1	0	0	0
-RS10	Pavlovian_phase	6	1	0	0	1	0	1
-RS10	Pavlovian_phase	7	1	0	0	1	0	1
-RS10	Pavlovian_phase	8	2	46	1	0	0	0
-RS10	Pavlovian_phase	9	1	0	0	0	1	0
-RS10	Pavlovian_phase	10	1	0	0	1	0	1
-RS10	Pavlovian_phase	11	1	0	0	1	0	1
-RS10	Pavlovian_phase	12	2	30	1	0	0	0
-RS10	Pavlovian_phase	13	1	0	0	1	0	1
-RS10	Pavlovian_phase	14	2	20	0	0	1	0
-RS10	Pavlovian_phase	15	1	0	0	1	0	1
-RS10	Pavlovian_phase	16	1	0	0	1	0	1
-RS10	Pavlovian_phase	17	2	23	0	0	1	0
-RS10	Pavlovian_phase	18	2	31	1	0	0	0
-RS10	Pavlovian_phase	19	1	0	0	1	0	1
-RS10	Pavlovian_phase	20	1	0	0	1	0	1
-RS10	Pavlovian_phase	21	2	36	0	0	1	0
-RS10	Pavlovian_phase	22	1	0	0	1	0	1
-RS10	Pavlovian_phase	23	2	32	0	0	1	0
-RS10	Pavlovian_phase	24	1	0	0	0	1	0
-RS10	Pavlovian_phase	25	2	39	1	0	0	0
-RS10	Pavlovian_phase	26	2	30	0	0	1	0
-RS10	Pavlovian_phase	27	2	52	1	0	0	0
-RS10	Pavlovian_phase	28	2	32	0	0	1	0
-RS10	Extinction_phase	29	2	29	1	0	0	0
-RS10	Extinction_phase	30	2	19	0	0	1	0
-RS10	Extinction_phase	31	1	0	0	1	0	0
-RS10	Extinction_phase	32	2	45	1	0	0	0
-RS10	Extinction_phase	33	2	20	0	0	1	0
-RS10	Extinction_phase	34	2	8	0	1	0	0
-RS10	Extinction_phase	35	2	16	1	0	0	0
-RS10	Extinction_phase	36	2	16	0	1	0	0
-RS10	Extinction_phase	37	1	0	0	1	0	0
-RS10	Extinction_phase	38	1	0	1	0	0	0
-RS10	Extinction_phase	39	1	0	0	1	0	0
-RS10	Extinction_phase	40	1	0	0	0	1	0
-RS10	Extinction_phase	41	1	0	0	1	0	0
-RS10	Extinction_phase	42	1	0	1	0	0	0
-RS10	Extinction_phase	43	1	0	0	0	1	0
-RS10	Extinction_phase	44	1	0	0	0	1	0
-RS10	Extinction_phase	45	1	0	0	1	0	0
-RS10	Extinction_phase	46	1	0	0	1	0	0
-RS11	Pavlovian_phase	1	1	0	1	0	0	0
-RS11	Pavlovian_phase	2	1	0	0	1	0	1
-RS11	Pavlovian_phase	3	1	0	0	1	0	1
-RS11	Pavlovian_phase	4	2	57	1	0	0	0
-RS11	Pavlovian_phase	5	2	68	1	0	0	0
-RS11	Pavlovian_phase	6	1	0	0	1	0	1
-RS11	Pavlovian_phase	7	1	0	0	1	0	1
-RS11	Pavlovian_phase	8	2	46	1	0	0	0
-RS11	Pavlovian_phase	9	1	0	0	0	1	0
-RS11	Pavlovian_phase	10	2	44	0	0	1	0
-RS11	Pavlovian_phase	11	2	49	1	0	0	0
-RS11	Pavlovian_phase	12	2	48	0	0	1	0
-RS11	Pavlovian_phase	13	2	57	0	0	1	0
-RS11	Pavlovian_phase	14	1	0	0	1	0	1
-RS11	Pavlovian_phase	15	2	70	0	0	1	0
-RS11	Pavlovian_phase	16	1	0	0	1	0	1
-RS11	Pavlovian_phase	17	1	0	0	1	0	1
-RS11	Pavlovian_phase	18	2	60	1	0	0	0
-RS11	Pavlovian_phase	19	2	59	0	0	1	0
-RS11	Pavlovian_phase	20	1	0	0	1	0	1
-RS11	Pavlovian_phase	21	1	0	0	1	0	1
-RS11	Pavlovian_phase	22	2	59	1	0	0	0
-RS11	Pavlovian_phase	23	2	66	0	0	1	0
-RS11	Pavlovian_phase	24	1	0	0	1	0	1
-RS11	Pavlovian_phase	25	1	0	0	1	0	1
-RS11	Pavlovian_phase	26	2	56	0	0	1	0
-RS11	Pavlovian_phase	27	2	69	1	0	0	0
-RS11	Pavlovian_phase	28	1	0	0	1	0	1
-RS11	Extinction_phase	29	1	0	0	1	0	0
-RS11	Extinction_phase	30	2	56	1	0	0	0
-RS11	Extinction_phase	31	2	79	1	0	0	0
-RS11	Extinction_phase	32	2	74	0	1	0	0
-RS11	Extinction_phase	33	2	74	0	1	0	0
-RS11	Extinction_phase	34	1	0	0	0	1	0
-RS11	Extinction_phase	35	2	66	0	0	1	0
-RS11	Extinction_phase	36	2	66	0	1	0	0
-RS11	Extinction_phase	37	2	69	0	1	0	0
-RS11	Extinction_phase	38	2	70	0	0	1	0
-RS11	Extinction_phase	39	2	80	0	1	0	0
-RS11	Extinction_phase	40	2	76	0	1	0	0
-RS11	Extinction_phase	41	2	68	1	0	0	0
-RS11	Extinction_phase	42	2	62	1	0	0	0
-RS11	Extinction_phase	43	2	69	0	0	1	0
-RS11	Extinction_phase	44	2	65	1	0	0	0
-RS11	Extinction_phase	45	2	76	0	1	0	0
-RS11	Extinction_phase	46	2	57	0	0	1	0
-RS12	Pavlovian_phase	1	1	0	0	1	0	1
-RS12	Pavlovian_phase	2	1	0	1	0	0	0
-RS12	Pavlovian_phase	3	2	60	1	0	0	0
-RS12	Pavlovian_phase	4	1	0	0	1	0	1
-RS12	Pavlovian_phase	5	1	0	0	1	0	1
-RS12	Pavlovian_phase	6	2	63	1	0	0	0
-RS12	Pavlovian_phase	7	1	0	0	1	0	1
-RS12	Pavlovian_phase	8	2	75	1	0	0	0
-RS12	Pavlovian_phase	9	1	0	0	1	0	1
-RS12	Pavlovian_phase	10	1	0	0	1	0	1
-RS12	Pavlovian_phase	11	1	0	0	0	1	0
-RS12	Pavlovian_phase	12	1	0	0	1	0	1
-RS12	Pavlovian_phase	13	1	0	0	1	0	1
-RS12	Pavlovian_phase	14	2	56	0	0	1	0
-RS12	Pavlovian_phase	15	2	66	1	0	0	0
-RS12	Pavlovian_phase	16	1	0	0	1	0	1
-RS12	Pavlovian_phase	17	2	78	0	0	1	0
-RS12	Pavlovian_phase	18	2	70	1	0	0	0
-RS12	Pavlovian_phase	19	2	79	1	0	0	0
-RS12	Pavlovian_phase	20	2	74	0	0	1	0
-RS12	Pavlovian_phase	21	1	0	0	1	0	1
-RS12	Pavlovian_phase	22	2	76	1	0	0	0
-RS12	Pavlovian_phase	23	1	0	0	1	0	1
-RS12	Pavlovian_phase	24	2	72	0	0	1	0
-RS12	Pavlovian_phase	25	2	74	0	0	1	0
-RS12	Pavlovian_phase	26	1	0	0	1	0	1
-RS12	Pavlovian_phase	27	2	79	0	0	1	0
-RS12	Pavlovian_phase	28	2	89	0	0	1	0
-RS12	Extinction_phase	29	1	0	0	1	0	0
-RS12	Extinction_phase	30	1	0	1	0	0	0
-RS12	Extinction_phase	31	2	69	1	0	0	0
-RS12	Extinction_phase	32	2	78	0	1	0	0
-RS12	Extinction_phase	33	2	76	0	1	0	0
-RS12	Extinction_phase	34	1	0	0	0	1	0
-RS12	Extinction_phase	35	2	74	0	1	0	0
-RS12	Extinction_phase	36	2	81	0	0	1	0
-RS12	Extinction_phase	37	2	66	0	1	0	0
-RS12	Extinction_phase	38	2	63	0	1	0	0
-RS12	Extinction_phase	39	2	76	0	0	1	0
-RS12	Extinction_phase	40	2	79	0	0	1	0
-RS12	Extinction_phase	41	2	80	1	0	0	0
-RS12	Extinction_phase	42	2	71	0	0	1	0
-RS12	Extinction_phase	43	2	81	0	1	0	0
-RS12	Extinction_phase	44	2	79	1	0	0	0
-RS12	Extinction_phase	45	2	80	0	1	0	0
-RS12	Extinction_phase	46	2	77	1	0	0	0
-RS13	Pavlovian_phase	1	1	0	1	0	0	0
-RS13	Pavlovian_phase	2	1	0	0	1	0	1
-RS13	Pavlovian_phase	3	1	0	0	1	0	1
-RS13	Pavlovian_phase	4	1	0	1	0	0	0
-RS13	Pavlovian_phase	5	1	0	0	1	0	1
-RS13	Pavlovian_phase	6	1	0	0	0	1	0
-RS13	Pavlovian_phase	7	2	47	0	0	1	0
-RS13	Pavlovian_phase	8	2	14	0	1	0	1
-RS13	Pavlovian_phase	9	1	0	0	1	0	1
-RS13	Pavlovian_phase	10	1	0	1	0	0	0
-RS13	Pavlovian_phase	11	1	0	0	1	0	1
-RS13	Pavlovian_phase	12	1	0	0	0	1	0
-RS13	Pavlovian_phase	13	2	16	1	0	0	0
-RS13	Pavlovian_phase	14	1	0	0	1	0	1
-RS13	Pavlovian_phase	15	1	0	0	1	0	1
-RS13	Pavlovian_phase	16	1	0	0	0	1	0
-RS13	Pavlovian_phase	17	1	0	0	0	1	0
-RS13	Pavlovian_phase	18	1	0	0	1	0	1
-RS13	Pavlovian_phase	19	1	0	1	0	0	0
-RS13	Pavlovian_phase	20	2	25	0	0	1	0
-RS13	Pavlovian_phase	21	2	42	0	0	1	0
-RS13	Pavlovian_phase	22	1	0	1	0	0	0
-RS13	Pavlovian_phase	23	2	47	0	1	0	1
-RS13	Pavlovian_phase	24	1	0	1	0	0	0
-RS13	Pavlovian_phase	25	1	0	0	1	0	1
-RS13	Pavlovian_phase	26	1	0	0	1	0	1
-RS13	Pavlovian_phase	27	2	7	0	0	1	0
-RS13	Pavlovian_phase	28	2	4	1	0	0	0
-RS13	Extinction_phase	29	1	0	0	0	1	0
-RS13	Extinction_phase	30	1	0	1	0	0	0
-RS13	Extinction_phase	31	1	0	0	1	0	0
-RS13	Extinction_phase	32	2	50	0	0	1	0
-RS13	Extinction_phase	33	2	52	0	0	1	0
-RS13	Extinction_phase	34	1	0	0	1	0	0
-RS13	Extinction_phase	35	1	0	1	0	0	0
-RS13	Extinction_phase	36	1	0	0	1	0	0
-RS13	Extinction_phase	37	1	0	1	0	0	0
-RS13	Extinction_phase	38	2	16	0	1	0	0
-RS13	Extinction_phase	39	2	8	0	1	0	0
-RS13	Extinction_phase	40	2	45	0	0	1	0
-RS13	Extinction_phase	41	1	0	0	1	0	0
-RS13	Extinction_phase	42	1	0	1	0	0	0
-RS13	Extinction_phase	43	1	0	0	1	0	0
-RS13	Extinction_phase	44	1	0	0	0	1	0
-RS13	Extinction_phase	45	1	0	1	0	0	0
-RS13	Extinction_phase	46	1	0	0	1	0	0
-RS14	Pavlovian_phase	1	1	0	0	1	0	1
-RS14	Pavlovian_phase	2	1	0	0	1	0	1
-RS14	Pavlovian_phase	3	2	59	1	0	0	0
-RS14	Pavlovian_phase	4	2	56	1	0	0	0
-RS14	Pavlovian_phase	5	2	68	1	0	0	0
-RS14	Pavlovian_phase	6	1	0	0	1	0	1
-RS14	Pavlovian_phase	7	2	73	1	0	0	0
-RS14	Pavlovian_phase	8	1	0	0	1	0	1
-RS14	Pavlovian_phase	9	2	71	1	0	0	0
-RS14	Pavlovian_phase	10	2	60	0	0	1	0
-RS14	Pavlovian_phase	11	2	68	0	0	1	0
-RS14	Pavlovian_phase	12	2	69	1	0	0	0
-RS14	Pavlovian_phase	13	1	0	0	1	0	1
-RS14	Pavlovian_phase	14	2	60	0	0	1	0
-RS14	Pavlovian_phase	15	1	0	0	1	0	1
-RS14	Pavlovian_phase	16	2	66	0	0	1	0
-RS14	Pavlovian_phase	17	2	82	1	0	0	0
-RS14	Pavlovian_phase	18	1	0	0	1	0	1
-RS14	Pavlovian_phase	19	2	67	0	0	1	0
-RS14	Pavlovian_phase	20	1	0	0	1	0	1
-RS14	Pavlovian_phase	21	2	77	0	0	1	0
-RS14	Pavlovian_phase	22	1	0	0	1	0	1
-RS14	Pavlovian_phase	23	2	48	0	0	1	0
-RS14	Pavlovian_phase	24	1	0	0	1	0	1
-RS14	Pavlovian_phase	25	2	67	1	0	0	0
-RS14	Pavlovian_phase	26	1	0	0	1	0	1
-RS14	Pavlovian_phase	27	2	69	0	0	1	0
-RS14	Pavlovian_phase	28	1	0	0	1	0	1
-RS14	Extinction_phase	29	2	71	1	0	0	0
-RS14	Extinction_phase	30	2	74	0	0	1	0
-RS14	Extinction_phase	31	2	66	1	0	0	0
-RS14	Extinction_phase	32	1	0	0	1	0	0
-RS14	Extinction_phase	33	1	0	0	1	0	0
-RS14	Extinction_phase	34	2	71	0	0	1	0
-RS14	Extinction_phase	35	1	0	0	1	0	0
-RS14	Extinction_phase	36	2	73	1	0	0	0
-RS14	Extinction_phase	37	2	70	0	0	1	0
-RS14	Extinction_phase	38	1	0	0	1	0	0
-RS14	Extinction_phase	39	2	71	1	0	0	0
-RS14	Extinction_phase	40	1	0	0	1	0	0
-RS14	Extinction_phase	41	2	71	1	0	0	0
-RS14	Extinction_phase	42	1	0	0	1	0	0
-RS14	Extinction_phase	43	1	0	0	1	0	0
-RS14	Extinction_phase	44	2	69	0	0	1	0
-RS14	Extinction_phase	45	2	72	0	0	1	0
-RS14	Extinction_phase	46	1	0	0	1	0	0
-RS15	Pavlovian_phase	1	1	0	0	1	0	1
-RS15	Pavlovian_phase	2	1	0	0	1	0	1
-RS15	Pavlovian_phase	3	2	80	1	0	0	0
-RS15	Pavlovian_phase	4	2	66	1	0	0	0
-RS15	Pavlovian_phase	5	2	60	1	0	0	0
-RS15	Pavlovian_phase	6	2	49	0	0	1	0
-RS15	Pavlovian_phase	7	2	77	1	0	0	0
-RS15	Pavlovian_phase	8	1	0	0	1	0	1
-RS15	Pavlovian_phase	9	1	0	0	1	0	1
-RS15	Pavlovian_phase	10	2	61	0	0	1	0
-RS15	Pavlovian_phase	11	1	0	0	1	0	1
-RS15	Pavlovian_phase	12	1	0	0	1	0	1
-RS15	Pavlovian_phase	13	2	87	0	0	1	0
-RS15	Pavlovian_phase	14	2	39	0	0	1	0
-RS15	Pavlovian_phase	15	2	54	1	0	0	0
-RS15	Pavlovian_phase	16	1	0	0	1	0	1
-RS15	Pavlovian_phase	17	1	0	0	1	0	1
-RS15	Pavlovian_phase	18	2	67	0	0	1	0
-RS15	Pavlovian_phase	19	1	0	0	1	0	1
-RS15	Pavlovian_phase	20	2	44	1	0	0	0
-RS15	Pavlovian_phase	21	1	0	0	0	1	0
-RS15	Pavlovian_phase	22	1	0	0	1	0	1
-RS15	Pavlovian_phase	23	2	73	0	0	1	0
-RS15	Pavlovian_phase	24	1	0	1	0	0	0
-RS15	Pavlovian_phase	25	2	69	1	0	0	0
-RS15	Pavlovian_phase	26	2	92	0	0	1	0
-RS15	Pavlovian_phase	27	1	0	0	1	0	1
-RS15	Pavlovian_phase	28	1	0	0	1	0	1
-RS15	Extinction_phase	29	1	0	0	0	1	0
-RS15	Extinction_phase	30	2	75	0	1	0	0
-RS15	Extinction_phase	31	1	0	1	0	0	0
-RS15	Extinction_phase	32	2	74	0	1	0	0
-RS15	Extinction_phase	33	2	87	0	0	1	0
-RS15	Extinction_phase	34	1	0	1	0	0	0
-RS15	Extinction_phase	35	1	0	0	1	0	0
-RS15	Extinction_phase	36	1	0	1	0	0	0
-RS15	Extinction_phase	37	1	0	0	0	1	0
-RS15	Extinction_phase	38	1	0	0	1	0	0
-RS15	Extinction_phase	39	1	0	0	1	0	0
-RS15	Extinction_phase	40	1	0	0	0	1	0
-RS15	Extinction_phase	41	1	0	0	1	0	0
-RS15	Extinction_phase	42	1	0	0	1	0	0
-RS15	Extinction_phase	43	1	0	0	0	1	0
-RS15	Extinction_phase	44	1	0	1	0	0	0
-RS15	Extinction_phase	45	1	0	0	1	0	0
-RS15	Extinction_phase	46	1	0	1	0	0	0
-RS16	Pavlovian_phase	1	2	23	0	1	0	1
-RS16	Pavlovian_phase	2	2	13	1	0	0	0
-RS16	Pavlovian_phase	3	2	8	0	1	0	1
-RS16	Pavlovian_phase	4	2	36	1	0	0	0
-RS16	Pavlovian_phase	5	1	0	0	1	0	1
-RS16	Pavlovian_phase	6	1	0	0	1	0	1
-RS16	Pavlovian_phase	7	2	66	1	0	0	0
-RS16	Pavlovian_phase	8	2	50	1	0	0	0
-RS16	Pavlovian_phase	9	2	24	0	0	1	0
-RS16	Pavlovian_phase	10	2	50	1	0	0	0
-RS16	Pavlovian_phase	11	1	0	0	1	0	1
-RS16	Pavlovian_phase	12	2	54	0	0	1	0
-RS16	Pavlovian_phase	13	2	59	0	0	1	0
-RS16	Pavlovian_phase	14	2	56	1	0	0	0
-RS16	Pavlovian_phase	15	1	0	0	1	0	1
-RS16	Pavlovian_phase	16	1	0	0	1	0	1
-RS16	Pavlovian_phase	17	2	48	0	0	1	0
-RS16	Pavlovian_phase	18	1	0	0	1	0	1
-RS16	Pavlovian_phase	19	2	38	0	0	1	0
-RS16	Pavlovian_phase	20	2	36	0	0	1	0
-RS16	Pavlovian_phase	21	1	0	0	1	0	1
-RS16	Pavlovian_phase	22	1	0	0	1	0	1
-RS16	Pavlovian_phase	23	2	31	0	0	1	0
-RS16	Pavlovian_phase	24	2	31	1	0	0	0
-RS16	Pavlovian_phase	25	1	0	0	1	0	1
-RS16	Pavlovian_phase	26	2	28	1	0	0	0
-RS16	Pavlovian_phase	27	1	0	0	1	0	1
-RS16	Pavlovian_phase	28	2	26	0	0	1	0
-RS16	Extinction_phase	29	2	13	0	0	1	0
-RS16	Extinction_phase	30	1	0	0	1	0	0
-RS16	Extinction_phase	31	2	16	1	0	0	0
-RS16	Extinction_phase	32	2	16	0	1	0	0
-RS16	Extinction_phase	33	2	36	0	1	0	0
-RS16	Extinction_phase	34	2	20	0	0	1	0
-RS16	Extinction_phase	35	2	36	0	1	0	0
-RS16	Extinction_phase	36	2	14	0	1	0	0
-RS16	Extinction_phase	37	2	13	1	0	0	0
-RS16	Extinction_phase	38	2	16	0	1	0	0
-RS16	Extinction_phase	39	2	11	0	1	0	0
-RS16	Extinction_phase	40	2	11	0	0	1	0
-RS16	Extinction_phase	41	2	11	1	0	0	0
-RS16	Extinction_phase	42	2	14	1	0	0	0
-RS16	Extinction_phase	43	2	10	0	0	1	0
-RS16	Extinction_phase	44	1	0	0	0	1	0
-RS16	Extinction_phase	45	1	0	0	1	0	0
-RS16	Extinction_phase	46	1	0	1	0	0	0
-RS17	Pavlovian_phase	1	1	0	0	1	0	1
-RS17	Pavlovian_phase	2	1	0	1	0	0	0
-RS17	Pavlovian_phase	3	2	64	1	0	0	0
-RS17	Pavlovian_phase	4	1	0	0	1	0	1
-RS17	Pavlovian_phase	5	1	0	0	1	0	1
-RS17	Pavlovian_phase	6	1	0	0	0	1	0
-RS17	Pavlovian_phase	7	2	68	1	0	0	0
-RS17	Pavlovian_phase	8	1	0	0	1	0	1
-RS17	Pavlovian_phase	9	2	59	0	0	1	0
-RS17	Pavlovian_phase	10	1	0	0	1	0	1
-RS17	Pavlovian_phase	11	2	67	0	0	1	0
-RS17	Pavlovian_phase	12	1	0	0	1	0	1
-RS17	Pavlovian_phase	13	2	57	0	0	1	0
-RS17	Pavlovian_phase	14	2	58	1	0	0	0
-RS17	Pavlovian_phase	15	1	0	0	1	0	1
-RS17	Pavlovian_phase	16	2	58	0	0	1	0
-RS17	Pavlovian_phase	17	2	57	0	0	1	0
-RS17	Pavlovian_phase	18	1	0	0	1	0	1
-RS17	Pavlovian_phase	19	2	57	1	0	0	0
-RS17	Pavlovian_phase	20	2	57	0	0	1	0
-RS17	Pavlovian_phase	21	2	57	0	0	1	0
-RS17	Pavlovian_phase	22	1	0	0	1	0	1
-RS17	Pavlovian_phase	23	2	53	1	0	0	0
-RS17	Pavlovian_phase	24	1	0	0	1	0	1
-RS17	Pavlovian_phase	25	2	51	1	0	0	0
-RS17	Pavlovian_phase	26	1	0	0	1	0	1
-RS17	Pavlovian_phase	27	1	0	0	1	0	1
-RS17	Pavlovian_phase	28	2	50	1	0	0	0
-RS17	Extinction_phase	29	1	0	0	1	0	0
-RS17	Extinction_phase	30	1	0	0	1	0	0
-RS17	Extinction_phase	31	1	0	1	0	0	0
-RS17	Extinction_phase	32	2	31	1	0	0	0
-RS17	Extinction_phase	33	1	0	0	0	1	0
-RS17	Extinction_phase	34	1	0	0	0	1	0
-RS17	Extinction_phase	35	2	29	1	0	0	0
-RS17	Extinction_phase	36	2	29	0	1	0	0
-RS17	Extinction_phase	37	2	25	0	0	1	0
-RS17	Extinction_phase	38	2	31	0	1	0	0
-RS17	Extinction_phase	39	2	30	1	0	0	0
-RS17	Extinction_phase	40	2	28	0	1	0	0
-RS17	Extinction_phase	41	1	0	0	1	0	0
-RS17	Extinction_phase	42	1	0	0	0	1	0
-RS17	Extinction_phase	43	1	0	1	0	0	0
-RS17	Extinction_phase	44	1	0	0	1	0	0
-RS17	Extinction_phase	45	1	0	0	1	0	0
-RS17	Extinction_phase	46	1	0	0	0	1	0
-RS18	Pavlovian_phase	1	1	0	0	1	0	1
-RS18	Pavlovian_phase	2	1	0	1	0	0	0
-RS18	Pavlovian_phase	3	1	0	0	1	0	1
-RS18	Pavlovian_phase	4	2	62	1	0	0	0
-RS18	Pavlovian_phase	5	1	0	0	1	0	1
-RS18	Pavlovian_phase	6	2	59	0	0	1	0
-RS18	Pavlovian_phase	7	1	0	0	1	0	1
-RS18	Pavlovian_phase	8	2	75	1	0	0	0
-RS18	Pavlovian_phase	9	1	0	0	1	0	1
-RS18	Pavlovian_phase	10	1	0	0	0	1	0
-RS18	Pavlovian_phase	11	2	56	0	0	1	0
-RS18	Pavlovian_phase	12	1	0	0	1	0	1
-RS18	Pavlovian_phase	13	1	0	0	1	0	1
-RS18	Pavlovian_phase	14	2	79	1	0	0	0
-RS18	Pavlovian_phase	15	1	0	0	1	0	1
-RS18	Pavlovian_phase	16	1	0	0	1	0	1
-RS18	Pavlovian_phase	17	2	84	1	0	0	0
-RS18	Pavlovian_phase	18	2	68	0	0	1	0
-RS18	Pavlovian_phase	19	1	0	0	0	1	0
-RS18	Pavlovian_phase	20	2	73	1	0	0	0
-RS18	Pavlovian_phase	21	1	0	0	1	0	1
-RS18	Pavlovian_phase	22	2	59	1	0	0	0
-RS18	Pavlovian_phase	23	1	0	0	1	0	1
-RS18	Pavlovian_phase	24	2	68	0	0	1	0
-RS18	Pavlovian_phase	25	2	60	1	0	0	0
-RS18	Pavlovian_phase	26	2	70	0	0	1	0
-RS18	Pavlovian_phase	27	2	67	0	0	1	0
-RS18	Pavlovian_phase	28	1	0	0	1	0	1
-RS18	Extinction_phase	29	1	0	1	0	0	0
-RS18	Extinction_phase	30	2	53	1	0	0	0
-RS18	Extinction_phase	31	1	0	0	1	0	0
-RS18	Extinction_phase	32	2	72	1	0	0	0
-RS18	Extinction_phase	33	1	0	0	0	1	0
-RS18	Extinction_phase	34	1	0	1	0	0	0
-RS18	Extinction_phase	35	2	54	0	1	0	0
-RS18	Extinction_phase	36	1	0	0	1	0	0
-RS18	Extinction_phase	37	1	0	0	0	1	0
-RS18	Extinction_phase	38	2	55	0	1	0	0
-RS18	Extinction_phase	39	2	64	0	1	0	0
-RS18	Extinction_phase	40	1	0	1	0	0	0
-RS18	Extinction_phase	41	2	57	0	1	0	0
-RS18	Extinction_phase	42	1	0	0	0	1	0
-RS18	Extinction_phase	43	2	56	0	1	0	0
-RS18	Extinction_phase	44	1	0	0	0	1	0
-RS18	Extinction_phase	45	2	53	0	1	0	0
-RS18	Extinction_phase	46	1	0	0	0	1	0
-RS19	Pavlovian_phase	1	1	0	1	0	0	0
-RS19	Pavlovian_phase	2	1	0	0	1	0	1
-RS19	Pavlovian_phase	3	2	58	1	0	0	0
-RS19	Pavlovian_phase	4	1	0	0	1	0	1
-RS19	Pavlovian_phase	5	2	67	1	0	0	0
-RS19	Pavlovian_phase	6	1	0	0	1	0	1
-RS19	Pavlovian_phase	7	1	0	0	1	0	1
-RS19	Pavlovian_phase	8	2	74	1	0	0	0
-RS19	Pavlovian_phase	9	1	0	0	1	0	1
-RS19	Pavlovian_phase	10	1	0	0	1	0	1
-RS19	Pavlovian_phase	11	2	87	1	0	0	0
-RS19	Pavlovian_phase	12	1	0	0	0	1	0
-RS19	Pavlovian_phase	13	1	0	0	0	1	0
-RS19	Pavlovian_phase	14	1	0	0	1	0	1
-RS19	Pavlovian_phase	15	1	0	0	1	0	1
-RS19	Pavlovian_phase	16	2	91	1	0	0	0
-RS19	Pavlovian_phase	17	2	69	0	0	1	0
-RS19	Pavlovian_phase	18	2	87	0	0	1	0
-RS19	Pavlovian_phase	19	1	0	0	1	0	1
-RS19	Pavlovian_phase	20	2	80	0	0	1	0
-RS19	Pavlovian_phase	21	1	0	0	1	0	1
-RS19	Pavlovian_phase	22	2	90	0	0	1	0
-RS19	Pavlovian_phase	23	1	0	0	1	0	1
-RS19	Pavlovian_phase	24	2	96	1	0	0	0
-RS19	Pavlovian_phase	25	1	0	0	1	0	1
-RS19	Pavlovian_phase	26	2	89	0	0	1	0
-RS19	Pavlovian_phase	27	2	91	0	0	1	0
-RS19	Pavlovian_phase	28	2	99	1	0	0	0
-RS19	Extinction_phase	29	1	0	0	1	0	0
-RS19	Extinction_phase	30	2	98	1	0	0	0
-RS19	Extinction_phase	31	2	90	0	0	1	0
-RS19	Extinction_phase	32	1	0	0	1	0	0
-RS19	Extinction_phase	33	2	92	1	0	0	0
-RS19	Extinction_phase	34	2	71	1	0	0	0
-RS19	Extinction_phase	35	2	46	0	1	0	0
-RS19	Extinction_phase	36	2	98	1	0	0	0
-RS19	Extinction_phase	37	2	98	1	0	0	0
-RS19	Extinction_phase	38	2	86	0	0	1	0
-RS19	Extinction_phase	39	2	92	0	0	1	0
-RS19	Extinction_phase	40	2	74	0	1	0	0
-RS19	Extinction_phase	41	2	87	0	1	0	0
-RS19	Extinction_phase	42	2	96	0	0	1	0
-RS19	Extinction_phase	43	2	89	0	1	0	0
-RS19	Extinction_phase	44	2	97	0	0	1	0
-RS19	Extinction_phase	45	2	91	0	1	0	0
-RS19	Extinction_phase	46	2	89	0	1	0	0
-RS20	Pavlovian_phase	1	1	0	0	1	0	1
-RS20	Pavlovian_phase	2	2	38	1	0	0	0
-RS20	Pavlovian_phase	3	1	0	0	1	0	1
-RS20	Pavlovian_phase	4	2	16	1	0	0	0
-RS20	Pavlovian_phase	5	2	12	1	0	0	0
-RS20	Pavlovian_phase	6	1	0	0	0	1	0
-RS20	Pavlovian_phase	7	1	0	0	1	0	1
-RS20	Pavlovian_phase	8	2	14	1	0	0	0
-RS20	Pavlovian_phase	9	2	16	1	0	0	0
-RS20	Pavlovian_phase	10	2	21	0	0	1	0
-RS20	Pavlovian_phase	11	1	0	0	1	0	1
-RS20	Pavlovian_phase	12	1	0	0	1	0	1
-RS20	Pavlovian_phase	13	2	27	1	0	0	0
-RS20	Pavlovian_phase	14	2	31	0	0	1	0
-RS20	Pavlovian_phase	15	1	0	0	1	0	1
-RS20	Pavlovian_phase	16	1	0	0	1	0	1
-RS20	Pavlovian_phase	17	2	26	1	0	0	0
-RS20	Pavlovian_phase	18	2	35	0	0	1	0
-RS20	Pavlovian_phase	19	2	36	0	0	1	0
-RS20	Pavlovian_phase	20	1	0	0	1	0	1
-RS20	Pavlovian_phase	21	2	33	0	0	1	0
-RS20	Pavlovian_phase	22	2	24	0	0	1	0
-RS20	Pavlovian_phase	23	2	29	1	0	0	0
-RS20	Pavlovian_phase	24	1	0	0	1	0	1
-RS20	Pavlovian_phase	25	2	30	0	0	1	0
-RS20	Pavlovian_phase	26	1	0	0	1	0	1
-RS20	Pavlovian_phase	27	1	0	0	1	0	1
-RS20	Pavlovian_phase	28	1	0	0	1	0	1
-RS20	Extinction_phase	29	2	33	0	0	1	0
-RS20	Extinction_phase	30	1	0	0	1	0	0
-RS20	Extinction_phase	31	2	16	1	0	0	0
-RS20	Extinction_phase	32	2	47	0	0	1	0
-RS20	Extinction_phase	33	2	30	1	0	0	0
-RS20	Extinction_phase	34	1	0	0	1	0	0
-RS20	Extinction_phase	35	2	44	0	0	1	0
-RS20	Extinction_phase	36	2	27	1	0	0	0
-RS20	Extinction_phase	37	1	0	0	1	0	0
-RS20	Extinction_phase	38	2	18	1	0	0	0
-RS20	Extinction_phase	39	1	0	0	1	0	0
-RS20	Extinction_phase	40	2	20	0	0	1	0
-RS20	Extinction_phase	41	1	0	0	1	0	0
-RS20	Extinction_phase	42	1	0	0	1	0	0
-RS20	Extinction_phase	43	1	0	1	0	0	0
-RS20	Extinction_phase	44	1	0	0	1	0	0
-RS20	Extinction_phase	45	1	0	0	0	1	0
-RS20	Extinction_phase	46	1	0	0	1	0	0
-RS21	Pavlovian_phase	1	2	58	1	0	0	0
-RS21	Pavlovian_phase	2	2	47	1	0	0	0
-RS21	Pavlovian_phase	3	1	0	0	1	0	1
-RS21	Pavlovian_phase	4	1	0	0	1	0	1
-RS21	Pavlovian_phase	5	2	44	0	0	1	0
-RS21	Pavlovian_phase	6	1	0	0	1	0	1
-RS21	Pavlovian_phase	7	1	0	0	1	0	1
-RS21	Pavlovian_phase	8	2	54	0	0	1	0
-RS21	Pavlovian_phase	9	2	49	0	0	1	0
-RS21	Pavlovian_phase	10	2	51	1	0	0	0
-RS21	Pavlovian_phase	11	1	0	0	1	0	1
-RS21	Pavlovian_phase	12	2	56	1	0	0	0
-RS21	Pavlovian_phase	13	1	0	0	1	0	1
-RS21	Pavlovian_phase	14	1	0	0	1	0	1
-RS21	Pavlovian_phase	15	2	52	0	0	1	0
-RS21	Pavlovian_phase	16	2	50	0	0	1	0
-RS21	Pavlovian_phase	17	2	55	1	0	0	0
-RS21	Pavlovian_phase	18	1	0	0	1	0	1
-RS21	Pavlovian_phase	19	2	55	0	0	1	0
-RS21	Pavlovian_phase	20	1	0	0	1	0	1
-RS21	Pavlovian_phase	21	1	0	0	1	0	1
-RS21	Pavlovian_phase	22	2	52	1	0	0	0
-RS21	Pavlovian_phase	23	2	57	1	0	0	0
-RS21	Pavlovian_phase	24	1	0	0	1	0	1
-RS21	Pavlovian_phase	25	1	0	0	1	0	1
-RS21	Pavlovian_phase	26	2	54	0	0	1	0
-RS21	Pavlovian_phase	27	2	58	0	0	1	0
-RS21	Pavlovian_phase	28	2	57	1	0	0	0
-RS21	Extinction_phase	29	1	0	0	1	0	0
-RS21	Extinction_phase	30	1	0	0	0	1	0
-RS21	Extinction_phase	31	2	56	0	0	1	0
-RS21	Extinction_phase	32	1	0	1	0	0	0
-RS21	Extinction_phase	33	1	0	1	0	0	0
-RS21	Extinction_phase	34	2	61	0	1	0	0
-RS21	Extinction_phase	35	2	59	1	0	0	0
-RS21	Extinction_phase	36	2	60	0	1	0	0
-RS21	Extinction_phase	37	2	60	0	0	1	0
-RS21	Extinction_phase	38	2	60	1	0	0	0
-RS21	Extinction_phase	39	2	61	1	0	0	0
-RS21	Extinction_phase	40	2	62	0	1	0	0
-RS21	Extinction_phase	41	2	62	0	1	0	0
-RS21	Extinction_phase	42	2	57	0	0	1	0
-RS21	Extinction_phase	43	2	57	0	1	0	0
-RS21	Extinction_phase	44	2	59	0	1	0	0
-RS21	Extinction_phase	45	2	45	0	0	1	0
-RS21	Extinction_phase	46	2	52	0	1	0	0
-RS22	Pavlovian_phase	1	1	0	1	0	0	0
-RS22	Pavlovian_phase	2	2	54	1	0	0	0
-RS22	Pavlovian_phase	3	1	0	0	1	0	1
-RS22	Pavlovian_phase	4	1	0	0	1	0	1
-RS22	Pavlovian_phase	5	1	0	1	0	0	0
-RS22	Pavlovian_phase	6	1	0	0	0	1	0
-RS22	Pavlovian_phase	7	1	0	0	1	0	1
-RS22	Pavlovian_phase	8	2	40	1	0	0	0
-RS22	Pavlovian_phase	9	1	0	0	1	0	1
-RS22	Pavlovian_phase	10	1	0	0	0	1	0
-RS22	Pavlovian_phase	11	2	66	1	0	0	0
-RS22	Pavlovian_phase	12	1	0	0	1	0	1
-RS22	Pavlovian_phase	13	2	58	0	0	1	0
-RS22	Pavlovian_phase	14	2	61	0	0	1	0
-RS22	Pavlovian_phase	15	1	0	0	1	0	1
-RS22	Pavlovian_phase	16	2	69	1	0	0	0
-RS22	Pavlovian_phase	17	1	0	0	1	0	1
-RS22	Pavlovian_phase	18	1	0	0	1	0	1
-RS22	Pavlovian_phase	19	2	73	0	0	1	0
-RS22	Pavlovian_phase	20	2	65	0	0	1	0
-RS22	Pavlovian_phase	21	2	71	1	0	0	0
-RS22	Pavlovian_phase	22	1	0	0	1	0	1
-RS22	Pavlovian_phase	23	1	0	0	1	0	1
-RS22	Pavlovian_phase	24	2	77	0	0	1	0
-RS22	Pavlovian_phase	25	2	65	0	0	1	0
-RS22	Pavlovian_phase	26	1	0	0	1	0	1
-RS22	Pavlovian_phase	27	1	0	0	1	0	1
-RS22	Pavlovian_phase	28	2	74	1	0	0	0
-RS22	Extinction_phase	29	1	0	0	1	0	0
-RS22	Extinction_phase	30	2	70	0	1	0	0
-RS22	Extinction_phase	31	2	74	1	0	0	0
-RS22	Extinction_phase	32	2	71	0	1	0	0
-RS22	Extinction_phase	33	2	64	1	0	0	0
-RS22	Extinction_phase	34	2	60	0	1	0	0
-RS22	Extinction_phase	35	1	0	0	0	1	0
-RS22	Extinction_phase	36	2	64	0	0	1	0
-RS22	Extinction_phase	37	2	63	0	1	0	0
-RS22	Extinction_phase	38	2	64	1	0	0	0
-RS22	Extinction_phase	39	2	66	1	0	0	0
-RS22	Extinction_phase	40	2	52	0	0	1	0
-RS22	Extinction_phase	41	1	0	0	0	1	0
-RS22	Extinction_phase	42	1	0	0	1	0	0
-RS22	Extinction_phase	43	1	0	1	0	0	0
-RS22	Extinction_phase	44	1	0	0	1	0	0
-RS22	Extinction_phase	45	1	0	0	0	1	0
-RS22	Extinction_phase	46	1	0	0	1	0	0
-RS23	Pavlovian_phase	1	1	0	1	0	0	0
-RS23	Pavlovian_phase	2	2	78	1	0	0	0
-RS23	Pavlovian_phase	3	1	0	0	1	0	1
-RS23	Pavlovian_phase	4	1	0	0	1	0	1
-RS23	Pavlovian_phase	5	1	0	0	0	1	0
-RS23	Pavlovian_phase	6	1	0	0	1	0	1
-RS23	Pavlovian_phase	7	2	90	1	0	0	0
-RS23	Pavlovian_phase	8	1	0	0	1	0	1
-RS23	Pavlovian_phase	9	2	92	0	0	1	0
-RS23	Pavlovian_phase	10	1	0	0	1	0	1
-RS23	Pavlovian_phase	11	1	0	0	1	0	1
-RS23	Pavlovian_phase	12	2	100	0	0	1	0
-RS23	Pavlovian_phase	13	1	0	0	1	0	1
-RS23	Pavlovian_phase	14	1	0	0	1	0	1
-RS23	Pavlovian_phase	15	2	100	1	0	0	0
-RS23	Pavlovian_phase	16	2	99	0	0	1	0
-RS23	Pavlovian_phase	17	2	98	0	0	1	0
-RS23	Pavlovian_phase	18	1	0	0	1	0	1
-RS23	Pavlovian_phase	19	2	91	1	0	0	0
-RS23	Pavlovian_phase	20	2	96	1	0	0	0
-RS23	Pavlovian_phase	21	1	0	0	1	0	1
-RS23	Pavlovian_phase	22	2	97	0	0	1	0
-RS23	Pavlovian_phase	23	1	0	0	1	0	1
-RS23	Pavlovian_phase	24	2	97	1	0	0	0
-RS23	Pavlovian_phase	25	1	0	0	1	0	1
-RS23	Pavlovian_phase	26	2	95	1	0	0	0
-RS23	Pavlovian_phase	27	2	99	0	0	1	0
-RS23	Pavlovian_phase	28	2	96	0	0	1	0
-RS23	Extinction_phase	29	2	58	0	0	1	0
-RS23	Extinction_phase	30	1	0	0	1	0	0
-RS23	Extinction_phase	31	2	54	0	1	0	0
-RS23	Extinction_phase	32	2	91	0	0	1	0
-RS23	Extinction_phase	33	2	87	0	0	1	0
-RS23	Extinction_phase	34	2	88	0	1	0	0
-RS23	Extinction_phase	35	1	0	1	0	0	0
-RS23	Extinction_phase	36	2	51	1	0	0	0
-RS23	Extinction_phase	37	2	71	0	0	1	0
-RS23	Extinction_phase	38	1	0	1	0	0	0
-RS23	Extinction_phase	39	1	0	0	1	0	0
-RS23	Extinction_phase	40	1	0	1	0	0	0
-RS23	Extinction_phase	41	1	0	0	1	0	0
-RS23	Extinction_phase	42	1	0	0	1	0	0
-RS23	Extinction_phase	43	1	0	0	0	1	0
-RS23	Extinction_phase	44	1	0	0	1	0	0
-RS23	Extinction_phase	45	1	0	1	0	0	0
-RS23	Extinction_phase	46	1	0	0	1	0	0
-RS24	Pavlovian_phase	1	2	61	1	0	0	0
-RS24	Pavlovian_phase	2	1	0	0	1	0	1
-RS24	Pavlovian_phase	3	1	0	0	1	0	1
-RS24	Pavlovian_phase	4	2	68	1	0	0	0
-RS24	Pavlovian_phase	5	2	84	1	0	0	0
-RS24	Pavlovian_phase	6	2	88	1	0	0	0
-RS24	Pavlovian_phase	7	1	0	0	1	0	1
-RS24	Pavlovian_phase	8	1	0	0	1	0	1
-RS24	Pavlovian_phase	9	2	54	0	0	1	0
-RS24	Pavlovian_phase	10	1	0	0	1	0	1
-RS24	Pavlovian_phase	11	1	0	0	1	0	1
-RS24	Pavlovian_phase	12	2	68	0	0	1	0
-RS24	Pavlovian_phase	13	2	88	0	0	1	0
-RS24	Pavlovian_phase	14	2	80	1	0	0	0
-RS24	Pavlovian_phase	15	2	79	0	0	1	0
-RS24	Pavlovian_phase	16	1	0	0	1	0	1
-RS24	Pavlovian_phase	17	1	0	0	1	0	1
-RS24	Pavlovian_phase	18	2	82	0	0	1	0
-RS24	Pavlovian_phase	19	2	64	0	0	1	0
-RS24	Pavlovian_phase	20	1	0	0	1	0	1
-RS24	Pavlovian_phase	21	2	93	1	0	0	0
-RS24	Pavlovian_phase	22	2	93	1	0	0	0
-RS24	Pavlovian_phase	23	1	0	0	1	0	1
-RS24	Pavlovian_phase	24	2	59	0	0	1	0
-RS24	Pavlovian_phase	25	1	0	0	1	0	1
-RS24	Pavlovian_phase	26	2	96	1	0	0	0
-RS24	Pavlovian_phase	27	1	0	0	1	0	1
-RS24	Pavlovian_phase	28	2	76	0	0	1	0
-RS24	Extinction_phase	29	1	0	0	1	0	0
-RS24	Extinction_phase	30	1	0	0	0	1	0
-RS24	Extinction_phase	31	2	48	0	0	1	0
-RS24	Extinction_phase	32	2	52	0	1	0	0
-RS24	Extinction_phase	33	2	65	0	0	1	0
-RS24	Extinction_phase	34	1	0	1	0	0	0
-RS24	Extinction_phase	35	1	0	0	0	1	0
-RS24	Extinction_phase	36	1	0	0	1	0	0
-RS24	Extinction_phase	37	1	0	1	0	0	0
-RS24	Extinction_phase	38	1	0	1	0	0	0
-RS24	Extinction_phase	39	1	0	0	1	0	0
-RS24	Extinction_phase	40	1	0	0	1	0	0
-RS24	Extinction_phase	41	1	0	0	0	1	0
-RS24	Extinction_phase	42	2	51	1	0	0	0
-RS24	Extinction_phase	43	2	49	0	1	0	0
-RS24	Extinction_phase	44	2	50	0	1	0	0
-RS24	Extinction_phase	45	1	0	1	0	0	0
-RS24	Extinction_phase	46	2	49	0	1	0	0
-RS25	Pavlovian_phase	1	1	0	0	1	0	1
-RS25	Pavlovian_phase	2	2	88	1	0	0	0
-RS25	Pavlovian_phase	3	2	62	1	0	0	0
-RS25	Pavlovian_phase	4	1	0	0	1	0	1
-RS25	Pavlovian_phase	5	2	79	1	0	0	0
-RS25	Pavlovian_phase	6	1	0	0	1	0	1
-RS25	Pavlovian_phase	7	1	0	0	0	1	0
-RS25	Pavlovian_phase	8	2	65	0	0	1	0
-RS25	Pavlovian_phase	9	2	71	1	0	0	0
-RS25	Pavlovian_phase	10	1	0	0	1	0	1
-RS25	Pavlovian_phase	11	2	82	0	0	1	0
-RS25	Pavlovian_phase	12	1	0	0	1	0	1
-RS25	Pavlovian_phase	13	1	0	0	1	0	1
-RS25	Pavlovian_phase	14	2	72	0	0	1	0
-RS25	Pavlovian_phase	15	2	79	0	0	1	0
-RS25	Pavlovian_phase	16	1	0	0	1	0	1
-RS25	Pavlovian_phase	17	1	0	0	1	0	1
-RS25	Pavlovian_phase	18	2	86	1	0	0	0
-RS25	Pavlovian_phase	19	1	0	0	1	0	1
-RS25	Pavlovian_phase	20	2	84	0	0	1	0
-RS25	Pavlovian_phase	21	1	0	0	1	0	1
-RS25	Pavlovian_phase	22	2	83	1	0	0	0
-RS25	Pavlovian_phase	23	2	86	1	0	0	0
-RS25	Pavlovian_phase	24	2	85	0	0	1	0
-RS25	Pavlovian_phase	25	1	0	0	1	0	1
-RS25	Pavlovian_phase	26	1	0	0	1	0	1
-RS25	Pavlovian_phase	27	2	86	1	0	0	0
-RS25	Pavlovian_phase	28	2	91	0	0	1	0
-RS25	Extinction_phase	29	1	0	0	1	0	0
-RS25	Extinction_phase	30	1	0	0	0	1	0
-RS25	Extinction_phase	31	2	65	1	0	0	0
-RS25	Extinction_phase	32	2	81	1	0	0	0
-RS25	Extinction_phase	33	2	86	0	0	1	0
-RS25	Extinction_phase	34	1	0	0	1	0	0
-RS25	Extinction_phase	35	1	0	0	1	0	0
-RS25	Extinction_phase	36	2	80	0	0	1	0
-RS25	Extinction_phase	37	1	0	0	1	0	0
-RS25	Extinction_phase	38	2	82	1	0	0	0
-RS25	Extinction_phase	39	2	46	0	1	0	0
-RS25	Extinction_phase	40	2	80	0	0	1	0
-RS25	Extinction_phase	41	2	78	0	0	1	0
-RS25	Extinction_phase	42	2	79	1	0	0	0
-RS25	Extinction_phase	43	1	0	0	1	0	0
-RS25	Extinction_phase	44	2	38	0	1	0	0
-RS25	Extinction_phase	45	2	80	1	0	0	0
-RS25	Extinction_phase	46	2	52	0	1	0	0
-RS26	Pavlovian_phase	1	1	0	0	1	0	1
-RS26	Pavlovian_phase	2	1	0	0	1	0	1
-RS26	Pavlovian_phase	3	2	59	1	0	0	0
-RS26	Pavlovian_phase	4	2	61	1	0	0	0
-RS26	Pavlovian_phase	5	1	0	0	1	0	1
-RS26	Pavlovian_phase	6	2	62	0	0	1	0
-RS26	Pavlovian_phase	7	2	60	0	0	1	0
-RS26	Pavlovian_phase	8	1	0	0	1	0	1
-RS26	Pavlovian_phase	9	1	0	0	1	0	1
-RS26	Pavlovian_phase	10	2	56	1	0	0	0
-RS26	Pavlovian_phase	11	1	0	0	1	0	1
-RS26	Pavlovian_phase	12	2	74	0	0	1	0
-RS26	Pavlovian_phase	13	2	68	0	0	1	0
-RS26	Pavlovian_phase	14	1	0	0	1	0	1
-RS26	Pavlovian_phase	15	1	0	0	1	0	1
-RS26	Pavlovian_phase	16	2	73	0	0	1	0
-RS26	Pavlovian_phase	17	2	66	0	0	1	0
-RS26	Pavlovian_phase	18	1	0	0	1	0	1
-RS26	Pavlovian_phase	19	2	64	0	0	1	0
-RS26	Pavlovian_phase	20	1	0	0	1	0	1
-RS26	Pavlovian_phase	21	2	65	0	0	1	0
-RS26	Pavlovian_phase	22	1	0	0	1	0	1
-RS26	Pavlovian_phase	23	2	59	1	0	0	0
-RS26	Pavlovian_phase	24	2	61	1	0	0	0
-RS26	Pavlovian_phase	25	1	0	0	1	0	1
-RS26	Pavlovian_phase	26	2	61	1	0	0	0
-RS26	Pavlovian_phase	27	2	63	1	0	0	0
-RS26	Pavlovian_phase	28	1	0	1	0	0	0
-RS26	Extinction_phase	29	2	62	0	0	1	0
-RS26	Extinction_phase	30	1	0	0	1	0	0
-RS26	Extinction_phase	31	1	0	0	1	0	0
-RS26	Extinction_phase	32	1	0	1	0	0	0
-RS26	Extinction_phase	33	2	80	1	0	0	0
-RS26	Extinction_phase	34	1	0	0	1	0	0
-RS26	Extinction_phase	35	2	70	1	0	0	0
-RS26	Extinction_phase	36	1	0	0	0	1	0
-RS26	Extinction_phase	37	2	62	0	1	0	0
-RS26	Extinction_phase	38	1	0	0	1	0	0
-RS26	Extinction_phase	39	1	0	0	0	1	0
-RS26	Extinction_phase	40	1	0	0	0	1	0
-RS26	Extinction_phase	41	1	0	1	0	0	0
-RS26	Extinction_phase	42	1	0	0	1	0	0
-RS26	Extinction_phase	43	1	0	1	0	0	0
-RS26	Extinction_phase	44	1	0	0	1	0	0
-RS26	Extinction_phase	45	1	0	0	0	1	0
-RS26	Extinction_phase	46	1	0	0	1	0	0
-RS27	Pavlovian_phase	1	2	30	1	0	0	0
-RS27	Pavlovian_phase	2	1	0	0	1	0	1
-RS27	Pavlovian_phase	3	2	20	1	0	0	0
-RS27	Pavlovian_phase	4	1	0	0	1	0	1
-RS27	Pavlovian_phase	5	1	0	0	1	0	1
-RS27	Pavlovian_phase	6	2	38	1	0	0	0
-RS27	Pavlovian_phase	7	1	0	0	1	0	1
-RS27	Pavlovian_phase	8	1	0	0	1	0	1
-RS27	Pavlovian_phase	9	2	23	1	0	0	0
-RS27	Pavlovian_phase	10	1	0	0	0	1	0
-RS27	Pavlovian_phase	11	2	36	0	0	1	0
-RS27	Pavlovian_phase	12	1	0	0	1	0	1
-RS27	Pavlovian_phase	13	2	48	1	0	0	0
-RS27	Pavlovian_phase	14	1	0	0	1	0	1
-RS27	Pavlovian_phase	15	2	24	0	0	1	0
-RS27	Pavlovian_phase	16	1	0	0	1	0	1
-RS27	Pavlovian_phase	17	1	0	0	1	0	1
-RS27	Pavlovian_phase	18	2	32	1	0	0	0
-RS27	Pavlovian_phase	19	2	24	0	0	1	0
-RS27	Pavlovian_phase	20	1	0	0	1	0	1
-RS27	Pavlovian_phase	21	2	9	0	0	1	0
-RS27	Pavlovian_phase	22	1	0	0	0	1	0
-RS27	Pavlovian_phase	23	1	0	0	1	0	1
-RS27	Pavlovian_phase	24	1	0	0	1	0	1
-RS27	Pavlovian_phase	25	2	17	1	0	0	0
-RS27	Pavlovian_phase	26	1	0	0	0	1	0
-RS27	Pavlovian_phase	27	2	21	1	0	0	0
-RS27	Pavlovian_phase	28	2	7	0	0	1	0
-RS27	Extinction_phase	29	1	0	0	1	0	0
-RS27	Extinction_phase	30	1	0	1	0	0	0
-RS27	Extinction_phase	31	2	26	1	0	0	0
-RS27	Extinction_phase	32	1	0	0	0	1	0
-RS27	Extinction_phase	33	2	14	1	0	0	0
-RS27	Extinction_phase	34	1	0	0	0	1	0
-RS27	Extinction_phase	35	1	0	1	0	0	0
-RS27	Extinction_phase	36	1	0	0	1	0	0
-RS27	Extinction_phase	37	1	0	0	1	0	0
-RS27	Extinction_phase	38	1	0	0	0	1	0
-RS27	Extinction_phase	39	1	0	0	1	0	0
-RS27	Extinction_phase	40	1	0	0	1	0	0
-RS27	Extinction_phase	41	1	0	0	0	1	0
-RS27	Extinction_phase	42	1	0	0	0	1	0
-RS27	Extinction_phase	43	1	0	0	1	0	0
-RS27	Extinction_phase	44	1	0	0	1	0	0
-RS27	Extinction_phase	45	1	0	1	0	0	0
-RS27	Extinction_phase	46	1	0	0	1	0	0
-RS28	Pavlovian_phase	1	2	62	1	0	0	0
-RS28	Pavlovian_phase	2	1	0	0	1	0	1
-RS28	Pavlovian_phase	3	2	54	1	0	0	0
-RS28	Pavlovian_phase	4	1	0	0	1	0	1
-RS28	Pavlovian_phase	5	2	77	1	0	0	0
-RS28	Pavlovian_phase	6	1	0	1	0	0	0
-RS28	Pavlovian_phase	7	1	0	0	1	0	1
-RS28	Pavlovian_phase	8	1	0	0	0	1	0
-RS28	Pavlovian_phase	9	1	0	0	1	0	1
-RS28	Pavlovian_phase	10	1	0	0	1	0	1
-RS28	Pavlovian_phase	11	1	0	0	0	1	0
-RS28	Pavlovian_phase	12	1	0	0	1	0	1
-RS28	Pavlovian_phase	13	1	0	0	0	1	0
-RS28	Pavlovian_phase	14	1	0	0	1	0	1
-RS28	Pavlovian_phase	15	2	56	0	0	1	0
-RS28	Pavlovian_phase	16	2	69	1	0	0	0
-RS28	Pavlovian_phase	17	2	61	1	0	0	0
-RS28	Pavlovian_phase	18	1	0	0	0	1	0
-RS28	Pavlovian_phase	19	2	59	0	0	1	0
-RS28	Pavlovian_phase	20	1	0	1	0	0	0
-RS28	Pavlovian_phase	21	2	60	0	0	1	0
-RS28	Pavlovian_phase	22	1	0	0	1	0	1
-RS28	Pavlovian_phase	23	2	62	1	0	0	0
-RS28	Pavlovian_phase	24	1	0	0	1	0	1
-RS28	Pavlovian_phase	25	1	0	0	1	0	1
-RS28	Pavlovian_phase	26	1	0	0	0	1	0
-RS28	Pavlovian_phase	27	1	0	0	1	0	1
-RS28	Pavlovian_phase	28	1	0	0	1	0	1
-RS28	Extinction_phase	29	1	0	0	1	0	0
-RS28	Extinction_phase	30	1	0	1	0	0	0
-RS28	Extinction_phase	31	1	0	0	1	0	0
-RS28	Extinction_phase	32	2	56	1	0	0	0
-RS28	Extinction_phase	33	1	0	0	1	0	0
-RS28	Extinction_phase	34	1	0	0	0	1	0
-RS28	Extinction_phase	35	1	0	1	0	0	0
-RS28	Extinction_phase	36	1	0	0	1	0	0
-RS28	Extinction_phase	37	1	0	1	0	0	0
-RS28	Extinction_phase	38	2	60	0	1	0	0
-RS28	Extinction_phase	39	1	0	1	0	0	0
-RS28	Extinction_phase	40	1	0	0	0	1	0
-RS28	Extinction_phase	41	1	0	0	1	0	0
-RS28	Extinction_phase	42	1	0	0	0	1	0
-RS28	Extinction_phase	43	2	52	0	1	0	0
-RS28	Extinction_phase	44	1	0	0	0	1	0
-RS28	Extinction_phase	45	1	0	0	1	0	0
-RS28	Extinction_phase	46	1	0	0	0	1	0
-RS29	Pavlovian_phase	1	2	50	0	1	0	1
-RS29	Pavlovian_phase	2	1	0	0	1	0	1
-RS29	Pavlovian_phase	3	1	0	1	0	0	0
-RS29	Pavlovian_phase	4	2	68	1	0	0	0
-RS29	Pavlovian_phase	5	1	0	0	1	0	1
-RS29	Pavlovian_phase	6	2	49	0	0	1	0
-RS29	Pavlovian_phase	7	2	65	0	0	1	0
-RS29	Pavlovian_phase	8	1	0	0	1	0	1
-RS29	Pavlovian_phase	9	2	62	0	0	1	0
-RS29	Pavlovian_phase	10	2	64	1	0	0	0
-RS29	Pavlovian_phase	11	1	0	0	1	0	1
-RS29	Pavlovian_phase	12	2	68	0	0	1	0
-RS29	Pavlovian_phase	13	1	0	0	1	0	1
-RS29	Pavlovian_phase	14	2	66	0	0	1	0
-RS29	Pavlovian_phase	15	1	0	0	1	0	1
-RS29	Pavlovian_phase	16	1	0	0	1	0	1
-RS29	Pavlovian_phase	17	2	69	0	0	1	0
-RS29	Pavlovian_phase	18	1	0	0	1	0	1
-RS29	Pavlovian_phase	19	1	0	0	1	0	1
-RS29	Pavlovian_phase	20	2	68	1	0	0	0
-RS29	Pavlovian_phase	21	1	0	0	1	0	1
-RS29	Pavlovian_phase	22	1	0	0	1	0	1
-RS29	Pavlovian_phase	23	2	60	1	0	0	0
-RS29	Pavlovian_phase	24	2	61	0	0	1	0
-RS29	Pavlovian_phase	25	2	60	1	0	0	0
-RS29	Pavlovian_phase	26	2	58	1	0	0	0
-RS29	Pavlovian_phase	27	2	61	0	0	1	0
-RS29	Pavlovian_phase	28	2	61	1	0	0	0
-RS29	Extinction_phase	29	2	59	1	0	0	0
-RS29	Extinction_phase	30	1	0	0	1	0	0
-RS29	Extinction_phase	31	2	67	1	0	0	0
-RS29	Extinction_phase	32	2	64	0	0	1	0
-RS29	Extinction_phase	33	2	64	1	0	0	0
-RS29	Extinction_phase	34	2	74	0	1	0	0
-RS29	Extinction_phase	35	2	75	0	1	0	0
-RS29	Extinction_phase	36	2	67	0	0	1	0
-RS29	Extinction_phase	37	2	60	0	0	1	0
-RS29	Extinction_phase	38	2	61	1	0	0	0
-RS29	Extinction_phase	39	2	72	0	1	0	0
-RS29	Extinction_phase	40	2	62	1	0	0	0
-RS29	Extinction_phase	41	2	62	0	0	1	0
-RS29	Extinction_phase	42	2	71	0	1	0	0
-RS29	Extinction_phase	43	2	69	0	1	0	0
-RS29	Extinction_phase	44	2	61	0	0	1	0
-RS29	Extinction_phase	45	2	71	0	1	0	0
-RS29	Extinction_phase	46	2	68	0	1	0	0
-RS30	Pavlovian_phase	1	1	0	1	0	0	0
-RS30	Pavlovian_phase	2	1	0	0	1	0	1
-RS30	Pavlovian_phase	3	2	64	1	0	0	0
-RS30	Pavlovian_phase	4	1	0	0	1	0	1
-RS30	Pavlovian_phase	5	2	70	0	0	1	0
-RS30	Pavlovian_phase	6	2	65	1	0	0	0
-RS30	Pavlovian_phase	7	1	0	0	1	0	1
-RS30	Pavlovian_phase	8	1	0	0	1	0	1
-RS30	Pavlovian_phase	9	2	62	1	0	0	0
-RS30	Pavlovian_phase	10	1	0	0	1	0	1
-RS30	Pavlovian_phase	11	1	0	0	1	0	1
-RS30	Pavlovian_phase	12	2	74	0	0	1	0
-RS30	Pavlovian_phase	13	1	0	0	1	0	1
-RS30	Pavlovian_phase	14	1	0	1	0	0	0
-RS30	Pavlovian_phase	15	2	69	0	0	1	0
-RS30	Pavlovian_phase	16	1	0	0	1	0	1
-RS30	Pavlovian_phase	17	1	0	1	0	0	0
-RS30	Pavlovian_phase	18	2	71	0	0	1	0
-RS30	Pavlovian_phase	19	1	0	1	0	0	0
-RS30	Pavlovian_phase	20	2	70	0	0	1	0
-RS30	Pavlovian_phase	21	1	0	1	0	0	0
-RS30	Pavlovian_phase	22	2	67	0	0	1	0
-RS30	Pavlovian_phase	23	2	63	0	0	1	0
-RS30	Pavlovian_phase	24	1	0	0	1	0	1
-RS30	Pavlovian_phase	25	1	0	0	1	0	1
-RS30	Pavlovian_phase	26	2	59	0	0	1	0
-RS30	Pavlovian_phase	27	1	0	0	1	0	1
-RS30	Pavlovian_phase	28	1	0	0	1	0	1
-RS30	Extinction_phase	29	1	0	0	1	0	0
-RS30	Extinction_phase	30	1	0	0	0	1	0
-RS30	Extinction_phase	31	1	0	0	1	0	0
-RS30	Extinction_phase	32	2	65	0	1	0	0
-RS30	Extinction_phase	33	1	0	1	0	0	0
-RS30	Extinction_phase	34	1	0	1	0	0	0
-RS30	Extinction_phase	35	1	0	0	1	0	0
-RS30	Extinction_phase	36	2	66	0	1	0	0
-RS30	Extinction_phase	37	1	0	0	0	1	0
-RS30	Extinction_phase	38	2	66	0	0	1	0
-RS30	Extinction_phase	39	2	66	1	0	0	0
-RS30	Extinction_phase	40	2	68	0	0	1	0
-RS30	Extinction_phase	41	2	61	0	1	0	0
-RS30	Extinction_phase	42	2	51	1	0	0	0
-RS30	Extinction_phase	43	1	0	1	0	0	0
-RS30	Extinction_phase	44	1	0	0	1	0	0
-RS30	Extinction_phase	45	1	0	0	1	0	0
-RS30	Extinction_phase	46	1	0	0	0	1	0
-RS31	Pavlovian_phase	1	1	0	0	1	0	1
-RS31	Pavlovian_phase	2	1	0	1	0	0	0
-RS31	Pavlovian_phase	3	1	0	0	1	0	1
-RS31	Pavlovian_phase	4	1	0	1	0	0	0
-RS31	Pavlovian_phase	5	1	0	0	0	1	0
-RS31	Pavlovian_phase	6	1	0	0	1	0	1
-RS31	Pavlovian_phase	7	2	27	1	0	0	0
-RS31	Pavlovian_phase	8	1	0	0	1	0	1
-RS31	Pavlovian_phase	9	1	0	0	1	0	1
-RS31	Pavlovian_phase	10	1	0	0	0	1	0
-RS31	Pavlovian_phase	11	2	27	1	0	0	0
-RS31	Pavlovian_phase	12	2	30	1	0	0	0
-RS31	Pavlovian_phase	13	2	22	0	0	1	0
-RS31	Pavlovian_phase	14	1	0	0	1	0	1
-RS31	Pavlovian_phase	15	1	0	0	1	0	1
-RS31	Pavlovian_phase	16	2	32	0	0	1	0
-RS31	Pavlovian_phase	17	2	36	1	0	0	0
-RS31	Pavlovian_phase	18	1	0	0	1	0	1
-RS31	Pavlovian_phase	19	1	0	0	1	0	1
-RS31	Pavlovian_phase	20	2	31	0	0	1	0
-RS31	Pavlovian_phase	21	2	41	1	0	0	0
-RS31	Pavlovian_phase	22	2	41	0	0	1	0
-RS31	Pavlovian_phase	23	1	0	0	1	0	1
-RS31	Pavlovian_phase	24	1	0	0	1	0	1
-RS31	Pavlovian_phase	25	2	45	1	0	0	0
-RS31	Pavlovian_phase	26	2	40	0	0	1	0
-RS31	Pavlovian_phase	27	1	0	0	1	0	1
-RS31	Pavlovian_phase	28	2	49	0	0	1	0
-RS31	Extinction_phase	29	1	0	0	1	0	0
-RS31	Extinction_phase	30	1	0	0	1	0	0
-RS31	Extinction_phase	31	1	0	0	0	1	0
-RS31	Extinction_phase	32	2	37	0	0	1	0
-RS31	Extinction_phase	33	2	21	0	1	0	0
-RS31	Extinction_phase	34	2	38	0	1	0	0
-RS31	Extinction_phase	35	2	30	0	0	1	0
-RS31	Extinction_phase	36	2	35	0	1	0	0
-RS31	Extinction_phase	37	2	36	0	1	0	0
-RS31	Extinction_phase	38	1	0	1	0	0	0
-RS31	Extinction_phase	39	2	27	1	0	0	0
-RS31	Extinction_phase	40	2	31	0	0	1	0
-RS31	Extinction_phase	41	2	33	1	0	0	0
-RS31	Extinction_phase	42	2	38	1	0	0	0
-RS31	Extinction_phase	43	2	39	0	0	1	0
-RS31	Extinction_phase	44	2	31	0	1	0	0
-RS31	Extinction_phase	45	2	36	1	0	0	0
-RS31	Extinction_phase	46	1	0	0	1	0	0
-RS32	Pavlovian_phase	1	1	0	0	1	0	1
-RS32	Pavlovian_phase	2	2	31	1	0	0	0
-RS32	Pavlovian_phase	3	1	0	0	1	0	1
-RS32	Pavlovian_phase	4	2	59	1	0	0	0
-RS32	Pavlovian_phase	5	2	59	0	0	1	0
-RS32	Pavlovian_phase	6	1	0	0	1	0	1
-RS32	Pavlovian_phase	7	2	69	1	0	0	0
-RS32	Pavlovian_phase	8	2	74	1	0	0	0
-RS32	Pavlovian_phase	9	1	0	0	1	0	1
-RS32	Pavlovian_phase	10	2	73	0	0	1	0
-RS32	Pavlovian_phase	11	2	71	0	0	1	0
-RS32	Pavlovian_phase	12	1	0	0	1	0	1
-RS32	Pavlovian_phase	13	1	0	0	1	0	1
-RS32	Pavlovian_phase	14	2	77	0	0	1	0
-RS32	Pavlovian_phase	15	1	0	0	1	0	1
-RS32	Pavlovian_phase	16	1	0	0	1	0	1
-RS32	Pavlovian_phase	17	2	74	1	0	0	0
-RS32	Pavlovian_phase	18	2	74	0	0	1	0
-RS32	Pavlovian_phase	19	1	0	0	1	0	1
-RS32	Pavlovian_phase	20	2	81	1	0	0	0
-RS32	Pavlovian_phase	21	2	79	0	0	1	0
-RS32	Pavlovian_phase	22	1	0	0	1	0	1
-RS32	Pavlovian_phase	23	1	0	0	1	0	1
-RS32	Pavlovian_phase	24	2	86	1	0	0	0
-RS32	Pavlovian_phase	25	2	83	0	0	1	0
-RS32	Pavlovian_phase	26	2	86	0	0	1	0
-RS32	Pavlovian_phase	27	1	0	0	1	0	1
-RS32	Pavlovian_phase	28	2	81	1	0	0	0
-RS32	Extinction_phase	29	1	0	0	1	0	0
-RS32	Extinction_phase	30	1	0	0	0	1	0
-RS32	Extinction_phase	31	2	41	0	1	0	0
-RS32	Extinction_phase	32	2	58	0	1	0	0
-RS32	Extinction_phase	33	2	66	1	0	0	0
-RS32	Extinction_phase	34	2	70	1	0	0	0
-RS32	Extinction_phase	35	2	58	0	0	1	0
-RS32	Extinction_phase	36	2	59	0	0	1	0
-RS32	Extinction_phase	37	2	52	0	1	0	0
-RS32	Extinction_phase	38	2	65	0	1	0	0
-RS32	Extinction_phase	39	2	56	0	0	1	0
-RS32	Extinction_phase	40	2	65	0	1	0	0
-RS32	Extinction_phase	41	2	61	0	1	0	0
-RS32	Extinction_phase	42	1	0	1	0	0	0
-RS32	Extinction_phase	43	2	58	1	0	0	0
-RS32	Extinction_phase	44	2	61	0	1	0	0
-RS32	Extinction_phase	45	2	55	1	0	0	0
-RS32	Extinction_phase	46	2	55	0	0	1	0
-RS33	Pavlovian_phase	1	1	0	0	1	0	1
-RS33	Pavlovian_phase	2	2	100	1	0	0	0
-RS33	Pavlovian_phase	3	2	96	1	0	0	0
-RS33	Pavlovian_phase	4	1	0	0	1	0	1
-RS33	Pavlovian_phase	5	1	0	0	1	0	1
-RS33	Pavlovian_phase	6	1	0	0	1	0	1
-RS33	Pavlovian_phase	7	2	94	1	0	0	0
-RS33	Pavlovian_phase	8	1	0	0	1	0	1
-RS33	Pavlovian_phase	9	1	0	0	1	0	1
-RS33	Pavlovian_phase	10	1	0	0	0	1	0
-RS33	Pavlovian_phase	11	2	100	0	0	1	0
-RS33	Pavlovian_phase	12	1	0	0	1	0	1
-RS33	Pavlovian_phase	13	2	87	0	0	1	0
-RS33	Pavlovian_phase	14	1	0	0	1	0	1
-RS33	Pavlovian_phase	15	2	100	0	0	1	0
-RS33	Pavlovian_phase	16	2	64	1	0	0	0
-RS33	Pavlovian_phase	17	2	87	1	0	0	0
-RS33	Pavlovian_phase	18	2	81	0	0	1	0
-RS33	Pavlovian_phase	19	2	45	0	0	1	0
-RS33	Pavlovian_phase	20	2	54	1	0	0	0
-RS33	Pavlovian_phase	21	1	0	0	1	0	1
-RS33	Pavlovian_phase	22	2	85	0	0	1	0
-RS33	Pavlovian_phase	23	2	79	1	0	0	0
-RS33	Pavlovian_phase	24	2	71	0	0	1	0
-RS33	Pavlovian_phase	25	1	0	0	1	0	1
-RS33	Pavlovian_phase	26	2	90	1	0	0	0
-RS33	Pavlovian_phase	27	1	0	0	1	0	1
-RS33	Pavlovian_phase	28	1	0	0	1	0	1
-RS33	Extinction_phase	29	1	0	0	0	1	0
-RS33	Extinction_phase	30	2	52	0	0	1	0
-RS33	Extinction_phase	31	1	0	1	0	0	0
-RS33	Extinction_phase	32	1	0	0	1	0	0
-RS33	Extinction_phase	33	2	69	1	0	0	0
-RS33	Extinction_phase	34	2	56	0	0	1	0
-RS33	Extinction_phase	35	1	0	1	0	0	0
-RS33	Extinction_phase	36	1	0	1	0	0	0
-RS33	Extinction_phase	37	1	0	0	0	1	0
-RS33	Extinction_phase	38	1	0	0	1	0	0
-RS33	Extinction_phase	39	1	0	0	1	0	0
-RS33	Extinction_phase	40	1	0	1	0	0	0
-RS33	Extinction_phase	41	1	0	0	1	0	0
-RS33	Extinction_phase	42	1	0	0	0	1	0
-RS33	Extinction_phase	43	1	0	0	1	0	0
-RS33	Extinction_phase	44	1	0	0	1	0	0
-RS33	Extinction_phase	45	1	0	0	1	0	0
-RS33	Extinction_phase	46	1	0	0	1	0	0
-RS34	Pavlovian_phase	1	2	91	0	1	0	1
-RS34	Pavlovian_phase	2	1	0	1	0	0	0
-RS34	Pavlovian_phase	3	1	0	1	0	0	0
-RS34	Pavlovian_phase	4	1	0	0	1	0	1
-RS34	Pavlovian_phase	5	2	89	1	0	0	0
-RS34	Pavlovian_phase	6	1	0	0	0	1	0
-RS34	Pavlovian_phase	7	2	89	0	1	0	1
-RS34	Pavlovian_phase	8	2	100	0	0	1	0
-RS34	Pavlovian_phase	9	2	100	0	0	1	0
-RS34	Pavlovian_phase	10	1	0	0	1	0	1
-RS34	Pavlovian_phase	11	2	100	0	0	1	0
-RS34	Pavlovian_phase	12	1	0	0	1	0	1
-RS34	Pavlovian_phase	13	2	100	0	1	0	1
-RS34	Pavlovian_phase	14	2	100	0	0	1	0
-RS34	Pavlovian_phase	15	1	0	0	1	0	1
-RS34	Pavlovian_phase	16	2	99	1	0	0	0
-RS34	Pavlovian_phase	17	2	100	1	0	0	0
-RS34	Pavlovian_phase	18	1	0	0	1	0	1
-RS34	Pavlovian_phase	19	2	100	1	0	0	0
-RS34	Pavlovian_phase	20	2	99	0	0	1	0
-RS34	Pavlovian_phase	21	2	100	0	0	1	0
-RS34	Pavlovian_phase	22	2	100	1	0	0	0
-RS34	Pavlovian_phase	23	1	0	0	1	0	1
-RS34	Pavlovian_phase	24	1	0	0	1	0	1
-RS34	Pavlovian_phase	25	2	100	0	0	1	0
-RS34	Pavlovian_phase	26	2	99	0	1	0	1
-RS34	Pavlovian_phase	27	2	99	1	0	0	0
-RS34	Pavlovian_phase	28	1	0	0	1	0	1
-RS34	Extinction_phase	29	2	99	0	0	1	0
-RS34	Extinction_phase	30	1	0	0	1	0	0
-RS34	Extinction_phase	31	2	100	0	0	1	0
-RS34	Extinction_phase	32	2	100	1	0	0	0
-RS34	Extinction_phase	33	1	0	0	1	0	0
-RS34	Extinction_phase	34	2	100	0	0	1	0
-RS34	Extinction_phase	35	2	100	0	0	1	0
-RS34	Extinction_phase	36	1	0	0	1	0	0
-RS34	Extinction_phase	37	3	0	0	0	1	0
-RS34	Extinction_phase	38	2	100	0	1	0	0
-RS34	Extinction_phase	39	2	100	0	1	0	0
-RS34	Extinction_phase	40	2	100	1	0	0	0
-RS34	Extinction_phase	41	2	100	1	0	0	0
-RS34	Extinction_phase	42	2	100	0	1	0	0
-RS34	Extinction_phase	43	2	100	1	0	0	0
-RS34	Extinction_phase	44	2	100	0	1	0	0
-RS34	Extinction_phase	45	2	99	1	0	0	0
-RS34	Extinction_phase	46	2	99	0	1	0	0
-RS35	Pavlovian_phase	1	1	0	1	0	0	0
-RS35	Pavlovian_phase	2	1	0	0	1	0	1
-RS35	Pavlovian_phase	3	1	0	0	1	0	1
-RS35	Pavlovian_phase	4	2	51	1	0	0	0
-RS35	Pavlovian_phase	5	1	0	0	1	0	1
-RS35	Pavlovian_phase	6	1	0	0	0	1	0
-RS35	Pavlovian_phase	7	1	0	0	1	0	1
-RS35	Pavlovian_phase	8	2	50	0	0	1	0
-RS35	Pavlovian_phase	9	1	0	0	1	0	1
-RS35	Pavlovian_phase	10	1	0	0	1	0	1
-RS35	Pavlovian_phase	11	2	65	1	0	0	0
-RS35	Pavlovian_phase	12	2	60	0	0	1	0
-RS35	Pavlovian_phase	13	1	0	0	1	0	1
-RS35	Pavlovian_phase	14	2	65	0	0	1	0
-RS35	Pavlovian_phase	15	2	69	1	0	0	0
-RS35	Pavlovian_phase	16	2	67	0	0	1	0
-RS35	Pavlovian_phase	17	1	0	0	1	0	1
-RS35	Pavlovian_phase	18	1	0	0	1	0	1
-RS35	Pavlovian_phase	19	2	69	1	0	0	0
-RS35	Pavlovian_phase	20	2	72	1	0	0	0
-RS35	Pavlovian_phase	21	2	70	0	0	1	0
-RS35	Pavlovian_phase	22	2	72	0	0	1	0
-RS35	Pavlovian_phase	23	1	0	0	1	0	1
-RS35	Pavlovian_phase	24	2	71	1	0	0	0
-RS35	Pavlovian_phase	25	2	74	1	0	0	0
-RS35	Pavlovian_phase	26	1	0	0	1	0	1
-RS35	Pavlovian_phase	27	1	0	0	1	0	1
-RS35	Pavlovian_phase	28	2	68	0	0	1	0
-RS35	Extinction_phase	29	2	61	1	0	0	0
-RS35	Extinction_phase	30	2	70	1	0	0	0
-RS35	Extinction_phase	31	1	0	0	1	0	0
-RS35	Extinction_phase	32	1	0	0	1	0	0
-RS35	Extinction_phase	33	2	66	0	0	1	0
-RS35	Extinction_phase	34	2	54	0	1	0	0
-RS35	Extinction_phase	35	2	68	1	0	0	0
-RS35	Extinction_phase	36	2	77	1	0	0	0
-RS35	Extinction_phase	37	2	75	0	0	1	0
-RS35	Extinction_phase	38	2	74	1	0	0	0
-RS35	Extinction_phase	39	1	0	0	1	0	0
-RS35	Extinction_phase	40	2	59	0	1	0	0
-RS35	Extinction_phase	41	2	68	0	0	1	0
-RS35	Extinction_phase	42	2	49	0	1	0	0
-RS35	Extinction_phase	43	2	54	0	1	0	0
-RS35	Extinction_phase	44	2	65	0	0	1	0
-RS35	Extinction_phase	45	2	60	0	0	1	0
-RS35	Extinction_phase	46	2	64	0	1	0	0
-RS36	Pavlovian_phase	1	1	0	0	1	0	1
-RS36	Pavlovian_phase	2	2	52	1	0	0	0
-RS36	Pavlovian_phase	3	1	0	0	1	0	1
-RS36	Pavlovian_phase	4	2	47	1	0	0	0
-RS36	Pavlovian_phase	5	2	69	1	0	0	0
-RS36	Pavlovian_phase	6	2	65	1	0	0	0
-RS36	Pavlovian_phase	7	1	0	0	0	1	0
-RS36	Pavlovian_phase	8	2	67	1	0	0	0
-RS36	Pavlovian_phase	9	2	71	0	0	1	0
-RS36	Pavlovian_phase	10	1	0	0	1	0	1
-RS36	Pavlovian_phase	11	2	44	0	0	1	0
-RS36	Pavlovian_phase	12	1	0	0	0	1	0
-RS36	Pavlovian_phase	13	1	0	0	1	0	1
-RS36	Pavlovian_phase	14	1	0	0	1	0	1
-RS36	Pavlovian_phase	15	2	59	0	0	1	0
-RS36	Pavlovian_phase	16	2	62	1	0	0	0
-RS36	Pavlovian_phase	17	1	0	0	0	1	0
-RS36	Pavlovian_phase	18	1	0	0	1	0	1
-RS36	Pavlovian_phase	19	1	0	0	1	0	1
-RS36	Pavlovian_phase	20	2	77	1	0	0	0
-RS36	Pavlovian_phase	21	2	66	1	0	0	0
-RS36	Pavlovian_phase	22	1	0	0	1	0	1
-RS36	Pavlovian_phase	23	1	0	0	1	0	1
-RS36	Pavlovian_phase	24	2	59	0	0	1	0
-RS36	Pavlovian_phase	25	2	35	0	1	0	1
-RS36	Pavlovian_phase	26	2	46	0	0	1	0
-RS36	Pavlovian_phase	27	2	16	0	1	0	1
-RS36	Pavlovian_phase	28	1	0	0	1	0	1
-RS36	Extinction_phase	29	1	0	0	0	1	0
-RS36	Extinction_phase	30	2	73	0	0	1	0
-RS36	Extinction_phase	31	1	0	0	1	0	0
-RS36	Extinction_phase	32	2	35	0	1	0	0
-RS36	Extinction_phase	33	2	52	0	0	1	0
-RS36	Extinction_phase	34	2	74	0	1	0	0
-RS36	Extinction_phase	35	2	61	0	0	1	0
-RS36	Extinction_phase	36	2	74	0	1	0	0
-RS36	Extinction_phase	37	1	0	1	0	0	0
-RS36	Extinction_phase	38	2	69	0	1	0	0
-RS36	Extinction_phase	39	2	58	0	1	0	0
-RS36	Extinction_phase	40	2	41	1	0	0	0
-RS36	Extinction_phase	41	2	64	1	0	0	0
-RS36	Extinction_phase	42	2	21	0	1	0	0
-RS36	Extinction_phase	43	2	56	0	1	0	0
-RS36	Extinction_phase	44	2	69	1	0	0	0
-RS36	Extinction_phase	45	1	0	0	0	1	0
-RS36	Extinction_phase	46	2	58	1	0	0	0
-RS37	Pavlovian_phase	1	1	0	1	0	0	0
-RS37	Pavlovian_phase	2	1	0	0	1	0	1
-RS37	Pavlovian_phase	3	1	0	0	1	0	1
-RS37	Pavlovian_phase	4	2	99	1	0	0	0
-RS37	Pavlovian_phase	5	1	0	0	0	1	0
-RS37	Pavlovian_phase	6	1	0	0	1	0	1
-RS37	Pavlovian_phase	7	1	0	0	1	0	1
-RS37	Pavlovian_phase	8	2	99	1	0	0	0
-RS37	Pavlovian_phase	9	2	100	0	0	1	0
-RS37	Pavlovian_phase	10	2	98	0	0	1	0
-RS37	Pavlovian_phase	11	2	99	1	0	0	0
-RS37	Pavlovian_phase	12	2	99	0	0	1	0
-RS37	Pavlovian_phase	13	2	100	0	0	1	0
-RS37	Pavlovian_phase	14	2	100	1	0	0	0
-RS37	Pavlovian_phase	15	2	100	0	0	1	0
-RS37	Pavlovian_phase	16	2	99	0	0	1	0
-RS37	Pavlovian_phase	17	1	0	0	1	0	1
-RS37	Pavlovian_phase	18	1	0	0	1	0	1
-RS37	Pavlovian_phase	19	2	98	1	0	0	0
-RS37	Pavlovian_phase	20	1	0	0	1	0	1
-RS37	Pavlovian_phase	21	1	0	0	1	0	1
-RS37	Pavlovian_phase	22	2	98	1	0	0	0
-RS37	Pavlovian_phase	23	2	98	1	0	0	0
-RS37	Pavlovian_phase	24	1	0	0	1	0	1
-RS37	Pavlovian_phase	25	1	0	0	1	0	1
-RS37	Pavlovian_phase	26	2	98	0	0	1	0
-RS37	Pavlovian_phase	27	1	0	0	1	0	1
-RS37	Pavlovian_phase	28	1	0	0	1	0	1
-RS37	Extinction_phase	29	2	99	1	0	0	0
-RS37	Extinction_phase	30	2	98	0	0	1	0
-RS37	Extinction_phase	31	1	0	0	1	0	0
-RS37	Extinction_phase	32	1	0	0	1	0	0
-RS37	Extinction_phase	33	2	97	0	0	1	0
-RS37	Extinction_phase	34	2	98	0	0	1	0
-RS37	Extinction_phase	35	1	0	0	1	0	0
-RS37	Extinction_phase	36	1	0	0	1	0	0
-RS37	Extinction_phase	37	2	99	1	0	0	0
-RS37	Extinction_phase	38	2	98	0	0	1	0
-RS37	Extinction_phase	39	2	98	1	0	0	0
-RS37	Extinction_phase	40	1	0	0	1	0	0
-RS37	Extinction_phase	41	2	96	0	1	0	0
-RS37	Extinction_phase	42	2	96	1	0	0	0
-RS37	Extinction_phase	43	2	99	0	1	0	0
-RS37	Extinction_phase	44	2	99	1	0	0	0
-RS37	Extinction_phase	45	2	100	0	0	1	0
-RS37	Extinction_phase	46	2	99	0	1	0	0
-RS38	Pavlovian_phase	1	1	0	1	0	0	0
-RS38	Pavlovian_phase	2	1	0	0	1	0	1
-RS38	Pavlovian_phase	3	2	68	1	0	0	0
-RS38	Pavlovian_phase	4	1	0	0	1	0	1
-RS38	Pavlovian_phase	5	1	0	0	1	0	1
-RS38	Pavlovian_phase	6	1	0	0	1	0	1
-RS38	Pavlovian_phase	7	2	85	0	0	1	0
-RS38	Pavlovian_phase	8	2	79	1	0	0	0
-RS38	Pavlovian_phase	9	1	0	0	0	1	0
-RS38	Pavlovian_phase	10	1	0	0	1	0	1
-RS38	Pavlovian_phase	11	2	84	0	0	1	0
-RS38	Pavlovian_phase	12	2	65	0	0	1	0
-RS38	Pavlovian_phase	13	2	73	1	0	0	0
-RS38	Pavlovian_phase	14	2	63	0	0	1	0
-RS38	Pavlovian_phase	15	2	66	1	0	0	0
-RS38	Pavlovian_phase	16	1	0	0	1	0	1
-RS38	Pavlovian_phase	17	2	87	1	0	0	0
-RS38	Pavlovian_phase	18	1	0	0	1	0	1
-RS38	Pavlovian_phase	19	2	79	0	0	1	0
-RS38	Pavlovian_phase	20	2	72	1	0	0	0
-RS38	Pavlovian_phase	21	2	69	0	0	1	0
-RS38	Pavlovian_phase	22	1	0	0	1	0	1
-RS38	Pavlovian_phase	23	1	0	0	1	0	1
-RS38	Pavlovian_phase	24	2	85	1	0	0	0
-RS38	Pavlovian_phase	25	2	85	0	0	1	0
-RS38	Pavlovian_phase	26	1	0	0	1	0	1
-RS38	Pavlovian_phase	27	1	0	0	1	0	1
-RS38	Pavlovian_phase	28	1	0	0	1	0	1
-RS38	Extinction_phase	29	1	0	0	0	1	0
-RS38	Extinction_phase	30	2	74	1	0	0	0
-RS38	Extinction_phase	31	1	0	0	1	0	0
-RS38	Extinction_phase	32	1	0	0	1	0	0
-RS38	Extinction_phase	33	2	73	1	0	0	0
-RS38	Extinction_phase	34	1	0	0	0	1	0
-RS38	Extinction_phase	35	1	0	0	1	0	0
-RS38	Extinction_phase	36	1	0	0	0	1	0
-RS38	Extinction_phase	37	1	0	0	1	0	0
-RS38	Extinction_phase	38	2	54	0	1	0	0
-RS38	Extinction_phase	39	1	0	1	0	0	0
-RS38	Extinction_phase	40	1	0	0	0	1	0
-RS38	Extinction_phase	41	1	0	0	1	0	0
-RS38	Extinction_phase	42	1	0	0	1	0	0
-RS38	Extinction_phase	43	1	0	1	0	0	0
-RS38	Extinction_phase	44	1	0	1	0	0	0
-RS38	Extinction_phase	45	1	0	0	1	0	0
-RS38	Extinction_phase	46	1	0	0	0	1	0
-RS39	Pavlovian_phase	1	2	98	0	1	0	1
-RS39	Pavlovian_phase	2	1	0	1	0	0	0
-RS39	Pavlovian_phase	3	2	96	0	1	0	1
-RS39	Pavlovian_phase	4	1	0	1	0	0	0
-RS39	Pavlovian_phase	5	2	97	0	1	0	1
-RS39	Pavlovian_phase	6	2	96	0	1	0	1
-RS39	Pavlovian_phase	7	1	0	0	0	1	0
-RS39	Pavlovian_phase	8	1	0	1	0	0	0
-RS39	Pavlovian_phase	9	2	96	0	1	0	1
-RS39	Pavlovian_phase	10	1	0	0	0	1	0
-RS39	Pavlovian_phase	11	1	0	0	0	1	0
-RS39	Pavlovian_phase	12	1	0	1	0	0	0
-RS39	Pavlovian_phase	13	2	97	0	1	0	1
-RS39	Pavlovian_phase	14	1	0	0	0	1	0
-RS39	Pavlovian_phase	15	2	97	0	1	0	1
-RS39	Pavlovian_phase	16	1	0	0	0	1	0
-RS39	Pavlovian_phase	17	1	0	0	0	1	0
-RS39	Pavlovian_phase	18	2	99	0	1	0	1
-RS39	Pavlovian_phase	19	1	0	1	0	0	0
-RS39	Pavlovian_phase	20	2	98	0	1	0	1
-RS39	Pavlovian_phase	21	2	100	0	1	0	1
-RS39	Pavlovian_phase	22	1	0	0	0	1	0
-RS39	Pavlovian_phase	23	2	97	0	1	0	1
-RS39	Pavlovian_phase	24	2	99	0	1	0	1
-RS39	Pavlovian_phase	25	1	0	0	0	1	0
-RS39	Pavlovian_phase	26	1	0	1	0	0	0
-RS39	Pavlovian_phase	27	2	95	1	0	0	0
-RS39	Pavlovian_phase	28	2	97	1	0	0	0
-RS39	Extinction_phase	29	2	98	0	1	0	0
-RS39	Extinction_phase	30	2	98	0	1	0	0
-RS39	Extinction_phase	31	1	0	0	0	1	0
-RS39	Extinction_phase	32	1	0	0	0	1	0
-RS39	Extinction_phase	33	1	0	1	0	0	0
-RS39	Extinction_phase	34	2	49	1	0	0	0
-RS39	Extinction_phase	35	2	97	0	1	0	0
-RS39	Extinction_phase	36	2	97	0	1	0	0
-RS39	Extinction_phase	37	1	0	0	0	1	0
-RS39	Extinction_phase	38	2	75	1	0	0	0
-RS39	Extinction_phase	39	1	0	0	0	1	0
-RS39	Extinction_phase	40	2	99	0	1	0	0
-RS39	Extinction_phase	41	2	98	0	1	0	0
-RS39	Extinction_phase	42	1	0	0	0	1	0
-RS39	Extinction_phase	43	2	99	0	1	0	0
-RS39	Extinction_phase	44	1	0	1	0	0	0
-RS39	Extinction_phase	45	2	58	1	0	0	0
-RS39	Extinction_phase	46	2	100	0	1	0	0
-RS40	Pavlovian_phase	1	2	52	1	0	0	0
-RS40	Pavlovian_phase	2	1	0	0	1	0	1
-RS40	Pavlovian_phase	3	1	0	0	1	0	1
-RS40	Pavlovian_phase	4	2	84	1	0	0	0
-RS40	Pavlovian_phase	5	2	51	0	0	1	0
-RS40	Pavlovian_phase	6	2	77	0	0	1	0
-RS40	Pavlovian_phase	7	1	0	0	1	0	1
-RS40	Pavlovian_phase	8	2	85	0	0	1	0
-RS40	Pavlovian_phase	9	1	0	0	1	0	1
-RS40	Pavlovian_phase	10	2	87	0	0	1	0
-RS40	Pavlovian_phase	11	1	0	0	1	0	1
-RS40	Pavlovian_phase	12	1	0	0	1	0	1
-RS40	Pavlovian_phase	13	2	88	0	0	1	0
-RS40	Pavlovian_phase	14	1	0	0	1	0	1
-RS40	Pavlovian_phase	15	2	82	1	0	0	0
-RS40	Pavlovian_phase	16	2	86	1	0	0	0
-RS40	Pavlovian_phase	17	1	0	0	1	0	1
-RS40	Pavlovian_phase	18	2	91	0	0	1	0
-RS40	Pavlovian_phase	19	2	88	0	0	1	0
-RS40	Pavlovian_phase	20	1	0	0	1	0	1
-RS40	Pavlovian_phase	21	2	61	1	0	0	0
-RS40	Pavlovian_phase	22	2	1	0	1	0	1
-RS40	Pavlovian_phase	23	2	79	1	0	0	0
-RS40	Pavlovian_phase	24	2	86	0	0	1	0
-RS40	Pavlovian_phase	25	1	0	0	1	0	1
-RS40	Pavlovian_phase	26	2	94	1	0	0	0
-RS40	Pavlovian_phase	27	2	81	1	0	0	0
-RS40	Pavlovian_phase	28	1	0	0	1	0	1
-RS40	Extinction_phase	29	1	0	0	1	0	0
-RS40	Extinction_phase	30	1	0	0	0	1	0
-RS40	Extinction_phase	31	2	88	0	0	1	0
-RS40	Extinction_phase	32	1	0	1	0	0	0
-RS40	Extinction_phase	33	1	0	1	0	0	0
-RS40	Extinction_phase	34	1	0	0	1	0	0
-RS40	Extinction_phase	35	2	74	0	0	1	0
-RS40	Extinction_phase	36	2	82	0	1	0	0
-RS40	Extinction_phase	37	2	59	0	1	0	0
-RS40	Extinction_phase	38	2	89	0	0	1	0
-RS40	Extinction_phase	39	2	59	0	1	0	0
-RS40	Extinction_phase	40	2	28	0	1	0	0
-RS40	Extinction_phase	41	2	63	1	0	0	0
-RS40	Extinction_phase	42	2	19	0	1	0	0
-RS40	Extinction_phase	43	1	0	1	0	0	0
-RS40	Extinction_phase	44	1	0	0	1	0	0
-RS40	Extinction_phase	45	1	0	1	0	0	0
-RS40	Extinction_phase	46	1	0	0	0	1	0
-RS41	Pavlovian_phase	1	1	0	0	1	0	1
-RS41	Pavlovian_phase	2	2	28	1	0	0	0
-RS41	Pavlovian_phase	3	1	0	0	1	0	1
-RS41	Pavlovian_phase	4	2	53	1	0	0	0
-RS41	Pavlovian_phase	5	1	0	0	0	1	0
-RS41	Pavlovian_phase	6	1	0	0	1	0	1
-RS41	Pavlovian_phase	7	2	25	0	1	0	1
-RS41	Pavlovian_phase	8	1	0	0	0	1	0
-RS41	Pavlovian_phase	9	2	80	1	0	0	0
-RS41	Pavlovian_phase	10	2	21	0	1	0	1
-RS41	Pavlovian_phase	11	1	0	0	1	0	1
-RS41	Pavlovian_phase	12	1	0	0	0	1	0
-RS41	Pavlovian_phase	13	1	0	0	1	0	1
-RS41	Pavlovian_phase	14	1	0	0	0	1	0
-RS41	Pavlovian_phase	15	1	0	0	1	0	1
-RS41	Pavlovian_phase	16	1	0	0	0	1	0
-RS41	Pavlovian_phase	17	2	34	1	0	0	0
-RS41	Pavlovian_phase	18	2	59	1	0	0	0
-RS41	Pavlovian_phase	19	1	0	0	1	0	1
-RS41	Pavlovian_phase	20	1	0	0	0	1	0
-RS41	Pavlovian_phase	21	2	82	1	0	0	0
-RS41	Pavlovian_phase	22	1	0	0	1	0	1
-RS41	Pavlovian_phase	23	1	0	0	1	0	1
-RS41	Pavlovian_phase	24	1	0	1	0	0	0
-RS41	Pavlovian_phase	25	2	16	1	0	0	0
-RS41	Pavlovian_phase	26	2	18	0	0	1	0
-RS41	Pavlovian_phase	27	1	0	0	1	0	1
-RS41	Pavlovian_phase	28	2	16	0	0	1	0
-RS41	Extinction_phase	29	1	0	0	1	0	0
-RS41	Extinction_phase	30	2	13	1	0	0	0
-RS41	Extinction_phase	31	2	24	0	1	0	0
-RS41	Extinction_phase	32	2	38	0	1	0	0
-RS41	Extinction_phase	33	1	0	0	0	1	0
-RS41	Extinction_phase	34	2	30	1	0	0	0
-RS41	Extinction_phase	35	1	0	0	0	1	0
-RS41	Extinction_phase	36	1	0	0	0	1	0
-RS41	Extinction_phase	37	2	21	1	0	0	0
-RS41	Extinction_phase	38	1	0	1	0	0	0
-RS41	Extinction_phase	39	1	0	0	1	0	0
-RS41	Extinction_phase	40	1	0	0	1	0	0
-RS41	Extinction_phase	41	1	0	0	0	1	0
-RS41	Extinction_phase	42	2	15	1	0	0	0
-RS41	Extinction_phase	43	2	18	0	1	0	0
-RS41	Extinction_phase	44	2	20	0	1	0	0
-RS41	Extinction_phase	45	1	0	0	0	1	0
-RS41	Extinction_phase	46	2	10	0	1	0	0
-RS43	Pavlovian_phase	1	1	0	1	0	0	0
-RS43	Pavlovian_phase	2	1	0	1	0	0	0
-RS43	Pavlovian_phase	3	2	39	0	1	0	1
-RS43	Pavlovian_phase	4	1	0	0	1	0	1
-RS43	Pavlovian_phase	5	2	62	0	0	1	0
-RS43	Pavlovian_phase	6	1	0	1	0	0	0
-RS43	Pavlovian_phase	7	1	0	0	1	0	1
-RS43	Pavlovian_phase	8	1	0	0	1	0	1
-RS43	Pavlovian_phase	9	2	59	1	0	0	0
-RS43	Pavlovian_phase	10	2	75	0	0	1	0
-RS43	Pavlovian_phase	11	1	0	0	1	0	1
-RS43	Pavlovian_phase	12	2	74	0	0	1	0
-RS43	Pavlovian_phase	13	1	0	1	0	0	0
-RS43	Pavlovian_phase	14	2	57	0	0	1	0
-RS43	Pavlovian_phase	15	1	0	0	1	0	1
-RS43	Pavlovian_phase	16	1	0	0	1	0	1
-RS43	Pavlovian_phase	17	2	68	0	0	1	0
-RS43	Pavlovian_phase	18	2	62	0	0	1	0
-RS43	Pavlovian_phase	19	1	0	0	1	0	1
-RS43	Pavlovian_phase	20	1	0	0	1	0	1
-RS43	Pavlovian_phase	21	2	45	0	0	1	0
-RS43	Pavlovian_phase	22	1	0	0	1	0	1
-RS43	Pavlovian_phase	23	1	0	0	1	0	1
-RS43	Pavlovian_phase	24	2	54	1	0	0	0
-RS43	Pavlovian_phase	25	2	70	0	0	1	0
-RS43	Pavlovian_phase	26	2	79	1	0	0	0
-RS43	Pavlovian_phase	27	2	70	1	0	0	0
-RS43	Pavlovian_phase	28	1	0	0	1	0	1
-RS43	Extinction_phase	29	1	0	1	0	0	0
-RS43	Extinction_phase	30	1	0	0	1	0	0
-RS43	Extinction_phase	31	1	0	0	0	1	0
-RS43	Extinction_phase	32	1	0	0	1	0	0
-RS43	Extinction_phase	33	1	0	0	0	1	0
-RS43	Extinction_phase	34	2	60	0	0	1	0
-RS43	Extinction_phase	35	1	0	1	0	0	0
-RS43	Extinction_phase	36	2	44	1	0	0	0
-RS43	Extinction_phase	37	1	0	0	0	1	0
-RS43	Extinction_phase	38	1	0	0	1	0	0
-RS43	Extinction_phase	39	1	0	0	1	0	0
-RS43	Extinction_phase	40	1	0	1	0	0	0
-RS43	Extinction_phase	41	2	41	0	0	1	0
-RS43	Extinction_phase	42	2	45	0	1	0	0
-RS43	Extinction_phase	43	2	48	0	1	0	0
-RS43	Extinction_phase	44	1	0	1	0	0	0
-RS43	Extinction_phase	45	1	0	0	1	0	0
-RS43	Extinction_phase	46	2	71	0	1	0	0
-RS44	Pavlovian_phase	1	2	0	0	1	0	0
-RS44	Pavlovian_phase	2	2	70	1	0	0	0
-RS44	Pavlovian_phase	3	2	76	0	1	0	1
-RS44	Pavlovian_phase	4	2	81	1	0	0	0
-RS44	Pavlovian_phase	5	2	82	1	0	0	0
-RS44	Pavlovian_phase	6	1	0	0	0	1	0
-RS44	Pavlovian_phase	7	2	81	1	0	0	0
-RS44	Pavlovian_phase	8	1	0	0	1	0	1
-RS44	Pavlovian_phase	9	1	0	0	1	0	1
-RS44	Pavlovian_phase	10	2	86	1	0	0	0
-RS44	Pavlovian_phase	11	2	84	1	0	0	0
-RS44	Pavlovian_phase	12	1	0	0	1	0	1
-RS44	Pavlovian_phase	13	1	0	0	0	1	0
-RS44	Pavlovian_phase	14	2	51	0	0	1	0
-RS44	Pavlovian_phase	15	1	0	0	1	0	1
-RS44	Pavlovian_phase	16	2	91	1	0	0	0
-RS44	Pavlovian_phase	17	2	71	0	0	1	0
-RS44	Pavlovian_phase	18	1	0	0	1	0	1
-RS44	Pavlovian_phase	19	1	0	0	1	0	1
-RS44	Pavlovian_phase	20	2	90	1	0	0	0
-RS44	Pavlovian_phase	21	2	89	0	0	1	0
-RS44	Pavlovian_phase	22	2	93	0	0	1	0
-RS44	Pavlovian_phase	23	1	0	0	1	0	1
-RS44	Pavlovian_phase	24	1	0	0	1	0	1
-RS44	Pavlovian_phase	25	2	98	0	0	1	0
-RS44	Pavlovian_phase	26	1	0	0	1	0	1
-RS44	Pavlovian_phase	27	1	0	0	1	0	1
-RS44	Pavlovian_phase	28	2	78	0	0	1	0
-RS44	Extinction_phase	29	1	0	0	1	0	0
-RS44	Extinction_phase	30	1	0	0	1	0	0
-RS44	Extinction_phase	31	1	0	1	0	0	0
-RS44	Extinction_phase	32	2	87	1	0	0	0
-RS44	Extinction_phase	33	1	0	0	0	1	0
-RS44	Extinction_phase	34	1	0	0	1	0	0
-RS44	Extinction_phase	35	1	0	0	0	1	0
-RS44	Extinction_phase	36	1	0	0	1	0	0
-RS44	Extinction_phase	37	1	0	1	0	0	0
-RS44	Extinction_phase	38	2	54	1	0	0	0
-RS44	Extinction_phase	39	1	0	0	1	0	0
-RS44	Extinction_phase	40	2	62	0	0	1	0
-RS44	Extinction_phase	41	1	0	0	1	0	0
-RS44	Extinction_phase	42	2	53	0	1	0	0
-RS44	Extinction_phase	43	2	72	0	0	1	0
-RS44	Extinction_phase	44	2	80	1	0	0	0
-RS44	Extinction_phase	45	2	82	0	0	1	0
-RS44	Extinction_phase	46	1	0	0	1	0	0
-RS45	Pavlovian_phase	1	2	68	0	1	0	1
-RS45	Pavlovian_phase	2	1	0	1	0	0	0
-RS45	Pavlovian_phase	3	1	0	1	0	0	0
-RS45	Pavlovian_phase	4	2	90	0	1	0	1
-RS45	Pavlovian_phase	5	1	0	0	0	1	0
-RS45	Pavlovian_phase	6	1	0	0	0	1	0
-RS45	Pavlovian_phase	7	2	97	0	1	0	1
-RS45	Pavlovian_phase	8	1	0	0	0	1	0
-RS45	Pavlovian_phase	9	2	100	0	1	0	1
-RS45	Pavlovian_phase	10	1	0	0	0	1	0
-RS45	Pavlovian_phase	11	2	98	0	1	0	1
-RS45	Pavlovian_phase	12	1	0	1	0	0	0
-RS45	Pavlovian_phase	13	2	100	0	1	0	1
-RS45	Pavlovian_phase	14	2	99	0	1	0	1
-RS45	Pavlovian_phase	15	1	0	1	0	0	0
-RS45	Pavlovian_phase	16	1	0	1	0	0	0
-RS45	Pavlovian_phase	17	2	100	0	1	0	1
-RS45	Pavlovian_phase	18	1	0	0	0	1	0
-RS45	Pavlovian_phase	19	1	0	0	0	1	0
-RS45	Pavlovian_phase	20	2	100	0	1	0	1
-RS45	Pavlovian_phase	21	1	0	0	0	1	0
-RS45	Pavlovian_phase	22	2	100	0	1	0	1
-RS45	Pavlovian_phase	23	1	0	1	0	0	0
-RS45	Pavlovian_phase	24	2	99	0	1	0	1
-RS45	Pavlovian_phase	25	2	100	0	1	0	1
-RS45	Pavlovian_phase	26	1	0	1	0	0	0
-RS45	Pavlovian_phase	27	1	0	1	0	0	0
-RS45	Pavlovian_phase	28	1	0	0	0	1	0
-RS45	Extinction_phase	29	1	0	0	0	1	0
-RS45	Extinction_phase	30	2	50	1	0	0	0
-RS45	Extinction_phase	31	1	0	1	0	0	0
-RS45	Extinction_phase	32	2	49	0	1	0	0
-RS45	Extinction_phase	33	1	0	1	0	0	0
-RS45	Extinction_phase	34	1	0	0	1	0	0
-RS45	Extinction_phase	35	1	0	0	0	1	0
-RS45	Extinction_phase	36	1	0	0	1	0	0
-RS45	Extinction_phase	37	1	0	0	0	1	0
-RS45	Extinction_phase	38	1	0	0	0	1	0
-RS45	Extinction_phase	39	1	0	1	0	0	0
-RS45	Extinction_phase	40	1	0	1	0	0	0
-RS45	Extinction_phase	41	1	0	0	1	0	0
-RS45	Extinction_phase	42	1	0	0	1	0	0
-RS45	Extinction_phase	43	1	0	0	0	1	0
-RS45	Extinction_phase	44	1	0	0	1	0	0
-RS45	Extinction_phase	45	1	0	0	1	0	0
-RS45	Extinction_phase	46	1	0	0	1	0	0
-RS46	Pavlovian_phase	1	1	0	1	0	0	0
-RS46	Pavlovian_phase	2	1	0	1	0	0	0
-RS46	Pavlovian_phase	3	1	0	0	1	0	1
-RS46	Pavlovian_phase	4	1	0	0	1	0	1
-RS46	Pavlovian_phase	5	2	55	0	0	1	0
-RS46	Pavlovian_phase	6	1	0	0	1	0	1
-RS46	Pavlovian_phase	7	2	61	1	0	0	0
-RS46	Pavlovian_phase	8	1	0	0	1	0	1
-RS46	Pavlovian_phase	9	2	64	0	0	1	0
-RS46	Pavlovian_phase	10	1	0	0	1	0	1
-RS46	Pavlovian_phase	11	2	51	0	0	1	0
-RS46	Pavlovian_phase	12	1	0	0	1	0	1
-RS46	Pavlovian_phase	13	2	61	0	0	1	0
-RS46	Pavlovian_phase	14	2	84	1	0	0	0
-RS46	Pavlovian_phase	15	1	0	0	1	0	1
-RS46	Pavlovian_phase	16	1	0	0	1	0	1
-RS46	Pavlovian_phase	17	1	0	1	0	0	0
-RS46	Pavlovian_phase	18	2	77	1	0	0	0
-RS46	Pavlovian_phase	19	2	61	0	0	1	0
-RS46	Pavlovian_phase	20	2	63	1	0	0	0
-RS46	Pavlovian_phase	21	2	55	1	0	0	0
-RS46	Pavlovian_phase	22	1	0	0	1	0	1
-RS46	Pavlovian_phase	23	1	0	0	1	0	1
-RS46	Pavlovian_phase	24	1	0	0	0	1	0
-RS46	Pavlovian_phase	25	1	0	0	1	0	1
-RS46	Pavlovian_phase	26	2	88	0	0	1	0
-RS46	Pavlovian_phase	27	1	0	0	0	1	0
-RS46	Pavlovian_phase	28	1	0	0	1	0	1
-RS46	Extinction_phase	29	2	86	1	0	0	0
-RS46	Extinction_phase	30	1	0	0	1	0	0
-RS46	Extinction_phase	31	1	0	1	0	0	0
-RS46	Extinction_phase	32	1	0	1	0	0	0
-RS46	Extinction_phase	33	1	0	0	1	0	0
-RS46	Extinction_phase	34	1	0	0	1	0	0
-RS46	Extinction_phase	35	1	0	0	0	1	0
-RS46	Extinction_phase	36	1	0	0	0	1	0
-RS46	Extinction_phase	37	1	0	0	1	0	0
-RS46	Extinction_phase	38	1	0	0	1	0	0
-RS46	Extinction_phase	39	2	51	1	0	0	0
-RS46	Extinction_phase	40	1	0	0	1	0	0
-RS46	Extinction_phase	41	1	0	0	1	0	0
-RS46	Extinction_phase	42	1	0	0	0	1	0
-RS46	Extinction_phase	43	1	0	0	1	0	0
-RS46	Extinction_phase	44	2	66	0	0	1	0
-RS46	Extinction_phase	45	2	68	0	0	1	0
-RS46	Extinction_phase	46	2	66	1	0	0	0
-RS47	Pavlovian_phase	1	1	0	1	0	0	0
-RS47	Pavlovian_phase	2	1	0	0	1	0	1
-RS47	Pavlovian_phase	3	2	74	1	0	0	0
-RS47	Pavlovian_phase	4	1	0	0	1	0	1
-RS47	Pavlovian_phase	5	1	0	0	1	0	1
-RS47	Pavlovian_phase	6	1	0	0	0	1	0
-RS47	Pavlovian_phase	7	2	77	0	0	1	0
-RS47	Pavlovian_phase	8	1	0	0	1	0	1
-RS47	Pavlovian_phase	9	2	79	0	0	1	0
-RS47	Pavlovian_phase	10	1	0	0	1	0	1
-RS47	Pavlovian_phase	11	1	0	0	1	0	1
-RS47	Pavlovian_phase	12	2	86	0	0	1	0
-RS47	Pavlovian_phase	13	2	72	1	0	0	0
-RS47	Pavlovian_phase	14	1	0	0	1	0	1
-RS47	Pavlovian_phase	15	2	82	1	0	0	0
-RS47	Pavlovian_phase	16	2	79	0	0	1	0
-RS47	Pavlovian_phase	17	1	0	0	1	0	1
-RS47	Pavlovian_phase	18	1	0	0	1	0	1
-RS47	Pavlovian_phase	19	2	74	1	0	0	0
-RS47	Pavlovian_phase	20	2	79	1	0	0	0
-RS47	Pavlovian_phase	21	2	82	0	0	1	0
-RS47	Pavlovian_phase	22	1	0	0	1	0	1
-RS47	Pavlovian_phase	23	2	77	0	0	1	0
-RS47	Pavlovian_phase	24	1	0	0	1	0	1
-RS47	Pavlovian_phase	25	2	78	1	0	0	0
-RS47	Pavlovian_phase	26	2	80	1	0	0	0
-RS47	Pavlovian_phase	27	2	80	0	0	1	0
-RS47	Pavlovian_phase	28	1	0	0	1	0	1
-RS47	Extinction_phase	29	1	0	0	1	0	0
-RS47	Extinction_phase	30	1	0	0	0	1	0
-RS47	Extinction_phase	31	2	75	0	1	0	0
-RS47	Extinction_phase	32	2	78	0	1	0	0
-RS47	Extinction_phase	33	1	0	1	0	0	0
-RS47	Extinction_phase	34	1	0	1	0	0	0
-RS47	Extinction_phase	35	2	74	0	1	0	0
-RS47	Extinction_phase	36	2	79	1	0	0	0
-RS47	Extinction_phase	37	2	77	0	0	1	0
-RS47	Extinction_phase	38	1	0	0	1	0	0
-RS47	Extinction_phase	39	2	76	0	0	1	0
-RS47	Extinction_phase	40	2	80	0	1	0	0
-RS47	Extinction_phase	41	2	83	1	0	0	0
-RS47	Extinction_phase	42	2	79	0	0	1	0
-RS47	Extinction_phase	43	2	77	0	1	0	0
-RS47	Extinction_phase	44	2	78	1	0	0	0
-RS47	Extinction_phase	45	2	76	0	0	1	0
-RS47	Extinction_phase	46	2	75	0	1	0	0
-RS48	Pavlovian_phase	1	2	67	0	1	0	1
-RS48	Pavlovian_phase	2	2	44	1	0	0	0
-RS48	Pavlovian_phase	3	2	89	1	0	0	0
-RS48	Pavlovian_phase	4	1	0	0	1	0	1
-RS48	Pavlovian_phase	5	2	97	0	1	0	1
-RS48	Pavlovian_phase	6	1	0	0	0	1	0
-RS48	Pavlovian_phase	7	1	0	0	0	1	0
-RS48	Pavlovian_phase	8	1	0	0	1	0	1
-RS48	Pavlovian_phase	9	1	0	0	1	0	1
-RS48	Pavlovian_phase	10	2	70	0	0	1	0
-RS48	Pavlovian_phase	11	1	0	1	0	0	0
-RS48	Pavlovian_phase	12	1	0	0	1	0	1
-RS48	Pavlovian_phase	13	1	0	1	0	0	0
-RS48	Pavlovian_phase	14	1	0	0	1	0	1
-RS48	Pavlovian_phase	15	2	72	1	0	0	0
-RS48	Pavlovian_phase	16	1	0	0	0	1	0
-RS48	Pavlovian_phase	17	1	0	1	0	0	0
-RS48	Pavlovian_phase	18	2	63	0	0	1	0
-RS48	Pavlovian_phase	19	1	0	0	1	0	1
-RS48	Pavlovian_phase	20	1	0	1	0	0	0
-RS48	Pavlovian_phase	21	2	85	0	0	1	0
-RS48	Pavlovian_phase	22	1	0	0	1	0	1
-RS48	Pavlovian_phase	23	1	0	0	1	0	1
-RS48	Pavlovian_phase	24	2	99	0	0	1	0
-RS48	Pavlovian_phase	25	1	0	0	1	0	1
-RS48	Pavlovian_phase	26	2	92	0	0	1	0
-RS48	Pavlovian_phase	27	1	0	0	1	0	1
-RS48	Pavlovian_phase	28	1	0	1	0	0	0
-RS48	Extinction_phase	29	1	0	0	1	0	0
-RS48	Extinction_phase	30	1	0	0	0	1	0
-RS48	Extinction_phase	31	1	0	1	0	0	0
-RS48	Extinction_phase	32	1	0	0	1	0	0
-RS48	Extinction_phase	33	1	0	1	0	0	0
-RS48	Extinction_phase	34	1	0	0	0	1	0
-RS48	Extinction_phase	35	2	87	0	1	0	0
-RS48	Extinction_phase	36	2	38	0	0	1	0
-RS48	Extinction_phase	37	1	0	0	0	1	0
-RS48	Extinction_phase	38	1	0	0	1	0	0
-RS48	Extinction_phase	39	1	0	1	0	0	0
-RS48	Extinction_phase	40	1	0	0	1	0	0
-RS48	Extinction_phase	41	1	0	1	0	0	0
-RS48	Extinction_phase	42	1	0	0	1	0	0
-RS48	Extinction_phase	43	1	0	0	0	1	0
-RS48	Extinction_phase	44	1	0	0	1	0	0
-RS48	Extinction_phase	45	1	0	1	0	0	0
-RS48	Extinction_phase	46	1	0	0	1	0	0
-RS49	Pavlovian_phase	1	1	0	0	1	0	1
-RS49	Pavlovian_phase	2	1	0	1	0	0	0
-RS49	Pavlovian_phase	3	1	0	1	0	0	0
-RS49	Pavlovian_phase	4	1	0	0	1	0	1
-RS49	Pavlovian_phase	5	1	0	0	0	1	0
-RS49	Pavlovian_phase	6	1	0	0	1	0	1
-RS49	Pavlovian_phase	7	1	0	0	1	0	1
-RS49	Pavlovian_phase	8	1	0	0	0	1	0
-RS49	Pavlovian_phase	9	2	71	0	0	1	0
-RS49	Pavlovian_phase	10	2	72	1	0	0	0
-RS49	Pavlovian_phase	11	1	0	0	1	0	1
-RS49	Pavlovian_phase	12	2	80	1	0	0	0
-RS49	Pavlovian_phase	13	1	0	0	1	0	1
-RS49	Pavlovian_phase	14	2	84	0	0	1	0
-RS49	Pavlovian_phase	15	2	81	1	0	0	0
-RS49	Pavlovian_phase	16	1	0	0	1	0	1
-RS49	Pavlovian_phase	17	2	80	1	0	0	0
-RS49	Pavlovian_phase	18	1	0	0	1	0	1
-RS49	Pavlovian_phase	19	1	0	0	1	0	1
-RS49	Pavlovian_phase	20	2	71	1	0	0	0
-RS49	Pavlovian_phase	21	2	61	0	0	1	0
-RS49	Pavlovian_phase	22	1	0	0	1	0	1
-RS49	Pavlovian_phase	23	2	55	0	0	1	0
-RS49	Pavlovian_phase	24	1	0	0	1	0	1
-RS49	Pavlovian_phase	25	2	53	0	0	1	0
-RS49	Pavlovian_phase	26	2	50	0	0	1	0
-RS49	Pavlovian_phase	27	1	0	0	1	0	1
-RS49	Pavlovian_phase	28	2	44	1	0	0	0
-RS49	Extinction_phase	29	1	0	0	1	0	0
-RS49	Extinction_phase	30	1	0	0	0	1	0
-RS49	Extinction_phase	31	1	0	1	0	0	0
-RS49	Extinction_phase	32	1	0	0	1	0	0
-RS49	Extinction_phase	33	1	0	1	0	0	0
-RS49	Extinction_phase	34	2	66	1	0	0	0
-RS49	Extinction_phase	35	2	55	0	1	0	0
-RS49	Extinction_phase	36	2	42	0	0	1	0
-RS49	Extinction_phase	37	2	47	0	1	0	0
-RS49	Extinction_phase	38	2	52	0	1	0	0
-RS49	Extinction_phase	39	1	0	0	0	1	0
-RS49	Extinction_phase	40	2	75	0	1	0	0
-RS49	Extinction_phase	41	2	43	0	0	1	0
-RS49	Extinction_phase	42	2	57	0	1	0	0
-RS49	Extinction_phase	43	2	76	1	0	0	0
-RS49	Extinction_phase	44	2	67	1	0	0	0
-RS49	Extinction_phase	45	2	72	0	1	0	0
-RS49	Extinction_phase	46	2	67	0	0	1	0
-RS50	Pavlovian_phase	1	2	69	1	0	0	0
-RS50	Pavlovian_phase	2	2	56	0	1	0	1
-RS50	Pavlovian_phase	3	1	0	0	1	0	1
-RS50	Pavlovian_phase	4	2	80	1	0	0	0
-RS50	Pavlovian_phase	5	1	0	0	1	0	1
-RS50	Pavlovian_phase	6	2	81	1	0	0	0
-RS50	Pavlovian_phase	7	1	0	0	1	0	1
-RS50	Pavlovian_phase	8	2	77	1	0	0	0
-RS50	Pavlovian_phase	9	2	84	1	0	0	0
-RS50	Pavlovian_phase	10	1	0	0	0	1	0
-RS50	Pavlovian_phase	11	1	0	0	1	0	1
-RS50	Pavlovian_phase	12	1	0	0	1	0	1
-RS50	Pavlovian_phase	13	2	78	1	0	0	0
-RS50	Pavlovian_phase	14	1	0	0	0	1	0
-RS50	Pavlovian_phase	15	2	55	0	0	1	0
-RS50	Pavlovian_phase	16	1	0	0	1	0	1
-RS50	Pavlovian_phase	17	2	97	1	0	0	0
-RS50	Pavlovian_phase	18	1	0	0	0	1	0
-RS50	Pavlovian_phase	19	1	0	0	1	0	1
-RS50	Pavlovian_phase	20	2	64	0	0	1	0
-RS50	Pavlovian_phase	21	1	0	0	1	0	1
-RS50	Pavlovian_phase	22	1	0	0	1	0	1
-RS50	Pavlovian_phase	23	2	80	1	0	0	0
-RS50	Pavlovian_phase	24	1	0	0	1	0	1
-RS50	Pavlovian_phase	25	2	51	0	0	1	0
-RS50	Pavlovian_phase	26	2	77	0	0	1	0
-RS50	Pavlovian_phase	27	1	0	0	1	0	1
-RS50	Pavlovian_phase	28	2	57	0	0	1	0
-RS50	Extinction_phase	29	1	0	0	1	0	0
-RS50	Extinction_phase	30	1	0	0	0	1	0
-RS50	Extinction_phase	31	1	0	0	1	0	0
-RS50	Extinction_phase	32	1	0	0	1	0	0
-RS50	Extinction_phase	33	1	0	0	0	1	0
-RS50	Extinction_phase	34	2	69	0	1	0	0
-RS50	Extinction_phase	35	2	64	0	1	0	0
-RS50	Extinction_phase	36	1	0	1	0	0	0
-RS50	Extinction_phase	37	1	0	0	0	1	0
-RS50	Extinction_phase	38	2	62	1	0	0	0
-RS50	Extinction_phase	39	2	61	1	0	0	0
-RS50	Extinction_phase	40	2	63	0	0	1	0
-RS50	Extinction_phase	41	2	72	0	1	0	0
-RS50	Extinction_phase	42	2	63	0	1	0	0
-RS50	Extinction_phase	43	2	70	1	0	0	0
-RS50	Extinction_phase	44	2	53	0	1	0	0
-RS50	Extinction_phase	45	2	51	0	0	1	0
-RS50	Extinction_phase	46	2	52	1	0	0	0
-RS51	Pavlovian_phase	1	2	57	1	0	0	0
-RS51	Pavlovian_phase	2	2	64	1	0	0	0
-RS51	Pavlovian_phase	3	1	0	0	1	0	1
-RS51	Pavlovian_phase	4	1	0	0	1	0	1
-RS51	Pavlovian_phase	5	1	0	0	1	0	1
-RS51	Pavlovian_phase	6	1	0	0	1	0	1
-RS51	Pavlovian_phase	7	2	75	1	0	0	0
-RS51	Pavlovian_phase	8	2	82	1	0	0	0
-RS51	Pavlovian_phase	9	1	0	0	1	0	1
-RS51	Pavlovian_phase	10	2	81	1	0	0	0
-RS51	Pavlovian_phase	11	1	0	0	1	0	1
-RS51	Pavlovian_phase	12	1	0	0	0	1	0
-RS51	Pavlovian_phase	13	2	59	0	0	1	0
-RS51	Pavlovian_phase	14	1	0	0	1	0	1
-RS51	Pavlovian_phase	15	2	69	0	0	1	0
-RS51	Pavlovian_phase	16	2	80	0	0	1	0
-RS51	Pavlovian_phase	17	2	91	1	0	0	0
-RS51	Pavlovian_phase	18	1	0	0	1	0	1
-RS51	Pavlovian_phase	19	2	90	1	0	0	0
-RS51	Pavlovian_phase	20	1	0	0	1	0	1
-RS51	Pavlovian_phase	21	2	92	1	0	0	0
-RS51	Pavlovian_phase	22	1	0	0	0	1	0
-RS51	Pavlovian_phase	23	1	0	0	1	0	1
-RS51	Pavlovian_phase	24	2	86	0	0	1	0
-RS51	Pavlovian_phase	25	1	0	0	1	0	1
-RS51	Pavlovian_phase	26	2	81	0	0	1	0
-RS51	Pavlovian_phase	27	1	0	0	1	0	1
-RS51	Pavlovian_phase	28	2	76	0	0	1	0
-RS51	Extinction_phase	29	1	0	0	1	0	0
-RS51	Extinction_phase	30	1	0	0	1	0	0
-RS51	Extinction_phase	31	1	0	0	0	1	0
-RS51	Extinction_phase	32	2	34	0	1	0	0
-RS51	Extinction_phase	33	2	75	0	0	1	0
-RS51	Extinction_phase	34	2	79	0	0	1	0
-RS51	Extinction_phase	35	1	0	1	0	0	0
-RS51	Extinction_phase	36	2	38	0	1	0	0
-RS51	Extinction_phase	37	2	77	0	0	1	0
-RS51	Extinction_phase	38	2	50	0	1	0	0
-RS51	Extinction_phase	39	2	94	1	0	0	0
-RS51	Extinction_phase	40	2	93	1	0	0	0
-RS51	Extinction_phase	41	2	29	0	1	0	0
-RS51	Extinction_phase	42	2	86	1	0	0	0
-RS51	Extinction_phase	43	2	35	0	1	0	0
-RS51	Extinction_phase	44	1	0	0	0	1	0
-RS51	Extinction_phase	45	2	35	1	0	0	0
-RS51	Extinction_phase	46	2	22	0	1	0	0
+SUBJ_ID	#TRIAL_FLOW	trial_counter	T.CSM	T.CS_EE	T.CS_UU	ReliefChoiceCS	ReliefCS
+RS01	Pavlovian_phase	1	0	1	0	1	0
+RS01	Pavlovian_phase	2	1	0	0	2	76
+RS01	Pavlovian_phase	3	0	1	0	1	0
+RS01	Pavlovian_phase	4	0	1	0	1	0
+RS01	Pavlovian_phase	5	1	0	0	2	79
+RS01	Pavlovian_phase	6	0	1	0	1	0
+RS01	Pavlovian_phase	7	1	0	0	2	84
+RS01	Pavlovian_phase	8	1	0	0	2	87
+RS01	Pavlovian_phase	9	0	0	1	1	0
+RS01	Pavlovian_phase	10	0	0	1	1	0
+RS01	Pavlovian_phase	11	0	1	0	1	0
+RS01	Pavlovian_phase	12	0	1	0	2	19
+RS01	Pavlovian_phase	13	0	0	1	1	0
+RS01	Pavlovian_phase	14	1	0	0	2	87
+RS01	Pavlovian_phase	15	0	0	1	2	69
+RS01	Pavlovian_phase	16	0	1	0	2	4
+RS01	Pavlovian_phase	17	0	1	0	1	0
+RS01	Pavlovian_phase	18	1	0	0	2	87
+RS01	Pavlovian_phase	19	0	1	0	2	11
+RS01	Pavlovian_phase	20	0	0	1	2	89
+RS01	Pavlovian_phase	21	1	0	0	2	96
+RS01	Pavlovian_phase	22	0	0	1	2	92
+RS01	Pavlovian_phase	23	0	1	0	2	44
+RS01	Pavlovian_phase	24	0	1	0	1	0
+RS01	Pavlovian_phase	25	1	0	0	2	88
+RS01	Pavlovian_phase	26	0	0	1	2	92
+RS01	Pavlovian_phase	27	0	1	0	1	0
+RS01	Pavlovian_phase	28	0	0	1	2	94
+RS01	Extinction_phase	29	0	1	0	1	0
+RS01	Extinction_phase	30	0	0	1	1	0
+RS01	Extinction_phase	31	0	0	1	1	0
+RS01	Extinction_phase	32	0	1	0	1	0
+RS01	Extinction_phase	33	0	1	0	1	0
+RS01	Extinction_phase	34	0	0	1	1	0
+RS01	Extinction_phase	35	1	0	0	1	0
+RS01	Extinction_phase	36	0	1	0	2	19
+RS01	Extinction_phase	37	1	0	0	2	66
+RS01	Extinction_phase	38	0	0	1	1	0
+RS01	Extinction_phase	39	1	0	0	2	47
+RS01	Extinction_phase	40	0	1	0	1	0
+RS01	Extinction_phase	41	0	0	1	1	0
+RS01	Extinction_phase	42	0	1	0	1	0
+RS01	Extinction_phase	43	1	0	0	1	0
+RS01	Extinction_phase	44	0	1	0	1	0
+RS01	Extinction_phase	45	1	0	0	1	0
+RS01	Extinction_phase	46	0	1	0	1	0
+RS02	Pavlovian_phase	1	1	0	0	1	0
+RS02	Pavlovian_phase	2	1	0	0	2	84
+RS02	Pavlovian_phase	3	0	1	0	1	0
+RS02	Pavlovian_phase	4	0	1	0	1	0
+RS02	Pavlovian_phase	5	1	0	0	2	98
+RS02	Pavlovian_phase	6	0	1	0	1	0
+RS02	Pavlovian_phase	7	1	0	0	2	96
+RS02	Pavlovian_phase	8	0	1	0	1	0
+RS02	Pavlovian_phase	9	0	1	0	1	0
+RS02	Pavlovian_phase	10	0	0	1	1	0
+RS02	Pavlovian_phase	11	0	0	1	2	97
+RS02	Pavlovian_phase	12	0	1	0	1	0
+RS02	Pavlovian_phase	13	0	1	0	2	16
+RS02	Pavlovian_phase	14	0	0	1	2	86
+RS02	Pavlovian_phase	15	0	1	0	2	16
+RS02	Pavlovian_phase	16	0	0	1	2	99
+RS02	Pavlovian_phase	17	0	1	0	2	23
+RS02	Pavlovian_phase	18	0	0	1	2	97
+RS02	Pavlovian_phase	19	0	1	0	2	49
+RS02	Pavlovian_phase	20	0	0	1	2	100
+RS02	Pavlovian_phase	21	0	0	1	2	98
+RS02	Pavlovian_phase	22	1	0	0	2	96
+RS02	Pavlovian_phase	23	0	1	0	1	0
+RS02	Pavlovian_phase	24	1	0	0	2	88
+RS02	Pavlovian_phase	25	0	0	1	2	87
+RS02	Pavlovian_phase	26	1	0	0	1	0
+RS02	Pavlovian_phase	27	0	1	0	2	19
+RS02	Pavlovian_phase	28	1	0	0	2	74
+RS02	Extinction_phase	29	0	1	0	1	0
+RS02	Extinction_phase	30	0	0	1	1	0
+RS02	Extinction_phase	31	0	1	0	2	60
+RS02	Extinction_phase	32	0	1	0	1	0
+RS02	Extinction_phase	33	1	0	0	1	0
+RS02	Extinction_phase	34	0	0	1	2	27
+RS02	Extinction_phase	35	1	0	0	2	24
+RS02	Extinction_phase	36	0	1	0	1	0
+RS02	Extinction_phase	37	0	1	0	2	87
+RS02	Extinction_phase	38	0	0	1	2	71
+RS02	Extinction_phase	39	0	0	1	2	85
+RS02	Extinction_phase	40	1	0	0	2	94
+RS02	Extinction_phase	41	0	0	1	2	86
+RS02	Extinction_phase	42	0	1	0	2	80
+RS02	Extinction_phase	43	1	0	0	2	95
+RS02	Extinction_phase	44	0	1	0	2	99
+RS02	Extinction_phase	45	1	0	0	2	98
+RS02	Extinction_phase	46	0	1	0	2	97
+RS03	Pavlovian_phase	1	0	1	0	1	0
+RS03	Pavlovian_phase	2	1	0	0	1	0
+RS03	Pavlovian_phase	3	1	0	0	2	14
+RS03	Pavlovian_phase	4	0	1	0	1	0
+RS03	Pavlovian_phase	5	0	1	0	1	0
+RS03	Pavlovian_phase	6	1	0	0	1	0
+RS03	Pavlovian_phase	7	1	0	0	2	26
+RS03	Pavlovian_phase	8	0	1	0	1	0
+RS03	Pavlovian_phase	9	0	0	1	1	0
+RS03	Pavlovian_phase	10	0	1	0	1	0
+RS03	Pavlovian_phase	11	0	1	0	1	0
+RS03	Pavlovian_phase	12	0	0	1	2	10
+RS03	Pavlovian_phase	13	0	0	1	2	38
+RS03	Pavlovian_phase	14	0	1	0	1	0
+RS03	Pavlovian_phase	15	0	1	0	1	0
+RS03	Pavlovian_phase	16	1	0	0	2	8
+RS03	Pavlovian_phase	17	0	0	1	1	0
+RS03	Pavlovian_phase	18	0	0	1	1	0
+RS03	Pavlovian_phase	19	1	0	0	2	9
+RS03	Pavlovian_phase	20	0	0	1	2	11
+RS03	Pavlovian_phase	21	0	1	0	1	0
+RS03	Pavlovian_phase	22	0	1	0	1	0
+RS03	Pavlovian_phase	23	0	0	1	2	20
+RS03	Pavlovian_phase	24	0	0	1	2	35
+RS03	Pavlovian_phase	25	0	1	0	1	0
+RS03	Pavlovian_phase	26	1	0	0	2	18
+RS03	Pavlovian_phase	27	1	0	0	2	19
+RS03	Pavlovian_phase	28	0	1	0	1	0
+RS03	Extinction_phase	29	0	1	0	1	0
+RS03	Extinction_phase	30	0	0	1	1	0
+RS03	Extinction_phase	31	1	0	0	1	0
+RS03	Extinction_phase	32	0	0	1	1	0
+RS03	Extinction_phase	33	0	1	0	1	0
+RS03	Extinction_phase	34	0	0	1	2	7
+RS03	Extinction_phase	35	0	1	0	1	0
+RS03	Extinction_phase	36	1	0	0	1	0
+RS03	Extinction_phase	37	0	0	1	1	0
+RS03	Extinction_phase	38	0	1	0	1	0
+RS03	Extinction_phase	39	1	0	0	2	14
+RS03	Extinction_phase	40	0	1	0	2	12
+RS03	Extinction_phase	41	0	1	0	2	12
+RS03	Extinction_phase	42	1	0	0	2	16
+RS03	Extinction_phase	43	1	0	0	2	14
+RS03	Extinction_phase	44	0	1	0	2	6
+RS03	Extinction_phase	45	0	1	0	2	9
+RS03	Extinction_phase	46	0	0	1	2	7
+RS04	Pavlovian_phase	1	1	0	0	1	0
+RS04	Pavlovian_phase	2	0	1	0	1	0
+RS04	Pavlovian_phase	3	0	1	0	1	0
+RS04	Pavlovian_phase	4	1	0	0	2	13
+RS04	Pavlovian_phase	5	1	0	0	2	34
+RS04	Pavlovian_phase	6	0	1	0	1	0
+RS04	Pavlovian_phase	7	1	0	0	2	31
+RS04	Pavlovian_phase	8	0	1	0	1	0
+RS04	Pavlovian_phase	9	0	1	0	1	0
+RS04	Pavlovian_phase	10	0	0	1	1	0
+RS04	Pavlovian_phase	11	0	1	0	1	0
+RS04	Pavlovian_phase	12	0	0	1	1	0
+RS04	Pavlovian_phase	13	0	1	0	1	0
+RS04	Pavlovian_phase	14	0	0	1	1	0
+RS04	Pavlovian_phase	15	1	0	0	2	36
+RS04	Pavlovian_phase	16	0	0	1	1	0
+RS04	Pavlovian_phase	17	0	0	1	1	0
+RS04	Pavlovian_phase	18	0	1	0	1	0
+RS04	Pavlovian_phase	19	0	1	0	1	0
+RS04	Pavlovian_phase	20	0	0	1	2	45
+RS04	Pavlovian_phase	21	1	0	0	2	59
+RS04	Pavlovian_phase	22	0	0	1	2	19
+RS04	Pavlovian_phase	23	0	1	0	1	0
+RS04	Pavlovian_phase	24	0	1	0	1	0
+RS04	Pavlovian_phase	25	0	0	1	2	35
+RS04	Pavlovian_phase	26	1	0	0	2	61
+RS04	Pavlovian_phase	27	1	0	0	2	57
+RS04	Pavlovian_phase	28	0	1	0	1	0
+RS04	Extinction_phase	29	0	0	1	1	0
+RS04	Extinction_phase	30	1	0	0	1	0
+RS04	Extinction_phase	31	0	1	0	1	0
+RS04	Extinction_phase	32	0	0	1	1	0
+RS04	Extinction_phase	33	0	1	0	1	0
+RS04	Extinction_phase	34	0	1	0	1	0
+RS04	Extinction_phase	35	0	0	1	1	0
+RS04	Extinction_phase	36	1	0	0	1	0
+RS04	Extinction_phase	37	0	1	0	1	0
+RS04	Extinction_phase	38	0	1	0	1	0
+RS04	Extinction_phase	39	1	0	0	1	0
+RS04	Extinction_phase	40	0	0	1	1	0
+RS04	Extinction_phase	41	1	0	0	1	0
+RS04	Extinction_phase	42	1	0	0	1	0
+RS04	Extinction_phase	43	0	0	1	1	0
+RS04	Extinction_phase	44	0	1	0	1	0
+RS04	Extinction_phase	45	0	1	0	1	0
+RS04	Extinction_phase	46	0	1	0	1	0
+RS05	Pavlovian_phase	1	1	0	0	1	0
+RS05	Pavlovian_phase	2	0	1	0	1	0
+RS05	Pavlovian_phase	3	1	0	0	2	13
+RS05	Pavlovian_phase	4	0	1	0	1	0
+RS05	Pavlovian_phase	5	1	0	0	2	21
+RS05	Pavlovian_phase	6	1	0	0	2	8
+RS05	Pavlovian_phase	7	0	1	0	1	0
+RS05	Pavlovian_phase	8	0	1	0	1	0
+RS05	Pavlovian_phase	9	0	1	0	1	0
+RS05	Pavlovian_phase	10	0	0	1	1	0
+RS05	Pavlovian_phase	11	0	1	0	1	0
+RS05	Pavlovian_phase	12	0	0	1	1	0
+RS05	Pavlovian_phase	13	0	0	1	2	10
+RS05	Pavlovian_phase	14	1	0	0	2	15
+RS05	Pavlovian_phase	15	0	0	1	2	15
+RS05	Pavlovian_phase	16	0	1	0	1	0
+RS05	Pavlovian_phase	17	0	1	0	1	0
+RS05	Pavlovian_phase	18	1	0	0	2	19
+RS05	Pavlovian_phase	19	1	0	0	2	21
+RS05	Pavlovian_phase	20	0	1	0	1	0
+RS05	Pavlovian_phase	21	0	0	1	2	13
+RS05	Pavlovian_phase	22	0	0	1	2	21
+RS05	Pavlovian_phase	23	0	1	0	1	0
+RS05	Pavlovian_phase	24	0	1	0	1	0
+RS05	Pavlovian_phase	25	0	0	1	2	21
+RS05	Pavlovian_phase	26	1	0	0	2	9
+RS05	Pavlovian_phase	27	0	1	0	1	0
+RS05	Pavlovian_phase	28	0	0	1	1	0
+RS05	Extinction_phase	29	0	0	1	1	0
+RS05	Extinction_phase	30	1	0	0	1	0
+RS05	Extinction_phase	31	0	1	0	1	0
+RS05	Extinction_phase	32	0	1	0	1	0
+RS05	Extinction_phase	33	0	0	1	2	5
+RS05	Extinction_phase	34	0	0	1	2	13
+RS05	Extinction_phase	35	0	1	0	2	9
+RS05	Extinction_phase	36	1	0	0	1	0
+RS05	Extinction_phase	37	1	0	0	2	18
+RS05	Extinction_phase	38	0	1	0	1	0
+RS05	Extinction_phase	39	1	0	0	2	6
+RS05	Extinction_phase	40	0	1	0	1	0
+RS05	Extinction_phase	41	0	1	0	2	5
+RS05	Extinction_phase	42	0	0	1	2	7
+RS05	Extinction_phase	43	0	1	0	1	0
+RS05	Extinction_phase	44	0	0	1	1	0
+RS05	Extinction_phase	45	0	1	0	1	0
+RS05	Extinction_phase	46	1	0	0	1	0
+RS06	Pavlovian_phase	1	0	1	0	1	0
+RS06	Pavlovian_phase	2	0	1	0	1	0
+RS06	Pavlovian_phase	3	1	0	0	2	40
+RS06	Pavlovian_phase	4	1	0	0	2	55
+RS06	Pavlovian_phase	5	0	1	0	1	0
+RS06	Pavlovian_phase	6	1	0	0	2	63
+RS06	Pavlovian_phase	7	0	1	0	1	0
+RS06	Pavlovian_phase	8	1	0	0	2	66
+RS06	Pavlovian_phase	9	0	1	0	1	0
+RS06	Pavlovian_phase	10	0	0	1	1	0
+RS06	Pavlovian_phase	11	0	1	0	1	0
+RS06	Pavlovian_phase	12	0	0	1	2	62
+RS06	Pavlovian_phase	13	0	0	1	2	69
+RS06	Pavlovian_phase	14	1	0	0	2	69
+RS06	Pavlovian_phase	15	0	0	1	2	81
+RS06	Pavlovian_phase	16	1	0	0	2	86
+RS06	Pavlovian_phase	17	0	1	0	1	0
+RS06	Pavlovian_phase	18	0	1	0	1	0
+RS06	Pavlovian_phase	19	1	0	0	2	83
+RS06	Pavlovian_phase	20	1	0	0	2	50
+RS06	Pavlovian_phase	21	0	1	0	1	0
+RS06	Pavlovian_phase	22	0	0	1	2	40
+RS06	Pavlovian_phase	23	0	1	0	1	0
+RS06	Pavlovian_phase	24	0	0	1	2	30
+RS06	Pavlovian_phase	25	0	0	1	2	32
+RS06	Pavlovian_phase	26	0	1	0	1	0
+RS06	Pavlovian_phase	27	0	0	1	2	26
+RS06	Pavlovian_phase	28	0	1	0	1	0
+RS06	Extinction_phase	29	0	1	0	1	0
+RS06	Extinction_phase	30	1	0	0	1	0
+RS06	Extinction_phase	31	0	1	0	2	49
+RS06	Extinction_phase	32	0	1	0	2	31
+RS06	Extinction_phase	33	0	0	1	1	0
+RS06	Extinction_phase	34	0	0	1	2	32
+RS06	Extinction_phase	35	1	0	0	2	33
+RS06	Extinction_phase	36	1	0	0	2	31
+RS06	Extinction_phase	37	0	0	1	1	0
+RS06	Extinction_phase	38	1	0	0	1	0
+RS06	Extinction_phase	39	0	1	0	1	0
+RS06	Extinction_phase	40	0	1	0	1	0
+RS06	Extinction_phase	41	0	0	1	1	0
+RS06	Extinction_phase	42	1	0	0	1	0
+RS06	Extinction_phase	43	0	1	0	1	0
+RS06	Extinction_phase	44	0	1	0	1	0
+RS06	Extinction_phase	45	0	0	1	1	0
+RS06	Extinction_phase	46	0	1	0	1	0
+RS07	Pavlovian_phase	1	0	1	0	1	0
+RS07	Pavlovian_phase	2	1	0	0	2	9
+RS07	Pavlovian_phase	3	0	1	0	1	0
+RS07	Pavlovian_phase	4	1	0	0	2	30
+RS07	Pavlovian_phase	5	0	1	0	1	0
+RS07	Pavlovian_phase	6	1	0	0	2	33
+RS07	Pavlovian_phase	7	1	0	0	2	50
+RS07	Pavlovian_phase	8	0	1	0	2	6
+RS07	Pavlovian_phase	9	0	1	0	1	0
+RS07	Pavlovian_phase	10	0	1	0	1	0
+RS07	Pavlovian_phase	11	0	0	1	2	11
+RS07	Pavlovian_phase	12	0	0	1	2	41
+RS07	Pavlovian_phase	13	1	0	0	2	69
+RS07	Pavlovian_phase	14	0	0	1	2	53
+RS07	Pavlovian_phase	15	1	0	0	2	49
+RS07	Pavlovian_phase	16	0	1	0	1	0
+RS07	Pavlovian_phase	17	0	1	0	1	0
+RS07	Pavlovian_phase	18	1	0	0	2	62
+RS07	Pavlovian_phase	19	0	0	1	2	43
+RS07	Pavlovian_phase	20	0	1	0	1	0
+RS07	Pavlovian_phase	21	0	0	1	2	61
+RS07	Pavlovian_phase	22	0	0	1	2	78
+RS07	Pavlovian_phase	23	1	0	0	2	87
+RS07	Pavlovian_phase	24	0	1	0	1	0
+RS07	Pavlovian_phase	25	0	0	1	2	89
+RS07	Pavlovian_phase	26	0	1	0	1	0
+RS07	Pavlovian_phase	27	0	1	0	1	0
+RS07	Pavlovian_phase	28	0	0	1	2	92
+RS07	Extinction_phase	29	0	0	1	2	66
+RS07	Extinction_phase	30	0	0	1	2	89
+RS07	Extinction_phase	31	0	1	0	1	0
+RS07	Extinction_phase	32	0	1	0	1	0
+RS07	Extinction_phase	33	0	0	1	2	72
+RS07	Extinction_phase	34	1	0	0	1	0
+RS07	Extinction_phase	35	0	0	1	2	77
+RS07	Extinction_phase	36	0	1	0	2	13
+RS07	Extinction_phase	37	1	0	0	2	53
+RS07	Extinction_phase	38	1	0	0	2	71
+RS07	Extinction_phase	39	0	0	1	2	67
+RS07	Extinction_phase	40	0	1	0	2	34
+RS07	Extinction_phase	41	0	1	0	2	36
+RS07	Extinction_phase	42	1	0	0	2	60
+RS07	Extinction_phase	43	0	1	0	2	39
+RS07	Extinction_phase	44	1	0	0	2	62
+RS07	Extinction_phase	45	0	1	0	2	37
+RS07	Extinction_phase	46	0	1	0	2	42
+RS08	Pavlovian_phase	1	1	0	0	1	0
+RS08	Pavlovian_phase	2	0	1	0	1	0
+RS08	Pavlovian_phase	3	1	0	0	1	0
+RS08	Pavlovian_phase	4	0	1	0	1	0
+RS08	Pavlovian_phase	5	0	1	0	1	0
+RS08	Pavlovian_phase	6	1	0	0	1	0
+RS08	Pavlovian_phase	7	0	1	0	1	0
+RS08	Pavlovian_phase	8	1	0	0	1	0
+RS08	Pavlovian_phase	9	0	0	1	1	0
+RS08	Pavlovian_phase	10	0	1	0	1	0
+RS08	Pavlovian_phase	11	0	0	1	1	0
+RS08	Pavlovian_phase	12	0	1	0	1	0
+RS08	Pavlovian_phase	13	0	0	1	1	0
+RS08	Pavlovian_phase	14	1	0	0	1	0
+RS08	Pavlovian_phase	15	0	1	0	1	0
+RS08	Pavlovian_phase	16	0	0	1	2	50
+RS08	Pavlovian_phase	17	0	1	0	1	0
+RS08	Pavlovian_phase	18	1	0	0	2	50
+RS08	Pavlovian_phase	19	0	0	1	2	55
+RS08	Pavlovian_phase	20	0	0	1	2	66
+RS08	Pavlovian_phase	21	0	1	0	1	0
+RS08	Pavlovian_phase	22	0	1	0	1	0
+RS08	Pavlovian_phase	23	0	0	1	2	54
+RS08	Pavlovian_phase	24	0	1	0	1	0
+RS08	Pavlovian_phase	25	1	0	0	2	61
+RS08	Pavlovian_phase	26	0	1	0	1	0
+RS08	Pavlovian_phase	27	0	0	1	2	60
+RS08	Pavlovian_phase	28	1	0	0	2	58
+RS08	Extinction_phase	29	0	1	0	1	0
+RS08	Extinction_phase	30	0	1	0	1	0
+RS08	Extinction_phase	31	0	0	1	1	0
+RS08	Extinction_phase	32	0	0	1	1	0
+RS08	Extinction_phase	33	1	0	0	1	0
+RS08	Extinction_phase	34	0	1	0	1	0
+RS08	Extinction_phase	35	0	0	1	1	0
+RS08	Extinction_phase	36	0	0	1	1	0
+RS08	Extinction_phase	37	0	1	0	1	0
+RS08	Extinction_phase	38	0	1	0	1	0
+RS08	Extinction_phase	39	1	0	0	1	0
+RS08	Extinction_phase	40	1	0	0	1	0
+RS08	Extinction_phase	41	0	1	0	1	0
+RS08	Extinction_phase	42	0	1	0	1	0
+RS08	Extinction_phase	43	0	0	1	1	0
+RS08	Extinction_phase	44	0	1	0	1	0
+RS08	Extinction_phase	45	1	0	0	1	0
+RS08	Extinction_phase	46	1	0	0	1	0
+RS09	Pavlovian_phase	1	0	1	0	1	0
+RS09	Pavlovian_phase	2	1	0	0	1	0
+RS09	Pavlovian_phase	3	1	0	0	1	0
+RS09	Pavlovian_phase	4	0	1	0	1	0
+RS09	Pavlovian_phase	5	1	0	0	1	0
+RS09	Pavlovian_phase	6	0	1	0	1	0
+RS09	Pavlovian_phase	7	1	0	0	1	0
+RS09	Pavlovian_phase	8	0	1	0	1	0
+RS09	Pavlovian_phase	9	1	0	0	1	0
+RS09	Pavlovian_phase	10	0	1	0	1	0
+RS09	Pavlovian_phase	11	0	0	1	1	0
+RS09	Pavlovian_phase	12	0	0	1	1	0
+RS09	Pavlovian_phase	13	0	1	0	1	0
+RS09	Pavlovian_phase	14	0	1	0	1	0
+RS09	Pavlovian_phase	15	1	0	0	2	65
+RS09	Pavlovian_phase	16	0	1	0	1	0
+RS09	Pavlovian_phase	17	1	0	0	1	0
+RS09	Pavlovian_phase	18	0	1	0	1	0
+RS09	Pavlovian_phase	19	0	0	1	2	64
+RS09	Pavlovian_phase	20	0	0	1	2	68
+RS09	Pavlovian_phase	21	0	1	0	1	0
+RS09	Pavlovian_phase	22	0	1	0	1	0
+RS09	Pavlovian_phase	23	0	0	1	2	65
+RS09	Pavlovian_phase	24	0	0	1	2	61
+RS09	Pavlovian_phase	25	1	0	0	1	0
+RS09	Pavlovian_phase	26	0	0	1	2	64
+RS09	Pavlovian_phase	27	0	1	0	1	0
+RS09	Pavlovian_phase	28	0	0	1	2	66
+RS09	Extinction_phase	29	0	1	0	1	0
+RS09	Extinction_phase	30	0	0	1	1	0
+RS09	Extinction_phase	31	0	0	1	2	68
+RS09	Extinction_phase	32	1	0	0	1	0
+RS09	Extinction_phase	33	0	1	0	1	0
+RS09	Extinction_phase	34	0	0	1	1	0
+RS09	Extinction_phase	35	1	0	0	1	0
+RS09	Extinction_phase	36	0	1	0	1	0
+RS09	Extinction_phase	37	1	0	0	1	0
+RS09	Extinction_phase	38	0	1	0	1	0
+RS09	Extinction_phase	39	0	1	0	1	0
+RS09	Extinction_phase	40	1	0	0	1	0
+RS09	Extinction_phase	41	0	1	0	1	0
+RS09	Extinction_phase	42	1	0	0	1	0
+RS09	Extinction_phase	43	0	0	1	1	0
+RS09	Extinction_phase	44	0	1	0	1	0
+RS09	Extinction_phase	45	0	0	1	1	0
+RS09	Extinction_phase	46	0	1	0	1	0
+RS10	Pavlovian_phase	1	0	1	0	1	0
+RS10	Pavlovian_phase	2	1	0	0	1	0
+RS10	Pavlovian_phase	3	0	1	0	1	0
+RS10	Pavlovian_phase	4	1	0	0	2	37
+RS10	Pavlovian_phase	5	1	0	0	2	34
+RS10	Pavlovian_phase	6	0	1	0	1	0
+RS10	Pavlovian_phase	7	0	1	0	1	0
+RS10	Pavlovian_phase	8	1	0	0	2	46
+RS10	Pavlovian_phase	9	0	0	1	1	0
+RS10	Pavlovian_phase	10	0	1	0	1	0
+RS10	Pavlovian_phase	11	0	1	0	1	0
+RS10	Pavlovian_phase	12	1	0	0	2	30
+RS10	Pavlovian_phase	13	0	1	0	1	0
+RS10	Pavlovian_phase	14	0	0	1	2	20
+RS10	Pavlovian_phase	15	0	1	0	1	0
+RS10	Pavlovian_phase	16	0	1	0	1	0
+RS10	Pavlovian_phase	17	0	0	1	2	23
+RS10	Pavlovian_phase	18	1	0	0	2	31
+RS10	Pavlovian_phase	19	0	1	0	1	0
+RS10	Pavlovian_phase	20	0	1	0	1	0
+RS10	Pavlovian_phase	21	0	0	1	2	36
+RS10	Pavlovian_phase	22	0	1	0	1	0
+RS10	Pavlovian_phase	23	0	0	1	2	32
+RS10	Pavlovian_phase	24	0	0	1	1	0
+RS10	Pavlovian_phase	25	1	0	0	2	39
+RS10	Pavlovian_phase	26	0	0	1	2	30
+RS10	Pavlovian_phase	27	1	0	0	2	52
+RS10	Pavlovian_phase	28	0	0	1	2	32
+RS10	Extinction_phase	29	1	0	0	2	29
+RS10	Extinction_phase	30	0	0	1	2	19
+RS10	Extinction_phase	31	0	1	0	1	0
+RS10	Extinction_phase	32	1	0	0	2	45
+RS10	Extinction_phase	33	0	0	1	2	20
+RS10	Extinction_phase	34	0	1	0	2	8
+RS10	Extinction_phase	35	1	0	0	2	16
+RS10	Extinction_phase	36	0	1	0	2	16
+RS10	Extinction_phase	37	0	1	0	1	0
+RS10	Extinction_phase	38	1	0	0	1	0
+RS10	Extinction_phase	39	0	1	0	1	0
+RS10	Extinction_phase	40	0	0	1	1	0
+RS10	Extinction_phase	41	0	1	0	1	0
+RS10	Extinction_phase	42	1	0	0	1	0
+RS10	Extinction_phase	43	0	0	1	1	0
+RS10	Extinction_phase	44	0	0	1	1	0
+RS10	Extinction_phase	45	0	1	0	1	0
+RS10	Extinction_phase	46	0	1	0	1	0
+RS11	Pavlovian_phase	1	1	0	0	1	0
+RS11	Pavlovian_phase	2	0	1	0	1	0
+RS11	Pavlovian_phase	3	0	1	0	1	0
+RS11	Pavlovian_phase	4	1	0	0	2	57
+RS11	Pavlovian_phase	5	1	0	0	2	68
+RS11	Pavlovian_phase	6	0	1	0	1	0
+RS11	Pavlovian_phase	7	0	1	0	1	0
+RS11	Pavlovian_phase	8	1	0	0	2	46
+RS11	Pavlovian_phase	9	0	0	1	1	0
+RS11	Pavlovian_phase	10	0	0	1	2	44
+RS11	Pavlovian_phase	11	1	0	0	2	49
+RS11	Pavlovian_phase	12	0	0	1	2	48
+RS11	Pavlovian_phase	13	0	0	1	2	57
+RS11	Pavlovian_phase	14	0	1	0	1	0
+RS11	Pavlovian_phase	15	0	0	1	2	70
+RS11	Pavlovian_phase	16	0	1	0	1	0
+RS11	Pavlovian_phase	17	0	1	0	1	0
+RS11	Pavlovian_phase	18	1	0	0	2	60
+RS11	Pavlovian_phase	19	0	0	1	2	59
+RS11	Pavlovian_phase	20	0	1	0	1	0
+RS11	Pavlovian_phase	21	0	1	0	1	0
+RS11	Pavlovian_phase	22	1	0	0	2	59
+RS11	Pavlovian_phase	23	0	0	1	2	66
+RS11	Pavlovian_phase	24	0	1	0	1	0
+RS11	Pavlovian_phase	25	0	1	0	1	0
+RS11	Pavlovian_phase	26	0	0	1	2	56
+RS11	Pavlovian_phase	27	1	0	0	2	69
+RS11	Pavlovian_phase	28	0	1	0	1	0
+RS11	Extinction_phase	29	0	1	0	1	0
+RS11	Extinction_phase	30	1	0	0	2	56
+RS11	Extinction_phase	31	1	0	0	2	79
+RS11	Extinction_phase	32	0	1	0	2	74
+RS11	Extinction_phase	33	0	1	0	2	74
+RS11	Extinction_phase	34	0	0	1	1	0
+RS11	Extinction_phase	35	0	0	1	2	66
+RS11	Extinction_phase	36	0	1	0	2	66
+RS11	Extinction_phase	37	0	1	0	2	69
+RS11	Extinction_phase	38	0	0	1	2	70
+RS11	Extinction_phase	39	0	1	0	2	80
+RS11	Extinction_phase	40	0	1	0	2	76
+RS11	Extinction_phase	41	1	0	0	2	68
+RS11	Extinction_phase	42	1	0	0	2	62
+RS11	Extinction_phase	43	0	0	1	2	69
+RS11	Extinction_phase	44	1	0	0	2	65
+RS11	Extinction_phase	45	0	1	0	2	76
+RS11	Extinction_phase	46	0	0	1	2	57
+RS12	Pavlovian_phase	1	0	1	0	1	0
+RS12	Pavlovian_phase	2	1	0	0	1	0
+RS12	Pavlovian_phase	3	1	0	0	2	60
+RS12	Pavlovian_phase	4	0	1	0	1	0
+RS12	Pavlovian_phase	5	0	1	0	1	0
+RS12	Pavlovian_phase	6	1	0	0	2	63
+RS12	Pavlovian_phase	7	0	1	0	1	0
+RS12	Pavlovian_phase	8	1	0	0	2	75
+RS12	Pavlovian_phase	9	0	1	0	1	0
+RS12	Pavlovian_phase	10	0	1	0	1	0
+RS12	Pavlovian_phase	11	0	0	1	1	0
+RS12	Pavlovian_phase	12	0	1	0	1	0
+RS12	Pavlovian_phase	13	0	1	0	1	0
+RS12	Pavlovian_phase	14	0	0	1	2	56
+RS12	Pavlovian_phase	15	1	0	0	2	66
+RS12	Pavlovian_phase	16	0	1	0	1	0
+RS12	Pavlovian_phase	17	0	0	1	2	78
+RS12	Pavlovian_phase	18	1	0	0	2	70
+RS12	Pavlovian_phase	19	1	0	0	2	79
+RS12	Pavlovian_phase	20	0	0	1	2	74
+RS12	Pavlovian_phase	21	0	1	0	1	0
+RS12	Pavlovian_phase	22	1	0	0	2	76
+RS12	Pavlovian_phase	23	0	1	0	1	0
+RS12	Pavlovian_phase	24	0	0	1	2	72
+RS12	Pavlovian_phase	25	0	0	1	2	74
+RS12	Pavlovian_phase	26	0	1	0	1	0
+RS12	Pavlovian_phase	27	0	0	1	2	79
+RS12	Pavlovian_phase	28	0	0	1	2	89
+RS12	Extinction_phase	29	0	1	0	1	0
+RS12	Extinction_phase	30	1	0	0	1	0
+RS12	Extinction_phase	31	1	0	0	2	69
+RS12	Extinction_phase	32	0	1	0	2	78
+RS12	Extinction_phase	33	0	1	0	2	76
+RS12	Extinction_phase	34	0	0	1	1	0
+RS12	Extinction_phase	35	0	1	0	2	74
+RS12	Extinction_phase	36	0	0	1	2	81
+RS12	Extinction_phase	37	0	1	0	2	66
+RS12	Extinction_phase	38	0	1	0	2	63
+RS12	Extinction_phase	39	0	0	1	2	76
+RS12	Extinction_phase	40	0	0	1	2	79
+RS12	Extinction_phase	41	1	0	0	2	80
+RS12	Extinction_phase	42	0	0	1	2	71
+RS12	Extinction_phase	43	0	1	0	2	81
+RS12	Extinction_phase	44	1	0	0	2	79
+RS12	Extinction_phase	45	0	1	0	2	80
+RS12	Extinction_phase	46	1	0	0	2	77
+RS13	Pavlovian_phase	1	1	0	0	1	0
+RS13	Pavlovian_phase	2	0	1	0	1	0
+RS13	Pavlovian_phase	3	0	1	0	1	0
+RS13	Pavlovian_phase	4	1	0	0	1	0
+RS13	Pavlovian_phase	5	0	1	0	1	0
+RS13	Pavlovian_phase	6	0	0	1	1	0
+RS13	Pavlovian_phase	7	0	0	1	2	47
+RS13	Pavlovian_phase	8	0	1	0	2	14
+RS13	Pavlovian_phase	9	0	1	0	1	0
+RS13	Pavlovian_phase	10	1	0	0	1	0
+RS13	Pavlovian_phase	11	0	1	0	1	0
+RS13	Pavlovian_phase	12	0	0	1	1	0
+RS13	Pavlovian_phase	13	1	0	0	2	16
+RS13	Pavlovian_phase	14	0	1	0	1	0
+RS13	Pavlovian_phase	15	0	1	0	1	0
+RS13	Pavlovian_phase	16	0	0	1	1	0
+RS13	Pavlovian_phase	17	0	0	1	1	0
+RS13	Pavlovian_phase	18	0	1	0	1	0
+RS13	Pavlovian_phase	19	1	0	0	1	0
+RS13	Pavlovian_phase	20	0	0	1	2	25
+RS13	Pavlovian_phase	21	0	0	1	2	42
+RS13	Pavlovian_phase	22	1	0	0	1	0
+RS13	Pavlovian_phase	23	0	1	0	2	47
+RS13	Pavlovian_phase	24	1	0	0	1	0
+RS13	Pavlovian_phase	25	0	1	0	1	0
+RS13	Pavlovian_phase	26	0	1	0	1	0
+RS13	Pavlovian_phase	27	0	0	1	2	7
+RS13	Pavlovian_phase	28	1	0	0	2	4
+RS13	Extinction_phase	29	0	0	1	1	0
+RS13	Extinction_phase	30	1	0	0	1	0
+RS13	Extinction_phase	31	0	1	0	1	0
+RS13	Extinction_phase	32	0	0	1	2	50
+RS13	Extinction_phase	33	0	0	1	2	52
+RS13	Extinction_phase	34	0	1	0	1	0
+RS13	Extinction_phase	35	1	0	0	1	0
+RS13	Extinction_phase	36	0	1	0	1	0
+RS13	Extinction_phase	37	1	0	0	1	0
+RS13	Extinction_phase	38	0	1	0	2	16
+RS13	Extinction_phase	39	0	1	0	2	8
+RS13	Extinction_phase	40	0	0	1	2	45
+RS13	Extinction_phase	41	0	1	0	1	0
+RS13	Extinction_phase	42	1	0	0	1	0
+RS13	Extinction_phase	43	0	1	0	1	0
+RS13	Extinction_phase	44	0	0	1	1	0
+RS13	Extinction_phase	45	1	0	0	1	0
+RS13	Extinction_phase	46	0	1	0	1	0
+RS14	Pavlovian_phase	1	0	1	0	1	0
+RS14	Pavlovian_phase	2	0	1	0	1	0
+RS14	Pavlovian_phase	3	1	0	0	2	59
+RS14	Pavlovian_phase	4	1	0	0	2	56
+RS14	Pavlovian_phase	5	1	0	0	2	68
+RS14	Pavlovian_phase	6	0	1	0	1	0
+RS14	Pavlovian_phase	7	1	0	0	2	73
+RS14	Pavlovian_phase	8	0	1	0	1	0
+RS14	Pavlovian_phase	9	1	0	0	2	71
+RS14	Pavlovian_phase	10	0	0	1	2	60
+RS14	Pavlovian_phase	11	0	0	1	2	68
+RS14	Pavlovian_phase	12	1	0	0	2	69
+RS14	Pavlovian_phase	13	0	1	0	1	0
+RS14	Pavlovian_phase	14	0	0	1	2	60
+RS14	Pavlovian_phase	15	0	1	0	1	0
+RS14	Pavlovian_phase	16	0	0	1	2	66
+RS14	Pavlovian_phase	17	1	0	0	2	82
+RS14	Pavlovian_phase	18	0	1	0	1	0
+RS14	Pavlovian_phase	19	0	0	1	2	67
+RS14	Pavlovian_phase	20	0	1	0	1	0
+RS14	Pavlovian_phase	21	0	0	1	2	77
+RS14	Pavlovian_phase	22	0	1	0	1	0
+RS14	Pavlovian_phase	23	0	0	1	2	48
+RS14	Pavlovian_phase	24	0	1	0	1	0
+RS14	Pavlovian_phase	25	1	0	0	2	67
+RS14	Pavlovian_phase	26	0	1	0	1	0
+RS14	Pavlovian_phase	27	0	0	1	2	69
+RS14	Pavlovian_phase	28	0	1	0	1	0
+RS14	Extinction_phase	29	1	0	0	2	71
+RS14	Extinction_phase	30	0	0	1	2	74
+RS14	Extinction_phase	31	1	0	0	2	66
+RS14	Extinction_phase	32	0	1	0	1	0
+RS14	Extinction_phase	33	0	1	0	1	0
+RS14	Extinction_phase	34	0	0	1	2	71
+RS14	Extinction_phase	35	0	1	0	1	0
+RS14	Extinction_phase	36	1	0	0	2	73
+RS14	Extinction_phase	37	0	0	1	2	70
+RS14	Extinction_phase	38	0	1	0	1	0
+RS14	Extinction_phase	39	1	0	0	2	71
+RS14	Extinction_phase	40	0	1	0	1	0
+RS14	Extinction_phase	41	1	0	0	2	71
+RS14	Extinction_phase	42	0	1	0	1	0
+RS14	Extinction_phase	43	0	1	0	1	0
+RS14	Extinction_phase	44	0	0	1	2	69
+RS14	Extinction_phase	45	0	0	1	2	72
+RS14	Extinction_phase	46	0	1	0	1	0
+RS15	Pavlovian_phase	1	0	1	0	1	0
+RS15	Pavlovian_phase	2	0	1	0	1	0
+RS15	Pavlovian_phase	3	1	0	0	2	80
+RS15	Pavlovian_phase	4	1	0	0	2	66
+RS15	Pavlovian_phase	5	1	0	0	2	60
+RS15	Pavlovian_phase	6	0	0	1	2	49
+RS15	Pavlovian_phase	7	1	0	0	2	77
+RS15	Pavlovian_phase	8	0	1	0	1	0
+RS15	Pavlovian_phase	9	0	1	0	1	0
+RS15	Pavlovian_phase	10	0	0	1	2	61
+RS15	Pavlovian_phase	11	0	1	0	1	0
+RS15	Pavlovian_phase	12	0	1	0	1	0
+RS15	Pavlovian_phase	13	0	0	1	2	87
+RS15	Pavlovian_phase	14	0	0	1	2	39
+RS15	Pavlovian_phase	15	1	0	0	2	54
+RS15	Pavlovian_phase	16	0	1	0	1	0
+RS15	Pavlovian_phase	17	0	1	0	1	0
+RS15	Pavlovian_phase	18	0	0	1	2	67
+RS15	Pavlovian_phase	19	0	1	0	1	0
+RS15	Pavlovian_phase	20	1	0	0	2	44
+RS15	Pavlovian_phase	21	0	0	1	1	0
+RS15	Pavlovian_phase	22	0	1	0	1	0
+RS15	Pavlovian_phase	23	0	0	1	2	73
+RS15	Pavlovian_phase	24	1	0	0	1	0
+RS15	Pavlovian_phase	25	1	0	0	2	69
+RS15	Pavlovian_phase	26	0	0	1	2	92
+RS15	Pavlovian_phase	27	0	1	0	1	0
+RS15	Pavlovian_phase	28	0	1	0	1	0
+RS15	Extinction_phase	29	0	0	1	1	0
+RS15	Extinction_phase	30	0	1	0	2	75
+RS15	Extinction_phase	31	1	0	0	1	0
+RS15	Extinction_phase	32	0	1	0	2	74
+RS15	Extinction_phase	33	0	0	1	2	87
+RS15	Extinction_phase	34	1	0	0	1	0
+RS15	Extinction_phase	35	0	1	0	1	0
+RS15	Extinction_phase	36	1	0	0	1	0
+RS15	Extinction_phase	37	0	0	1	1	0
+RS15	Extinction_phase	38	0	1	0	1	0
+RS15	Extinction_phase	39	0	1	0	1	0
+RS15	Extinction_phase	40	0	0	1	1	0
+RS15	Extinction_phase	41	0	1	0	1	0
+RS15	Extinction_phase	42	0	1	0	1	0
+RS15	Extinction_phase	43	0	0	1	1	0
+RS15	Extinction_phase	44	1	0	0	1	0
+RS15	Extinction_phase	45	0	1	0	1	0
+RS15	Extinction_phase	46	1	0	0	1	0
+RS16	Pavlovian_phase	1	0	1	0	2	23
+RS16	Pavlovian_phase	2	1	0	0	2	13
+RS16	Pavlovian_phase	3	0	1	0	2	8
+RS16	Pavlovian_phase	4	1	0	0	2	36
+RS16	Pavlovian_phase	5	0	1	0	1	0
+RS16	Pavlovian_phase	6	0	1	0	1	0
+RS16	Pavlovian_phase	7	1	0	0	2	66
+RS16	Pavlovian_phase	8	1	0	0	2	50
+RS16	Pavlovian_phase	9	0	0	1	2	24
+RS16	Pavlovian_phase	10	1	0	0	2	50
+RS16	Pavlovian_phase	11	0	1	0	1	0
+RS16	Pavlovian_phase	12	0	0	1	2	54
+RS16	Pavlovian_phase	13	0	0	1	2	59
+RS16	Pavlovian_phase	14	1	0	0	2	56
+RS16	Pavlovian_phase	15	0	1	0	1	0
+RS16	Pavlovian_phase	16	0	1	0	1	0
+RS16	Pavlovian_phase	17	0	0	1	2	48
+RS16	Pavlovian_phase	18	0	1	0	1	0
+RS16	Pavlovian_phase	19	0	0	1	2	38
+RS16	Pavlovian_phase	20	0	0	1	2	36
+RS16	Pavlovian_phase	21	0	1	0	1	0
+RS16	Pavlovian_phase	22	0	1	0	1	0
+RS16	Pavlovian_phase	23	0	0	1	2	31
+RS16	Pavlovian_phase	24	1	0	0	2	31
+RS16	Pavlovian_phase	25	0	1	0	1	0
+RS16	Pavlovian_phase	26	1	0	0	2	28
+RS16	Pavlovian_phase	27	0	1	0	1	0
+RS16	Pavlovian_phase	28	0	0	1	2	26
+RS16	Extinction_phase	29	0	0	1	2	13
+RS16	Extinction_phase	30	0	1	0	1	0
+RS16	Extinction_phase	31	1	0	0	2	16
+RS16	Extinction_phase	32	0	1	0	2	16
+RS16	Extinction_phase	33	0	1	0	2	36
+RS16	Extinction_phase	34	0	0	1	2	20
+RS16	Extinction_phase	35	0	1	0	2	36
+RS16	Extinction_phase	36	0	1	0	2	14
+RS16	Extinction_phase	37	1	0	0	2	13
+RS16	Extinction_phase	38	0	1	0	2	16
+RS16	Extinction_phase	39	0	1	0	2	11
+RS16	Extinction_phase	40	0	0	1	2	11
+RS16	Extinction_phase	41	1	0	0	2	11
+RS16	Extinction_phase	42	1	0	0	2	14
+RS16	Extinction_phase	43	0	0	1	2	10
+RS16	Extinction_phase	44	0	0	1	1	0
+RS16	Extinction_phase	45	0	1	0	1	0
+RS16	Extinction_phase	46	1	0	0	1	0
+RS17	Pavlovian_phase	1	0	1	0	1	0
+RS17	Pavlovian_phase	2	1	0	0	1	0
+RS17	Pavlovian_phase	3	1	0	0	2	64
+RS17	Pavlovian_phase	4	0	1	0	1	0
+RS17	Pavlovian_phase	5	0	1	0	1	0
+RS17	Pavlovian_phase	6	0	0	1	1	0
+RS17	Pavlovian_phase	7	1	0	0	2	68
+RS17	Pavlovian_phase	8	0	1	0	1	0
+RS17	Pavlovian_phase	9	0	0	1	2	59
+RS17	Pavlovian_phase	10	0	1	0	1	0
+RS17	Pavlovian_phase	11	0	0	1	2	67
+RS17	Pavlovian_phase	12	0	1	0	1	0
+RS17	Pavlovian_phase	13	0	0	1	2	57
+RS17	Pavlovian_phase	14	1	0	0	2	58
+RS17	Pavlovian_phase	15	0	1	0	1	0
+RS17	Pavlovian_phase	16	0	0	1	2	58
+RS17	Pavlovian_phase	17	0	0	1	2	57
+RS17	Pavlovian_phase	18	0	1	0	1	0
+RS17	Pavlovian_phase	19	1	0	0	2	57
+RS17	Pavlovian_phase	20	0	0	1	2	57
+RS17	Pavlovian_phase	21	0	0	1	2	57
+RS17	Pavlovian_phase	22	0	1	0	1	0
+RS17	Pavlovian_phase	23	1	0	0	2	53
+RS17	Pavlovian_phase	24	0	1	0	1	0
+RS17	Pavlovian_phase	25	1	0	0	2	51
+RS17	Pavlovian_phase	26	0	1	0	1	0
+RS17	Pavlovian_phase	27	0	1	0	1	0
+RS17	Pavlovian_phase	28	1	0	0	2	50
+RS17	Extinction_phase	29	0	1	0	1	0
+RS17	Extinction_phase	30	0	1	0	1	0
+RS17	Extinction_phase	31	1	0	0	1	0
+RS17	Extinction_phase	32	1	0	0	2	31
+RS17	Extinction_phase	33	0	0	1	1	0
+RS17	Extinction_phase	34	0	0	1	1	0
+RS17	Extinction_phase	35	1	0	0	2	29
+RS17	Extinction_phase	36	0	1	0	2	29
+RS17	Extinction_phase	37	0	0	1	2	25
+RS17	Extinction_phase	38	0	1	0	2	31
+RS17	Extinction_phase	39	1	0	0	2	30
+RS17	Extinction_phase	40	0	1	0	2	28
+RS17	Extinction_phase	41	0	1	0	1	0
+RS17	Extinction_phase	42	0	0	1	1	0
+RS17	Extinction_phase	43	1	0	0	1	0
+RS17	Extinction_phase	44	0	1	0	1	0
+RS17	Extinction_phase	45	0	1	0	1	0
+RS17	Extinction_phase	46	0	0	1	1	0
+RS18	Pavlovian_phase	1	0	1	0	1	0
+RS18	Pavlovian_phase	2	1	0	0	1	0
+RS18	Pavlovian_phase	3	0	1	0	1	0
+RS18	Pavlovian_phase	4	1	0	0	2	62
+RS18	Pavlovian_phase	5	0	1	0	1	0
+RS18	Pavlovian_phase	6	0	0	1	2	59
+RS18	Pavlovian_phase	7	0	1	0	1	0
+RS18	Pavlovian_phase	8	1	0	0	2	75
+RS18	Pavlovian_phase	9	0	1	0	1	0
+RS18	Pavlovian_phase	10	0	0	1	1	0
+RS18	Pavlovian_phase	11	0	0	1	2	56
+RS18	Pavlovian_phase	12	0	1	0	1	0
+RS18	Pavlovian_phase	13	0	1	0	1	0
+RS18	Pavlovian_phase	14	1	0	0	2	79
+RS18	Pavlovian_phase	15	0	1	0	1	0
+RS18	Pavlovian_phase	16	0	1	0	1	0
+RS18	Pavlovian_phase	17	1	0	0	2	84
+RS18	Pavlovian_phase	18	0	0	1	2	68
+RS18	Pavlovian_phase	19	0	0	1	1	0
+RS18	Pavlovian_phase	20	1	0	0	2	73
+RS18	Pavlovian_phase	21	0	1	0	1	0
+RS18	Pavlovian_phase	22	1	0	0	2	59
+RS18	Pavlovian_phase	23	0	1	0	1	0
+RS18	Pavlovian_phase	24	0	0	1	2	68
+RS18	Pavlovian_phase	25	1	0	0	2	60
+RS18	Pavlovian_phase	26	0	0	1	2	70
+RS18	Pavlovian_phase	27	0	0	1	2	67
+RS18	Pavlovian_phase	28	0	1	0	1	0
+RS18	Extinction_phase	29	1	0	0	1	0
+RS18	Extinction_phase	30	1	0	0	2	53
+RS18	Extinction_phase	31	0	1	0	1	0
+RS18	Extinction_phase	32	1	0	0	2	72
+RS18	Extinction_phase	33	0	0	1	1	0
+RS18	Extinction_phase	34	1	0	0	1	0
+RS18	Extinction_phase	35	0	1	0	2	54
+RS18	Extinction_phase	36	0	1	0	1	0
+RS18	Extinction_phase	37	0	0	1	1	0
+RS18	Extinction_phase	38	0	1	0	2	55
+RS18	Extinction_phase	39	0	1	0	2	64
+RS18	Extinction_phase	40	1	0	0	1	0
+RS18	Extinction_phase	41	0	1	0	2	57
+RS18	Extinction_phase	42	0	0	1	1	0
+RS18	Extinction_phase	43	0	1	0	2	56
+RS18	Extinction_phase	44	0	0	1	1	0
+RS18	Extinction_phase	45	0	1	0	2	53
+RS18	Extinction_phase	46	0	0	1	1	0
+RS19	Pavlovian_phase	1	1	0	0	1	0
+RS19	Pavlovian_phase	2	0	1	0	1	0
+RS19	Pavlovian_phase	3	1	0	0	2	58
+RS19	Pavlovian_phase	4	0	1	0	1	0
+RS19	Pavlovian_phase	5	1	0	0	2	67
+RS19	Pavlovian_phase	6	0	1	0	1	0
+RS19	Pavlovian_phase	7	0	1	0	1	0
+RS19	Pavlovian_phase	8	1	0	0	2	74
+RS19	Pavlovian_phase	9	0	1	0	1	0
+RS19	Pavlovian_phase	10	0	1	0	1	0
+RS19	Pavlovian_phase	11	1	0	0	2	87
+RS19	Pavlovian_phase	12	0	0	1	1	0
+RS19	Pavlovian_phase	13	0	0	1	1	0
+RS19	Pavlovian_phase	14	0	1	0	1	0
+RS19	Pavlovian_phase	15	0	1	0	1	0
+RS19	Pavlovian_phase	16	1	0	0	2	91
+RS19	Pavlovian_phase	17	0	0	1	2	69
+RS19	Pavlovian_phase	18	0	0	1	2	87
+RS19	Pavlovian_phase	19	0	1	0	1	0
+RS19	Pavlovian_phase	20	0	0	1	2	80
+RS19	Pavlovian_phase	21	0	1	0	1	0
+RS19	Pavlovian_phase	22	0	0	1	2	90
+RS19	Pavlovian_phase	23	0	1	0	1	0
+RS19	Pavlovian_phase	24	1	0	0	2	96
+RS19	Pavlovian_phase	25	0	1	0	1	0
+RS19	Pavlovian_phase	26	0	0	1	2	89
+RS19	Pavlovian_phase	27	0	0	1	2	91
+RS19	Pavlovian_phase	28	1	0	0	2	99
+RS19	Extinction_phase	29	0	1	0	1	0
+RS19	Extinction_phase	30	1	0	0	2	98
+RS19	Extinction_phase	31	0	0	1	2	90
+RS19	Extinction_phase	32	0	1	0	1	0
+RS19	Extinction_phase	33	1	0	0	2	92
+RS19	Extinction_phase	34	1	0	0	2	71
+RS19	Extinction_phase	35	0	1	0	2	46
+RS19	Extinction_phase	36	1	0	0	2	98
+RS19	Extinction_phase	37	1	0	0	2	98
+RS19	Extinction_phase	38	0	0	1	2	86
+RS19	Extinction_phase	39	0	0	1	2	92
+RS19	Extinction_phase	40	0	1	0	2	74
+RS19	Extinction_phase	41	0	1	0	2	87
+RS19	Extinction_phase	42	0	0	1	2	96
+RS19	Extinction_phase	43	0	1	0	2	89
+RS19	Extinction_phase	44	0	0	1	2	97
+RS19	Extinction_phase	45	0	1	0	2	91
+RS19	Extinction_phase	46	0	1	0	2	89
+RS20	Pavlovian_phase	1	0	1	0	1	0
+RS20	Pavlovian_phase	2	1	0	0	2	38
+RS20	Pavlovian_phase	3	0	1	0	1	0
+RS20	Pavlovian_phase	4	1	0	0	2	16
+RS20	Pavlovian_phase	5	1	0	0	2	12
+RS20	Pavlovian_phase	6	0	0	1	1	0
+RS20	Pavlovian_phase	7	0	1	0	1	0
+RS20	Pavlovian_phase	8	1	0	0	2	14
+RS20	Pavlovian_phase	9	1	0	0	2	16
+RS20	Pavlovian_phase	10	0	0	1	2	21
+RS20	Pavlovian_phase	11	0	1	0	1	0
+RS20	Pavlovian_phase	12	0	1	0	1	0
+RS20	Pavlovian_phase	13	1	0	0	2	27
+RS20	Pavlovian_phase	14	0	0	1	2	31
+RS20	Pavlovian_phase	15	0	1	0	1	0
+RS20	Pavlovian_phase	16	0	1	0	1	0
+RS20	Pavlovian_phase	17	1	0	0	2	26
+RS20	Pavlovian_phase	18	0	0	1	2	35
+RS20	Pavlovian_phase	19	0	0	1	2	36
+RS20	Pavlovian_phase	20	0	1	0	1	0
+RS20	Pavlovian_phase	21	0	0	1	2	33
+RS20	Pavlovian_phase	22	0	0	1	2	24
+RS20	Pavlovian_phase	23	1	0	0	2	29
+RS20	Pavlovian_phase	24	0	1	0	1	0
+RS20	Pavlovian_phase	25	0	0	1	2	30
+RS20	Pavlovian_phase	26	0	1	0	1	0
+RS20	Pavlovian_phase	27	0	1	0	1	0
+RS20	Pavlovian_phase	28	0	1	0	1	0
+RS20	Extinction_phase	29	0	0	1	2	33
+RS20	Extinction_phase	30	0	1	0	1	0
+RS20	Extinction_phase	31	1	0	0	2	16
+RS20	Extinction_phase	32	0	0	1	2	47
+RS20	Extinction_phase	33	1	0	0	2	30
+RS20	Extinction_phase	34	0	1	0	1	0
+RS20	Extinction_phase	35	0	0	1	2	44
+RS20	Extinction_phase	36	1	0	0	2	27
+RS20	Extinction_phase	37	0	1	0	1	0
+RS20	Extinction_phase	38	1	0	0	2	18
+RS20	Extinction_phase	39	0	1	0	1	0
+RS20	Extinction_phase	40	0	0	1	2	20
+RS20	Extinction_phase	41	0	1	0	1	0
+RS20	Extinction_phase	42	0	1	0	1	0
+RS20	Extinction_phase	43	1	0	0	1	0
+RS20	Extinction_phase	44	0	1	0	1	0
+RS20	Extinction_phase	45	0	0	1	1	0
+RS20	Extinction_phase	46	0	1	0	1	0
+RS21	Pavlovian_phase	1	1	0	0	2	58
+RS21	Pavlovian_phase	2	1	0	0	2	47
+RS21	Pavlovian_phase	3	0	1	0	1	0
+RS21	Pavlovian_phase	4	0	1	0	1	0
+RS21	Pavlovian_phase	5	0	0	1	2	44
+RS21	Pavlovian_phase	6	0	1	0	1	0
+RS21	Pavlovian_phase	7	0	1	0	1	0
+RS21	Pavlovian_phase	8	0	0	1	2	54
+RS21	Pavlovian_phase	9	0	0	1	2	49
+RS21	Pavlovian_phase	10	1	0	0	2	51
+RS21	Pavlovian_phase	11	0	1	0	1	0
+RS21	Pavlovian_phase	12	1	0	0	2	56
+RS21	Pavlovian_phase	13	0	1	0	1	0
+RS21	Pavlovian_phase	14	0	1	0	1	0
+RS21	Pavlovian_phase	15	0	0	1	2	52
+RS21	Pavlovian_phase	16	0	0	1	2	50
+RS21	Pavlovian_phase	17	1	0	0	2	55
+RS21	Pavlovian_phase	18	0	1	0	1	0
+RS21	Pavlovian_phase	19	0	0	1	2	55
+RS21	Pavlovian_phase	20	0	1	0	1	0
+RS21	Pavlovian_phase	21	0	1	0	1	0
+RS21	Pavlovian_phase	22	1	0	0	2	52
+RS21	Pavlovian_phase	23	1	0	0	2	57
+RS21	Pavlovian_phase	24	0	1	0	1	0
+RS21	Pavlovian_phase	25	0	1	0	1	0
+RS21	Pavlovian_phase	26	0	0	1	2	54
+RS21	Pavlovian_phase	27	0	0	1	2	58
+RS21	Pavlovian_phase	28	1	0	0	2	57
+RS21	Extinction_phase	29	0	1	0	1	0
+RS21	Extinction_phase	30	0	0	1	1	0
+RS21	Extinction_phase	31	0	0	1	2	56
+RS21	Extinction_phase	32	1	0	0	1	0
+RS21	Extinction_phase	33	1	0	0	1	0
+RS21	Extinction_phase	34	0	1	0	2	61
+RS21	Extinction_phase	35	1	0	0	2	59
+RS21	Extinction_phase	36	0	1	0	2	60
+RS21	Extinction_phase	37	0	0	1	2	60
+RS21	Extinction_phase	38	1	0	0	2	60
+RS21	Extinction_phase	39	1	0	0	2	61
+RS21	Extinction_phase	40	0	1	0	2	62
+RS21	Extinction_phase	41	0	1	0	2	62
+RS21	Extinction_phase	42	0	0	1	2	57
+RS21	Extinction_phase	43	0	1	0	2	57
+RS21	Extinction_phase	44	0	1	0	2	59
+RS21	Extinction_phase	45	0	0	1	2	45
+RS21	Extinction_phase	46	0	1	0	2	52
+RS22	Pavlovian_phase	1	1	0	0	1	0
+RS22	Pavlovian_phase	2	1	0	0	2	54
+RS22	Pavlovian_phase	3	0	1	0	1	0
+RS22	Pavlovian_phase	4	0	1	0	1	0
+RS22	Pavlovian_phase	5	1	0	0	1	0
+RS22	Pavlovian_phase	6	0	0	1	1	0
+RS22	Pavlovian_phase	7	0	1	0	1	0
+RS22	Pavlovian_phase	8	1	0	0	2	40
+RS22	Pavlovian_phase	9	0	1	0	1	0
+RS22	Pavlovian_phase	10	0	0	1	1	0
+RS22	Pavlovian_phase	11	1	0	0	2	66
+RS22	Pavlovian_phase	12	0	1	0	1	0
+RS22	Pavlovian_phase	13	0	0	1	2	58
+RS22	Pavlovian_phase	14	0	0	1	2	61
+RS22	Pavlovian_phase	15	0	1	0	1	0
+RS22	Pavlovian_phase	16	1	0	0	2	69
+RS22	Pavlovian_phase	17	0	1	0	1	0
+RS22	Pavlovian_phase	18	0	1	0	1	0
+RS22	Pavlovian_phase	19	0	0	1	2	73
+RS22	Pavlovian_phase	20	0	0	1	2	65
+RS22	Pavlovian_phase	21	1	0	0	2	71
+RS22	Pavlovian_phase	22	0	1	0	1	0
+RS22	Pavlovian_phase	23	0	1	0	1	0
+RS22	Pavlovian_phase	24	0	0	1	2	77
+RS22	Pavlovian_phase	25	0	0	1	2	65
+RS22	Pavlovian_phase	26	0	1	0	1	0
+RS22	Pavlovian_phase	27	0	1	0	1	0
+RS22	Pavlovian_phase	28	1	0	0	2	74
+RS22	Extinction_phase	29	0	1	0	1	0
+RS22	Extinction_phase	30	0	1	0	2	70
+RS22	Extinction_phase	31	1	0	0	2	74
+RS22	Extinction_phase	32	0	1	0	2	71
+RS22	Extinction_phase	33	1	0	0	2	64
+RS22	Extinction_phase	34	0	1	0	2	60
+RS22	Extinction_phase	35	0	0	1	1	0
+RS22	Extinction_phase	36	0	0	1	2	64
+RS22	Extinction_phase	37	0	1	0	2	63
+RS22	Extinction_phase	38	1	0	0	2	64
+RS22	Extinction_phase	39	1	0	0	2	66
+RS22	Extinction_phase	40	0	0	1	2	52
+RS22	Extinction_phase	41	0	0	1	1	0
+RS22	Extinction_phase	42	0	1	0	1	0
+RS22	Extinction_phase	43	1	0	0	1	0
+RS22	Extinction_phase	44	0	1	0	1	0
+RS22	Extinction_phase	45	0	0	1	1	0
+RS22	Extinction_phase	46	0	1	0	1	0
+RS23	Pavlovian_phase	1	1	0	0	1	0
+RS23	Pavlovian_phase	2	1	0	0	2	78
+RS23	Pavlovian_phase	3	0	1	0	1	0
+RS23	Pavlovian_phase	4	0	1	0	1	0
+RS23	Pavlovian_phase	5	0	0	1	1	0
+RS23	Pavlovian_phase	6	0	1	0	1	0
+RS23	Pavlovian_phase	7	1	0	0	2	90
+RS23	Pavlovian_phase	8	0	1	0	1	0
+RS23	Pavlovian_phase	9	0	0	1	2	92
+RS23	Pavlovian_phase	10	0	1	0	1	0
+RS23	Pavlovian_phase	11	0	1	0	1	0
+RS23	Pavlovian_phase	12	0	0	1	2	100
+RS23	Pavlovian_phase	13	0	1	0	1	0
+RS23	Pavlovian_phase	14	0	1	0	1	0
+RS23	Pavlovian_phase	15	1	0	0	2	100
+RS23	Pavlovian_phase	16	0	0	1	2	99
+RS23	Pavlovian_phase	17	0	0	1	2	98
+RS23	Pavlovian_phase	18	0	1	0	1	0
+RS23	Pavlovian_phase	19	1	0	0	2	91
+RS23	Pavlovian_phase	20	1	0	0	2	96
+RS23	Pavlovian_phase	21	0	1	0	1	0
+RS23	Pavlovian_phase	22	0	0	1	2	97
+RS23	Pavlovian_phase	23	0	1	0	1	0
+RS23	Pavlovian_phase	24	1	0	0	2	97
+RS23	Pavlovian_phase	25	0	1	0	1	0
+RS23	Pavlovian_phase	26	1	0	0	2	95
+RS23	Pavlovian_phase	27	0	0	1	2	99
+RS23	Pavlovian_phase	28	0	0	1	2	96
+RS23	Extinction_phase	29	0	0	1	2	58
+RS23	Extinction_phase	30	0	1	0	1	0
+RS23	Extinction_phase	31	0	1	0	2	54
+RS23	Extinction_phase	32	0	0	1	2	91
+RS23	Extinction_phase	33	0	0	1	2	87
+RS23	Extinction_phase	34	0	1	0	2	88
+RS23	Extinction_phase	35	1	0	0	1	0
+RS23	Extinction_phase	36	1	0	0	2	51
+RS23	Extinction_phase	37	0	0	1	2	71
+RS23	Extinction_phase	38	1	0	0	1	0
+RS23	Extinction_phase	39	0	1	0	1	0
+RS23	Extinction_phase	40	1	0	0	1	0
+RS23	Extinction_phase	41	0	1	0	1	0
+RS23	Extinction_phase	42	0	1	0	1	0
+RS23	Extinction_phase	43	0	0	1	1	0
+RS23	Extinction_phase	44	0	1	0	1	0
+RS23	Extinction_phase	45	1	0	0	1	0
+RS23	Extinction_phase	46	0	1	0	1	0
+RS24	Pavlovian_phase	1	1	0	0	2	61
+RS24	Pavlovian_phase	2	0	1	0	1	0
+RS24	Pavlovian_phase	3	0	1	0	1	0
+RS24	Pavlovian_phase	4	1	0	0	2	68
+RS24	Pavlovian_phase	5	1	0	0	2	84
+RS24	Pavlovian_phase	6	1	0	0	2	88
+RS24	Pavlovian_phase	7	0	1	0	1	0
+RS24	Pavlovian_phase	8	0	1	0	1	0
+RS24	Pavlovian_phase	9	0	0	1	2	54
+RS24	Pavlovian_phase	10	0	1	0	1	0
+RS24	Pavlovian_phase	11	0	1	0	1	0
+RS24	Pavlovian_phase	12	0	0	1	2	68
+RS24	Pavlovian_phase	13	0	0	1	2	88
+RS24	Pavlovian_phase	14	1	0	0	2	80
+RS24	Pavlovian_phase	15	0	0	1	2	79
+RS24	Pavlovian_phase	16	0	1	0	1	0
+RS24	Pavlovian_phase	17	0	1	0	1	0
+RS24	Pavlovian_phase	18	0	0	1	2	82
+RS24	Pavlovian_phase	19	0	0	1	2	64
+RS24	Pavlovian_phase	20	0	1	0	1	0
+RS24	Pavlovian_phase	21	1	0	0	2	93
+RS24	Pavlovian_phase	22	1	0	0	2	93
+RS24	Pavlovian_phase	23	0	1	0	1	0
+RS24	Pavlovian_phase	24	0	0	1	2	59
+RS24	Pavlovian_phase	25	0	1	0	1	0
+RS24	Pavlovian_phase	26	1	0	0	2	96
+RS24	Pavlovian_phase	27	0	1	0	1	0
+RS24	Pavlovian_phase	28	0	0	1	2	76
+RS24	Extinction_phase	29	0	1	0	1	0
+RS24	Extinction_phase	30	0	0	1	1	0
+RS24	Extinction_phase	31	0	0	1	2	48
+RS24	Extinction_phase	32	0	1	0	2	52
+RS24	Extinction_phase	33	0	0	1	2	65
+RS24	Extinction_phase	34	1	0	0	1	0
+RS24	Extinction_phase	35	0	0	1	1	0
+RS24	Extinction_phase	36	0	1	0	1	0
+RS24	Extinction_phase	37	1	0	0	1	0
+RS24	Extinction_phase	38	1	0	0	1	0
+RS24	Extinction_phase	39	0	1	0	1	0
+RS24	Extinction_phase	40	0	1	0	1	0
+RS24	Extinction_phase	41	0	0	1	1	0
+RS24	Extinction_phase	42	1	0	0	2	51
+RS24	Extinction_phase	43	0	1	0	2	49
+RS24	Extinction_phase	44	0	1	0	2	50
+RS24	Extinction_phase	45	1	0	0	1	0
+RS24	Extinction_phase	46	0	1	0	2	49
+RS25	Pavlovian_phase	1	0	1	0	1	0
+RS25	Pavlovian_phase	2	1	0	0	2	88
+RS25	Pavlovian_phase	3	1	0	0	2	62
+RS25	Pavlovian_phase	4	0	1	0	1	0
+RS25	Pavlovian_phase	5	1	0	0	2	79
+RS25	Pavlovian_phase	6	0	1	0	1	0
+RS25	Pavlovian_phase	7	0	0	1	1	0
+RS25	Pavlovian_phase	8	0	0	1	2	65
+RS25	Pavlovian_phase	9	1	0	0	2	71
+RS25	Pavlovian_phase	10	0	1	0	1	0
+RS25	Pavlovian_phase	11	0	0	1	2	82
+RS25	Pavlovian_phase	12	0	1	0	1	0
+RS25	Pavlovian_phase	13	0	1	0	1	0
+RS25	Pavlovian_phase	14	0	0	1	2	72
+RS25	Pavlovian_phase	15	0	0	1	2	79
+RS25	Pavlovian_phase	16	0	1	0	1	0
+RS25	Pavlovian_phase	17	0	1	0	1	0
+RS25	Pavlovian_phase	18	1	0	0	2	86
+RS25	Pavlovian_phase	19	0	1	0	1	0
+RS25	Pavlovian_phase	20	0	0	1	2	84
+RS25	Pavlovian_phase	21	0	1	0	1	0
+RS25	Pavlovian_phase	22	1	0	0	2	83
+RS25	Pavlovian_phase	23	1	0	0	2	86
+RS25	Pavlovian_phase	24	0	0	1	2	85
+RS25	Pavlovian_phase	25	0	1	0	1	0
+RS25	Pavlovian_phase	26	0	1	0	1	0
+RS25	Pavlovian_phase	27	1	0	0	2	86
+RS25	Pavlovian_phase	28	0	0	1	2	91
+RS25	Extinction_phase	29	0	1	0	1	0
+RS25	Extinction_phase	30	0	0	1	1	0
+RS25	Extinction_phase	31	1	0	0	2	65
+RS25	Extinction_phase	32	1	0	0	2	81
+RS25	Extinction_phase	33	0	0	1	2	86
+RS25	Extinction_phase	34	0	1	0	1	0
+RS25	Extinction_phase	35	0	1	0	1	0
+RS25	Extinction_phase	36	0	0	1	2	80
+RS25	Extinction_phase	37	0	1	0	1	0
+RS25	Extinction_phase	38	1	0	0	2	82
+RS25	Extinction_phase	39	0	1	0	2	46
+RS25	Extinction_phase	40	0	0	1	2	80
+RS25	Extinction_phase	41	0	0	1	2	78
+RS25	Extinction_phase	42	1	0	0	2	79
+RS25	Extinction_phase	43	0	1	0	1	0
+RS25	Extinction_phase	44	0	1	0	2	38
+RS25	Extinction_phase	45	1	0	0	2	80
+RS25	Extinction_phase	46	0	1	0	2	52
+RS26	Pavlovian_phase	1	0	1	0	1	0
+RS26	Pavlovian_phase	2	0	1	0	1	0
+RS26	Pavlovian_phase	3	1	0	0	2	59
+RS26	Pavlovian_phase	4	1	0	0	2	61
+RS26	Pavlovian_phase	5	0	1	0	1	0
+RS26	Pavlovian_phase	6	0	0	1	2	62
+RS26	Pavlovian_phase	7	0	0	1	2	60
+RS26	Pavlovian_phase	8	0	1	0	1	0
+RS26	Pavlovian_phase	9	0	1	0	1	0
+RS26	Pavlovian_phase	10	1	0	0	2	56
+RS26	Pavlovian_phase	11	0	1	0	1	0
+RS26	Pavlovian_phase	12	0	0	1	2	74
+RS26	Pavlovian_phase	13	0	0	1	2	68
+RS26	Pavlovian_phase	14	0	1	0	1	0
+RS26	Pavlovian_phase	15	0	1	0	1	0
+RS26	Pavlovian_phase	16	0	0	1	2	73
+RS26	Pavlovian_phase	17	0	0	1	2	66
+RS26	Pavlovian_phase	18	0	1	0	1	0
+RS26	Pavlovian_phase	19	0	0	1	2	64
+RS26	Pavlovian_phase	20	0	1	0	1	0
+RS26	Pavlovian_phase	21	0	0	1	2	65
+RS26	Pavlovian_phase	22	0	1	0	1	0
+RS26	Pavlovian_phase	23	1	0	0	2	59
+RS26	Pavlovian_phase	24	1	0	0	2	61
+RS26	Pavlovian_phase	25	0	1	0	1	0
+RS26	Pavlovian_phase	26	1	0	0	2	61
+RS26	Pavlovian_phase	27	1	0	0	2	63
+RS26	Pavlovian_phase	28	1	0	0	1	0
+RS26	Extinction_phase	29	0	0	1	2	62
+RS26	Extinction_phase	30	0	1	0	1	0
+RS26	Extinction_phase	31	0	1	0	1	0
+RS26	Extinction_phase	32	1	0	0	1	0
+RS26	Extinction_phase	33	1	0	0	2	80
+RS26	Extinction_phase	34	0	1	0	1	0
+RS26	Extinction_phase	35	1	0	0	2	70
+RS26	Extinction_phase	36	0	0	1	1	0
+RS26	Extinction_phase	37	0	1	0	2	62
+RS26	Extinction_phase	38	0	1	0	1	0
+RS26	Extinction_phase	39	0	0	1	1	0
+RS26	Extinction_phase	40	0	0	1	1	0
+RS26	Extinction_phase	41	1	0	0	1	0
+RS26	Extinction_phase	42	0	1	0	1	0
+RS26	Extinction_phase	43	1	0	0	1	0
+RS26	Extinction_phase	44	0	1	0	1	0
+RS26	Extinction_phase	45	0	0	1	1	0
+RS26	Extinction_phase	46	0	1	0	1	0
+RS27	Pavlovian_phase	1	1	0	0	2	30
+RS27	Pavlovian_phase	2	0	1	0	1	0
+RS27	Pavlovian_phase	3	1	0	0	2	20
+RS27	Pavlovian_phase	4	0	1	0	1	0
+RS27	Pavlovian_phase	5	0	1	0	1	0
+RS27	Pavlovian_phase	6	1	0	0	2	38
+RS27	Pavlovian_phase	7	0	1	0	1	0
+RS27	Pavlovian_phase	8	0	1	0	1	0
+RS27	Pavlovian_phase	9	1	0	0	2	23
+RS27	Pavlovian_phase	10	0	0	1	1	0
+RS27	Pavlovian_phase	11	0	0	1	2	36
+RS27	Pavlovian_phase	12	0	1	0	1	0
+RS27	Pavlovian_phase	13	1	0	0	2	48
+RS27	Pavlovian_phase	14	0	1	0	1	0
+RS27	Pavlovian_phase	15	0	0	1	2	24
+RS27	Pavlovian_phase	16	0	1	0	1	0
+RS27	Pavlovian_phase	17	0	1	0	1	0
+RS27	Pavlovian_phase	18	1	0	0	2	32
+RS27	Pavlovian_phase	19	0	0	1	2	24
+RS27	Pavlovian_phase	20	0	1	0	1	0
+RS27	Pavlovian_phase	21	0	0	1	2	9
+RS27	Pavlovian_phase	22	0	0	1	1	0
+RS27	Pavlovian_phase	23	0	1	0	1	0
+RS27	Pavlovian_phase	24	0	1	0	1	0
+RS27	Pavlovian_phase	25	1	0	0	2	17
+RS27	Pavlovian_phase	26	0	0	1	1	0
+RS27	Pavlovian_phase	27	1	0	0	2	21
+RS27	Pavlovian_phase	28	0	0	1	2	7
+RS27	Extinction_phase	29	0	1	0	1	0
+RS27	Extinction_phase	30	1	0	0	1	0
+RS27	Extinction_phase	31	1	0	0	2	26
+RS27	Extinction_phase	32	0	0	1	1	0
+RS27	Extinction_phase	33	1	0	0	2	14
+RS27	Extinction_phase	34	0	0	1	1	0
+RS27	Extinction_phase	35	1	0	0	1	0
+RS27	Extinction_phase	36	0	1	0	1	0
+RS27	Extinction_phase	37	0	1	0	1	0
+RS27	Extinction_phase	38	0	0	1	1	0
+RS27	Extinction_phase	39	0	1	0	1	0
+RS27	Extinction_phase	40	0	1	0	1	0
+RS27	Extinction_phase	41	0	0	1	1	0
+RS27	Extinction_phase	42	0	0	1	1	0
+RS27	Extinction_phase	43	0	1	0	1	0
+RS27	Extinction_phase	44	0	1	0	1	0
+RS27	Extinction_phase	45	1	0	0	1	0
+RS27	Extinction_phase	46	0	1	0	1	0
+RS28	Pavlovian_phase	1	1	0	0	2	62
+RS28	Pavlovian_phase	2	0	1	0	1	0
+RS28	Pavlovian_phase	3	1	0	0	2	54
+RS28	Pavlovian_phase	4	0	1	0	1	0
+RS28	Pavlovian_phase	5	1	0	0	2	77
+RS28	Pavlovian_phase	6	1	0	0	1	0
+RS28	Pavlovian_phase	7	0	1	0	1	0
+RS28	Pavlovian_phase	8	0	0	1	1	0
+RS28	Pavlovian_phase	9	0	1	0	1	0
+RS28	Pavlovian_phase	10	0	1	0	1	0
+RS28	Pavlovian_phase	11	0	0	1	1	0
+RS28	Pavlovian_phase	12	0	1	0	1	0
+RS28	Pavlovian_phase	13	0	0	1	1	0
+RS28	Pavlovian_phase	14	0	1	0	1	0
+RS28	Pavlovian_phase	15	0	0	1	2	56
+RS28	Pavlovian_phase	16	1	0	0	2	69
+RS28	Pavlovian_phase	17	1	0	0	2	61
+RS28	Pavlovian_phase	18	0	0	1	1	0
+RS28	Pavlovian_phase	19	0	0	1	2	59
+RS28	Pavlovian_phase	20	1	0	0	1	0
+RS28	Pavlovian_phase	21	0	0	1	2	60
+RS28	Pavlovian_phase	22	0	1	0	1	0
+RS28	Pavlovian_phase	23	1	0	0	2	62
+RS28	Pavlovian_phase	24	0	1	0	1	0
+RS28	Pavlovian_phase	25	0	1	0	1	0
+RS28	Pavlovian_phase	26	0	0	1	1	0
+RS28	Pavlovian_phase	27	0	1	0	1	0
+RS28	Pavlovian_phase	28	0	1	0	1	0
+RS28	Extinction_phase	29	0	1	0	1	0
+RS28	Extinction_phase	30	1	0	0	1	0
+RS28	Extinction_phase	31	0	1	0	1	0
+RS28	Extinction_phase	32	1	0	0	2	56
+RS28	Extinction_phase	33	0	1	0	1	0
+RS28	Extinction_phase	34	0	0	1	1	0
+RS28	Extinction_phase	35	1	0	0	1	0
+RS28	Extinction_phase	36	0	1	0	1	0
+RS28	Extinction_phase	37	1	0	0	1	0
+RS28	Extinction_phase	38	0	1	0	2	60
+RS28	Extinction_phase	39	1	0	0	1	0
+RS28	Extinction_phase	40	0	0	1	1	0
+RS28	Extinction_phase	41	0	1	0	1	0
+RS28	Extinction_phase	42	0	0	1	1	0
+RS28	Extinction_phase	43	0	1	0	2	52
+RS28	Extinction_phase	44	0	0	1	1	0
+RS28	Extinction_phase	45	0	1	0	1	0
+RS28	Extinction_phase	46	0	0	1	1	0
+RS29	Pavlovian_phase	1	0	1	0	2	50
+RS29	Pavlovian_phase	2	0	1	0	1	0
+RS29	Pavlovian_phase	3	1	0	0	1	0
+RS29	Pavlovian_phase	4	1	0	0	2	68
+RS29	Pavlovian_phase	5	0	1	0	1	0
+RS29	Pavlovian_phase	6	0	0	1	2	49
+RS29	Pavlovian_phase	7	0	0	1	2	65
+RS29	Pavlovian_phase	8	0	1	0	1	0
+RS29	Pavlovian_phase	9	0	0	1	2	62
+RS29	Pavlovian_phase	10	1	0	0	2	64
+RS29	Pavlovian_phase	11	0	1	0	1	0
+RS29	Pavlovian_phase	12	0	0	1	2	68
+RS29	Pavlovian_phase	13	0	1	0	1	0
+RS29	Pavlovian_phase	14	0	0	1	2	66
+RS29	Pavlovian_phase	15	0	1	0	1	0
+RS29	Pavlovian_phase	16	0	1	0	1	0
+RS29	Pavlovian_phase	17	0	0	1	2	69
+RS29	Pavlovian_phase	18	0	1	0	1	0
+RS29	Pavlovian_phase	19	0	1	0	1	0
+RS29	Pavlovian_phase	20	1	0	0	2	68
+RS29	Pavlovian_phase	21	0	1	0	1	0
+RS29	Pavlovian_phase	22	0	1	0	1	0
+RS29	Pavlovian_phase	23	1	0	0	2	60
+RS29	Pavlovian_phase	24	0	0	1	2	61
+RS29	Pavlovian_phase	25	1	0	0	2	60
+RS29	Pavlovian_phase	26	1	0	0	2	58
+RS29	Pavlovian_phase	27	0	0	1	2	61
+RS29	Pavlovian_phase	28	1	0	0	2	61
+RS29	Extinction_phase	29	1	0	0	2	59
+RS29	Extinction_phase	30	0	1	0	1	0
+RS29	Extinction_phase	31	1	0	0	2	67
+RS29	Extinction_phase	32	0	0	1	2	64
+RS29	Extinction_phase	33	1	0	0	2	64
+RS29	Extinction_phase	34	0	1	0	2	74
+RS29	Extinction_phase	35	0	1	0	2	75
+RS29	Extinction_phase	36	0	0	1	2	67
+RS29	Extinction_phase	37	0	0	1	2	60
+RS29	Extinction_phase	38	1	0	0	2	61
+RS29	Extinction_phase	39	0	1	0	2	72
+RS29	Extinction_phase	40	1	0	0	2	62
+RS29	Extinction_phase	41	0	0	1	2	62
+RS29	Extinction_phase	42	0	1	0	2	71
+RS29	Extinction_phase	43	0	1	0	2	69
+RS29	Extinction_phase	44	0	0	1	2	61
+RS29	Extinction_phase	45	0	1	0	2	71
+RS29	Extinction_phase	46	0	1	0	2	68
+RS30	Pavlovian_phase	1	1	0	0	1	0
+RS30	Pavlovian_phase	2	0	1	0	1	0
+RS30	Pavlovian_phase	3	1	0	0	2	64
+RS30	Pavlovian_phase	4	0	1	0	1	0
+RS30	Pavlovian_phase	5	0	0	1	2	70
+RS30	Pavlovian_phase	6	1	0	0	2	65
+RS30	Pavlovian_phase	7	0	1	0	1	0
+RS30	Pavlovian_phase	8	0	1	0	1	0
+RS30	Pavlovian_phase	9	1	0	0	2	62
+RS30	Pavlovian_phase	10	0	1	0	1	0
+RS30	Pavlovian_phase	11	0	1	0	1	0
+RS30	Pavlovian_phase	12	0	0	1	2	74
+RS30	Pavlovian_phase	13	0	1	0	1	0
+RS30	Pavlovian_phase	14	1	0	0	1	0
+RS30	Pavlovian_phase	15	0	0	1	2	69
+RS30	Pavlovian_phase	16	0	1	0	1	0
+RS30	Pavlovian_phase	17	1	0	0	1	0
+RS30	Pavlovian_phase	18	0	0	1	2	71
+RS30	Pavlovian_phase	19	1	0	0	1	0
+RS30	Pavlovian_phase	20	0	0	1	2	70
+RS30	Pavlovian_phase	21	1	0	0	1	0
+RS30	Pavlovian_phase	22	0	0	1	2	67
+RS30	Pavlovian_phase	23	0	0	1	2	63
+RS30	Pavlovian_phase	24	0	1	0	1	0
+RS30	Pavlovian_phase	25	0	1	0	1	0
+RS30	Pavlovian_phase	26	0	0	1	2	59
+RS30	Pavlovian_phase	27	0	1	0	1	0
+RS30	Pavlovian_phase	28	0	1	0	1	0
+RS30	Extinction_phase	29	0	1	0	1	0
+RS30	Extinction_phase	30	0	0	1	1	0
+RS30	Extinction_phase	31	0	1	0	1	0
+RS30	Extinction_phase	32	0	1	0	2	65
+RS30	Extinction_phase	33	1	0	0	1	0
+RS30	Extinction_phase	34	1	0	0	1	0
+RS30	Extinction_phase	35	0	1	0	1	0
+RS30	Extinction_phase	36	0	1	0	2	66
+RS30	Extinction_phase	37	0	0	1	1	0
+RS30	Extinction_phase	38	0	0	1	2	66
+RS30	Extinction_phase	39	1	0	0	2	66
+RS30	Extinction_phase	40	0	0	1	2	68
+RS30	Extinction_phase	41	0	1	0	2	61
+RS30	Extinction_phase	42	1	0	0	2	51
+RS30	Extinction_phase	43	1	0	0	1	0
+RS30	Extinction_phase	44	0	1	0	1	0
+RS30	Extinction_phase	45	0	1	0	1	0
+RS30	Extinction_phase	46	0	0	1	1	0
+RS31	Pavlovian_phase	1	0	1	0	1	0
+RS31	Pavlovian_phase	2	1	0	0	1	0
+RS31	Pavlovian_phase	3	0	1	0	1	0
+RS31	Pavlovian_phase	4	1	0	0	1	0
+RS31	Pavlovian_phase	5	0	0	1	1	0
+RS31	Pavlovian_phase	6	0	1	0	1	0
+RS31	Pavlovian_phase	7	1	0	0	2	27
+RS31	Pavlovian_phase	8	0	1	0	1	0
+RS31	Pavlovian_phase	9	0	1	0	1	0
+RS31	Pavlovian_phase	10	0	0	1	1	0
+RS31	Pavlovian_phase	11	1	0	0	2	27
+RS31	Pavlovian_phase	12	1	0	0	2	30
+RS31	Pavlovian_phase	13	0	0	1	2	22
+RS31	Pavlovian_phase	14	0	1	0	1	0
+RS31	Pavlovian_phase	15	0	1	0	1	0
+RS31	Pavlovian_phase	16	0	0	1	2	32
+RS31	Pavlovian_phase	17	1	0	0	2	36
+RS31	Pavlovian_phase	18	0	1	0	1	0
+RS31	Pavlovian_phase	19	0	1	0	1	0
+RS31	Pavlovian_phase	20	0	0	1	2	31
+RS31	Pavlovian_phase	21	1	0	0	2	41
+RS31	Pavlovian_phase	22	0	0	1	2	41
+RS31	Pavlovian_phase	23	0	1	0	1	0
+RS31	Pavlovian_phase	24	0	1	0	1	0
+RS31	Pavlovian_phase	25	1	0	0	2	45
+RS31	Pavlovian_phase	26	0	0	1	2	40
+RS31	Pavlovian_phase	27	0	1	0	1	0
+RS31	Pavlovian_phase	28	0	0	1	2	49
+RS31	Extinction_phase	29	0	1	0	1	0
+RS31	Extinction_phase	30	0	1	0	1	0
+RS31	Extinction_phase	31	0	0	1	1	0
+RS31	Extinction_phase	32	0	0	1	2	37
+RS31	Extinction_phase	33	0	1	0	2	21
+RS31	Extinction_phase	34	0	1	0	2	38
+RS31	Extinction_phase	35	0	0	1	2	30
+RS31	Extinction_phase	36	0	1	0	2	35
+RS31	Extinction_phase	37	0	1	0	2	36
+RS31	Extinction_phase	38	1	0	0	1	0
+RS31	Extinction_phase	39	1	0	0	2	27
+RS31	Extinction_phase	40	0	0	1	2	31
+RS31	Extinction_phase	41	1	0	0	2	33
+RS31	Extinction_phase	42	1	0	0	2	38
+RS31	Extinction_phase	43	0	0	1	2	39
+RS31	Extinction_phase	44	0	1	0	2	31
+RS31	Extinction_phase	45	1	0	0	2	36
+RS31	Extinction_phase	46	0	1	0	1	0
+RS32	Pavlovian_phase	1	0	1	0	1	0
+RS32	Pavlovian_phase	2	1	0	0	2	31
+RS32	Pavlovian_phase	3	0	1	0	1	0
+RS32	Pavlovian_phase	4	1	0	0	2	59
+RS32	Pavlovian_phase	5	0	0	1	2	59
+RS32	Pavlovian_phase	6	0	1	0	1	0
+RS32	Pavlovian_phase	7	1	0	0	2	69
+RS32	Pavlovian_phase	8	1	0	0	2	74
+RS32	Pavlovian_phase	9	0	1	0	1	0
+RS32	Pavlovian_phase	10	0	0	1	2	73
+RS32	Pavlovian_phase	11	0	0	1	2	71
+RS32	Pavlovian_phase	12	0	1	0	1	0
+RS32	Pavlovian_phase	13	0	1	0	1	0
+RS32	Pavlovian_phase	14	0	0	1	2	77
+RS32	Pavlovian_phase	15	0	1	0	1	0
+RS32	Pavlovian_phase	16	0	1	0	1	0
+RS32	Pavlovian_phase	17	1	0	0	2	74
+RS32	Pavlovian_phase	18	0	0	1	2	74
+RS32	Pavlovian_phase	19	0	1	0	1	0
+RS32	Pavlovian_phase	20	1	0	0	2	81
+RS32	Pavlovian_phase	21	0	0	1	2	79
+RS32	Pavlovian_phase	22	0	1	0	1	0
+RS32	Pavlovian_phase	23	0	1	0	1	0
+RS32	Pavlovian_phase	24	1	0	0	2	86
+RS32	Pavlovian_phase	25	0	0	1	2	83
+RS32	Pavlovian_phase	26	0	0	1	2	86
+RS32	Pavlovian_phase	27	0	1	0	1	0
+RS32	Pavlovian_phase	28	1	0	0	2	81
+RS32	Extinction_phase	29	0	1	0	1	0
+RS32	Extinction_phase	30	0	0	1	1	0
+RS32	Extinction_phase	31	0	1	0	2	41
+RS32	Extinction_phase	32	0	1	0	2	58
+RS32	Extinction_phase	33	1	0	0	2	66
+RS32	Extinction_phase	34	1	0	0	2	70
+RS32	Extinction_phase	35	0	0	1	2	58
+RS32	Extinction_phase	36	0	0	1	2	59
+RS32	Extinction_phase	37	0	1	0	2	52
+RS32	Extinction_phase	38	0	1	0	2	65
+RS32	Extinction_phase	39	0	0	1	2	56
+RS32	Extinction_phase	40	0	1	0	2	65
+RS32	Extinction_phase	41	0	1	0	2	61
+RS32	Extinction_phase	42	1	0	0	1	0
+RS32	Extinction_phase	43	1	0	0	2	58
+RS32	Extinction_phase	44	0	1	0	2	61
+RS32	Extinction_phase	45	1	0	0	2	55
+RS32	Extinction_phase	46	0	0	1	2	55
+RS33	Pavlovian_phase	1	0	1	0	1	0
+RS33	Pavlovian_phase	2	1	0	0	2	100
+RS33	Pavlovian_phase	3	1	0	0	2	96
+RS33	Pavlovian_phase	4	0	1	0	1	0
+RS33	Pavlovian_phase	5	0	1	0	1	0
+RS33	Pavlovian_phase	6	0	1	0	1	0
+RS33	Pavlovian_phase	7	1	0	0	2	94
+RS33	Pavlovian_phase	8	0	1	0	1	0
+RS33	Pavlovian_phase	9	0	1	0	1	0
+RS33	Pavlovian_phase	10	0	0	1	1	0
+RS33	Pavlovian_phase	11	0	0	1	2	100
+RS33	Pavlovian_phase	12	0	1	0	1	0
+RS33	Pavlovian_phase	13	0	0	1	2	87
+RS33	Pavlovian_phase	14	0	1	0	1	0
+RS33	Pavlovian_phase	15	0	0	1	2	100
+RS33	Pavlovian_phase	16	1	0	0	2	64
+RS33	Pavlovian_phase	17	1	0	0	2	87
+RS33	Pavlovian_phase	18	0	0	1	2	81
+RS33	Pavlovian_phase	19	0	0	1	2	45
+RS33	Pavlovian_phase	20	1	0	0	2	54
+RS33	Pavlovian_phase	21	0	1	0	1	0
+RS33	Pavlovian_phase	22	0	0	1	2	85
+RS33	Pavlovian_phase	23	1	0	0	2	79
+RS33	Pavlovian_phase	24	0	0	1	2	71
+RS33	Pavlovian_phase	25	0	1	0	1	0
+RS33	Pavlovian_phase	26	1	0	0	2	90
+RS33	Pavlovian_phase	27	0	1	0	1	0
+RS33	Pavlovian_phase	28	0	1	0	1	0
+RS33	Extinction_phase	29	0	0	1	1	0
+RS33	Extinction_phase	30	0	0	1	2	52
+RS33	Extinction_phase	31	1	0	0	1	0
+RS33	Extinction_phase	32	0	1	0	1	0
+RS33	Extinction_phase	33	1	0	0	2	69
+RS33	Extinction_phase	34	0	0	1	2	56
+RS33	Extinction_phase	35	1	0	0	1	0
+RS33	Extinction_phase	36	1	0	0	1	0
+RS33	Extinction_phase	37	0	0	1	1	0
+RS33	Extinction_phase	38	0	1	0	1	0
+RS33	Extinction_phase	39	0	1	0	1	0
+RS33	Extinction_phase	40	1	0	0	1	0
+RS33	Extinction_phase	41	0	1	0	1	0
+RS33	Extinction_phase	42	0	0	1	1	0
+RS33	Extinction_phase	43	0	1	0	1	0
+RS33	Extinction_phase	44	0	1	0	1	0
+RS33	Extinction_phase	45	0	1	0	1	0
+RS33	Extinction_phase	46	0	1	0	1	0
+RS34	Pavlovian_phase	1	0	1	0	2	91
+RS34	Pavlovian_phase	2	1	0	0	1	0
+RS34	Pavlovian_phase	3	1	0	0	1	0
+RS34	Pavlovian_phase	4	0	1	0	1	0
+RS34	Pavlovian_phase	5	1	0	0	2	89
+RS34	Pavlovian_phase	6	0	0	1	1	0
+RS34	Pavlovian_phase	7	0	1	0	2	89
+RS34	Pavlovian_phase	8	0	0	1	2	100
+RS34	Pavlovian_phase	9	0	0	1	2	100
+RS34	Pavlovian_phase	10	0	1	0	1	0
+RS34	Pavlovian_phase	11	0	0	1	2	100
+RS34	Pavlovian_phase	12	0	1	0	1	0
+RS34	Pavlovian_phase	13	0	1	0	2	100
+RS34	Pavlovian_phase	14	0	0	1	2	100
+RS34	Pavlovian_phase	15	0	1	0	1	0
+RS34	Pavlovian_phase	16	1	0	0	2	99
+RS34	Pavlovian_phase	17	1	0	0	2	100
+RS34	Pavlovian_phase	18	0	1	0	1	0
+RS34	Pavlovian_phase	19	1	0	0	2	100
+RS34	Pavlovian_phase	20	0	0	1	2	99
+RS34	Pavlovian_phase	21	0	0	1	2	100
+RS34	Pavlovian_phase	22	1	0	0	2	100
+RS34	Pavlovian_phase	23	0	1	0	1	0
+RS34	Pavlovian_phase	24	0	1	0	1	0
+RS34	Pavlovian_phase	25	0	0	1	2	100
+RS34	Pavlovian_phase	26	0	1	0	2	99
+RS34	Pavlovian_phase	27	1	0	0	2	99
+RS34	Pavlovian_phase	28	0	1	0	1	0
+RS34	Extinction_phase	29	0	0	1	2	99
+RS34	Extinction_phase	30	0	1	0	1	0
+RS34	Extinction_phase	31	0	0	1	2	100
+RS34	Extinction_phase	32	1	0	0	2	100
+RS34	Extinction_phase	33	0	1	0	1	0
+RS34	Extinction_phase	34	0	0	1	2	100
+RS34	Extinction_phase	35	0	0	1	2	100
+RS34	Extinction_phase	36	0	1	0	1	0
+RS34	Extinction_phase	38	0	1	0	2	100
+RS34	Extinction_phase	39	0	1	0	2	100
+RS34	Extinction_phase	40	1	0	0	2	100
+RS34	Extinction_phase	41	1	0	0	2	100
+RS34	Extinction_phase	42	0	1	0	2	100
+RS34	Extinction_phase	43	1	0	0	2	100
+RS34	Extinction_phase	44	0	1	0	2	100
+RS34	Extinction_phase	45	1	0	0	2	99
+RS34	Extinction_phase	46	0	1	0	2	99
+RS35	Pavlovian_phase	1	1	0	0	1	0
+RS35	Pavlovian_phase	2	0	1	0	1	0
+RS35	Pavlovian_phase	3	0	1	0	1	0
+RS35	Pavlovian_phase	4	1	0	0	2	51
+RS35	Pavlovian_phase	5	0	1	0	1	0
+RS35	Pavlovian_phase	6	0	0	1	1	0
+RS35	Pavlovian_phase	7	0	1	0	1	0
+RS35	Pavlovian_phase	8	0	0	1	2	50
+RS35	Pavlovian_phase	9	0	1	0	1	0
+RS35	Pavlovian_phase	10	0	1	0	1	0
+RS35	Pavlovian_phase	11	1	0	0	2	65
+RS35	Pavlovian_phase	12	0	0	1	2	60
+RS35	Pavlovian_phase	13	0	1	0	1	0
+RS35	Pavlovian_phase	14	0	0	1	2	65
+RS35	Pavlovian_phase	15	1	0	0	2	69
+RS35	Pavlovian_phase	16	0	0	1	2	67
+RS35	Pavlovian_phase	17	0	1	0	1	0
+RS35	Pavlovian_phase	18	0	1	0	1	0
+RS35	Pavlovian_phase	19	1	0	0	2	69
+RS35	Pavlovian_phase	20	1	0	0	2	72
+RS35	Pavlovian_phase	21	0	0	1	2	70
+RS35	Pavlovian_phase	22	0	0	1	2	72
+RS35	Pavlovian_phase	23	0	1	0	1	0
+RS35	Pavlovian_phase	24	1	0	0	2	71
+RS35	Pavlovian_phase	25	1	0	0	2	74
+RS35	Pavlovian_phase	26	0	1	0	1	0
+RS35	Pavlovian_phase	27	0	1	0	1	0
+RS35	Pavlovian_phase	28	0	0	1	2	68
+RS35	Extinction_phase	29	1	0	0	2	61
+RS35	Extinction_phase	30	1	0	0	2	70
+RS35	Extinction_phase	31	0	1	0	1	0
+RS35	Extinction_phase	32	0	1	0	1	0
+RS35	Extinction_phase	33	0	0	1	2	66
+RS35	Extinction_phase	34	0	1	0	2	54
+RS35	Extinction_phase	35	1	0	0	2	68
+RS35	Extinction_phase	36	1	0	0	2	77
+RS35	Extinction_phase	37	0	0	1	2	75
+RS35	Extinction_phase	38	1	0	0	2	74
+RS35	Extinction_phase	39	0	1	0	1	0
+RS35	Extinction_phase	40	0	1	0	2	59
+RS35	Extinction_phase	41	0	0	1	2	68
+RS35	Extinction_phase	42	0	1	0	2	49
+RS35	Extinction_phase	43	0	1	0	2	54
+RS35	Extinction_phase	44	0	0	1	2	65
+RS35	Extinction_phase	45	0	0	1	2	60
+RS35	Extinction_phase	46	0	1	0	2	64
+RS36	Pavlovian_phase	1	0	1	0	1	0
+RS36	Pavlovian_phase	2	1	0	0	2	52
+RS36	Pavlovian_phase	3	0	1	0	1	0
+RS36	Pavlovian_phase	4	1	0	0	2	47
+RS36	Pavlovian_phase	5	1	0	0	2	69
+RS36	Pavlovian_phase	6	1	0	0	2	65
+RS36	Pavlovian_phase	7	0	0	1	1	0
+RS36	Pavlovian_phase	8	1	0	0	2	67
+RS36	Pavlovian_phase	9	0	0	1	2	71
+RS36	Pavlovian_phase	10	0	1	0	1	0
+RS36	Pavlovian_phase	11	0	0	1	2	44
+RS36	Pavlovian_phase	12	0	0	1	1	0
+RS36	Pavlovian_phase	13	0	1	0	1	0
+RS36	Pavlovian_phase	14	0	1	0	1	0
+RS36	Pavlovian_phase	15	0	0	1	2	59
+RS36	Pavlovian_phase	16	1	0	0	2	62
+RS36	Pavlovian_phase	17	0	0	1	1	0
+RS36	Pavlovian_phase	18	0	1	0	1	0
+RS36	Pavlovian_phase	19	0	1	0	1	0
+RS36	Pavlovian_phase	20	1	0	0	2	77
+RS36	Pavlovian_phase	21	1	0	0	2	66
+RS36	Pavlovian_phase	22	0	1	0	1	0
+RS36	Pavlovian_phase	23	0	1	0	1	0
+RS36	Pavlovian_phase	24	0	0	1	2	59
+RS36	Pavlovian_phase	25	0	1	0	2	35
+RS36	Pavlovian_phase	26	0	0	1	2	46
+RS36	Pavlovian_phase	27	0	1	0	2	16
+RS36	Pavlovian_phase	28	0	1	0	1	0
+RS36	Extinction_phase	29	0	0	1	1	0
+RS36	Extinction_phase	30	0	0	1	2	73
+RS36	Extinction_phase	31	0	1	0	1	0
+RS36	Extinction_phase	32	0	1	0	2	35
+RS36	Extinction_phase	33	0	0	1	2	52
+RS36	Extinction_phase	34	0	1	0	2	74
+RS36	Extinction_phase	35	0	0	1	2	61
+RS36	Extinction_phase	36	0	1	0	2	74
+RS36	Extinction_phase	37	1	0	0	1	0
+RS36	Extinction_phase	38	0	1	0	2	69
+RS36	Extinction_phase	39	0	1	0	2	58
+RS36	Extinction_phase	40	1	0	0	2	41
+RS36	Extinction_phase	41	1	0	0	2	64
+RS36	Extinction_phase	42	0	1	0	2	21
+RS36	Extinction_phase	43	0	1	0	2	56
+RS36	Extinction_phase	44	1	0	0	2	69
+RS36	Extinction_phase	45	0	0	1	1	0
+RS36	Extinction_phase	46	1	0	0	2	58
+RS37	Pavlovian_phase	1	1	0	0	1	0
+RS37	Pavlovian_phase	2	0	1	0	1	0
+RS37	Pavlovian_phase	3	0	1	0	1	0
+RS37	Pavlovian_phase	4	1	0	0	2	99
+RS37	Pavlovian_phase	5	0	0	1	1	0
+RS37	Pavlovian_phase	6	0	1	0	1	0
+RS37	Pavlovian_phase	7	0	1	0	1	0
+RS37	Pavlovian_phase	8	1	0	0	2	99
+RS37	Pavlovian_phase	9	0	0	1	2	100
+RS37	Pavlovian_phase	10	0	0	1	2	98
+RS37	Pavlovian_phase	11	1	0	0	2	99
+RS37	Pavlovian_phase	12	0	0	1	2	99
+RS37	Pavlovian_phase	13	0	0	1	2	100
+RS37	Pavlovian_phase	14	1	0	0	2	100
+RS37	Pavlovian_phase	15	0	0	1	2	100
+RS37	Pavlovian_phase	16	0	0	1	2	99
+RS37	Pavlovian_phase	17	0	1	0	1	0
+RS37	Pavlovian_phase	18	0	1	0	1	0
+RS37	Pavlovian_phase	19	1	0	0	2	98
+RS37	Pavlovian_phase	20	0	1	0	1	0
+RS37	Pavlovian_phase	21	0	1	0	1	0
+RS37	Pavlovian_phase	22	1	0	0	2	98
+RS37	Pavlovian_phase	23	1	0	0	2	98
+RS37	Pavlovian_phase	24	0	1	0	1	0
+RS37	Pavlovian_phase	25	0	1	0	1	0
+RS37	Pavlovian_phase	26	0	0	1	2	98
+RS37	Pavlovian_phase	27	0	1	0	1	0
+RS37	Pavlovian_phase	28	0	1	0	1	0
+RS37	Extinction_phase	29	1	0	0	2	99
+RS37	Extinction_phase	30	0	0	1	2	98
+RS37	Extinction_phase	31	0	1	0	1	0
+RS37	Extinction_phase	32	0	1	0	1	0
+RS37	Extinction_phase	33	0	0	1	2	97
+RS37	Extinction_phase	34	0	0	1	2	98
+RS37	Extinction_phase	35	0	1	0	1	0
+RS37	Extinction_phase	36	0	1	0	1	0
+RS37	Extinction_phase	37	1	0	0	2	99
+RS37	Extinction_phase	38	0	0	1	2	98
+RS37	Extinction_phase	39	1	0	0	2	98
+RS37	Extinction_phase	40	0	1	0	1	0
+RS37	Extinction_phase	41	0	1	0	2	96
+RS37	Extinction_phase	42	1	0	0	2	96
+RS37	Extinction_phase	43	0	1	0	2	99
+RS37	Extinction_phase	44	1	0	0	2	99
+RS37	Extinction_phase	45	0	0	1	2	100
+RS37	Extinction_phase	46	0	1	0	2	99
+RS38	Pavlovian_phase	1	1	0	0	1	0
+RS38	Pavlovian_phase	2	0	1	0	1	0
+RS38	Pavlovian_phase	3	1	0	0	2	68
+RS38	Pavlovian_phase	4	0	1	0	1	0
+RS38	Pavlovian_phase	5	0	1	0	1	0
+RS38	Pavlovian_phase	6	0	1	0	1	0
+RS38	Pavlovian_phase	7	0	0	1	2	85
+RS38	Pavlovian_phase	8	1	0	0	2	79
+RS38	Pavlovian_phase	9	0	0	1	1	0
+RS38	Pavlovian_phase	10	0	1	0	1	0
+RS38	Pavlovian_phase	11	0	0	1	2	84
+RS38	Pavlovian_phase	12	0	0	1	2	65
+RS38	Pavlovian_phase	13	1	0	0	2	73
+RS38	Pavlovian_phase	14	0	0	1	2	63
+RS38	Pavlovian_phase	15	1	0	0	2	66
+RS38	Pavlovian_phase	16	0	1	0	1	0
+RS38	Pavlovian_phase	17	1	0	0	2	87
+RS38	Pavlovian_phase	18	0	1	0	1	0
+RS38	Pavlovian_phase	19	0	0	1	2	79
+RS38	Pavlovian_phase	20	1	0	0	2	72
+RS38	Pavlovian_phase	21	0	0	1	2	69
+RS38	Pavlovian_phase	22	0	1	0	1	0
+RS38	Pavlovian_phase	23	0	1	0	1	0
+RS38	Pavlovian_phase	24	1	0	0	2	85
+RS38	Pavlovian_phase	25	0	0	1	2	85
+RS38	Pavlovian_phase	26	0	1	0	1	0
+RS38	Pavlovian_phase	27	0	1	0	1	0
+RS38	Pavlovian_phase	28	0	1	0	1	0
+RS38	Extinction_phase	29	0	0	1	1	0
+RS38	Extinction_phase	30	1	0	0	2	74
+RS38	Extinction_phase	31	0	1	0	1	0
+RS38	Extinction_phase	32	0	1	0	1	0
+RS38	Extinction_phase	33	1	0	0	2	73
+RS38	Extinction_phase	34	0	0	1	1	0
+RS38	Extinction_phase	35	0	1	0	1	0
+RS38	Extinction_phase	36	0	0	1	1	0
+RS38	Extinction_phase	37	0	1	0	1	0
+RS38	Extinction_phase	38	0	1	0	2	54
+RS38	Extinction_phase	39	1	0	0	1	0
+RS38	Extinction_phase	40	0	0	1	1	0
+RS38	Extinction_phase	41	0	1	0	1	0
+RS38	Extinction_phase	42	0	1	0	1	0
+RS38	Extinction_phase	43	1	0	0	1	0
+RS38	Extinction_phase	44	1	0	0	1	0
+RS38	Extinction_phase	45	0	1	0	1	0
+RS38	Extinction_phase	46	0	0	1	1	0
+RS39	Pavlovian_phase	1	0	1	0	2	98
+RS39	Pavlovian_phase	2	1	0	0	1	0
+RS39	Pavlovian_phase	3	0	1	0	2	96
+RS39	Pavlovian_phase	4	1	0	0	1	0
+RS39	Pavlovian_phase	5	0	1	0	2	97
+RS39	Pavlovian_phase	6	0	1	0	2	96
+RS39	Pavlovian_phase	7	0	0	1	1	0
+RS39	Pavlovian_phase	8	1	0	0	1	0
+RS39	Pavlovian_phase	9	0	1	0	2	96
+RS39	Pavlovian_phase	10	0	0	1	1	0
+RS39	Pavlovian_phase	11	0	0	1	1	0
+RS39	Pavlovian_phase	12	1	0	0	1	0
+RS39	Pavlovian_phase	13	0	1	0	2	97
+RS39	Pavlovian_phase	14	0	0	1	1	0
+RS39	Pavlovian_phase	15	0	1	0	2	97
+RS39	Pavlovian_phase	16	0	0	1	1	0
+RS39	Pavlovian_phase	17	0	0	1	1	0
+RS39	Pavlovian_phase	18	0	1	0	2	99
+RS39	Pavlovian_phase	19	1	0	0	1	0
+RS39	Pavlovian_phase	20	0	1	0	2	98
+RS39	Pavlovian_phase	21	0	1	0	2	100
+RS39	Pavlovian_phase	22	0	0	1	1	0
+RS39	Pavlovian_phase	23	0	1	0	2	97
+RS39	Pavlovian_phase	24	0	1	0	2	99
+RS39	Pavlovian_phase	25	0	0	1	1	0
+RS39	Pavlovian_phase	26	1	0	0	1	0
+RS39	Pavlovian_phase	27	1	0	0	2	95
+RS39	Pavlovian_phase	28	1	0	0	2	97
+RS39	Extinction_phase	29	0	1	0	2	98
+RS39	Extinction_phase	30	0	1	0	2	98
+RS39	Extinction_phase	31	0	0	1	1	0
+RS39	Extinction_phase	32	0	0	1	1	0
+RS39	Extinction_phase	33	1	0	0	1	0
+RS39	Extinction_phase	34	1	0	0	2	49
+RS39	Extinction_phase	35	0	1	0	2	97
+RS39	Extinction_phase	36	0	1	0	2	97
+RS39	Extinction_phase	37	0	0	1	1	0
+RS39	Extinction_phase	38	1	0	0	2	75
+RS39	Extinction_phase	39	0	0	1	1	0
+RS39	Extinction_phase	40	0	1	0	2	99
+RS39	Extinction_phase	41	0	1	0	2	98
+RS39	Extinction_phase	42	0	0	1	1	0
+RS39	Extinction_phase	43	0	1	0	2	99
+RS39	Extinction_phase	44	1	0	0	1	0
+RS39	Extinction_phase	45	1	0	0	2	58
+RS39	Extinction_phase	46	0	1	0	2	100
+RS40	Pavlovian_phase	1	1	0	0	2	52
+RS40	Pavlovian_phase	2	0	1	0	1	0
+RS40	Pavlovian_phase	3	0	1	0	1	0
+RS40	Pavlovian_phase	4	1	0	0	2	84
+RS40	Pavlovian_phase	5	0	0	1	2	51
+RS40	Pavlovian_phase	6	0	0	1	2	77
+RS40	Pavlovian_phase	7	0	1	0	1	0
+RS40	Pavlovian_phase	8	0	0	1	2	85
+RS40	Pavlovian_phase	9	0	1	0	1	0
+RS40	Pavlovian_phase	10	0	0	1	2	87
+RS40	Pavlovian_phase	11	0	1	0	1	0
+RS40	Pavlovian_phase	12	0	1	0	1	0
+RS40	Pavlovian_phase	13	0	0	1	2	88
+RS40	Pavlovian_phase	14	0	1	0	1	0
+RS40	Pavlovian_phase	15	1	0	0	2	82
+RS40	Pavlovian_phase	16	1	0	0	2	86
+RS40	Pavlovian_phase	17	0	1	0	1	0
+RS40	Pavlovian_phase	18	0	0	1	2	91
+RS40	Pavlovian_phase	19	0	0	1	2	88
+RS40	Pavlovian_phase	20	0	1	0	1	0
+RS40	Pavlovian_phase	21	1	0	0	2	61
+RS40	Pavlovian_phase	22	0	1	0	2	1
+RS40	Pavlovian_phase	23	1	0	0	2	79
+RS40	Pavlovian_phase	24	0	0	1	2	86
+RS40	Pavlovian_phase	25	0	1	0	1	0
+RS40	Pavlovian_phase	26	1	0	0	2	94
+RS40	Pavlovian_phase	27	1	0	0	2	81
+RS40	Pavlovian_phase	28	0	1	0	1	0
+RS40	Extinction_phase	29	0	1	0	1	0
+RS40	Extinction_phase	30	0	0	1	1	0
+RS40	Extinction_phase	31	0	0	1	2	88
+RS40	Extinction_phase	32	1	0	0	1	0
+RS40	Extinction_phase	33	1	0	0	1	0
+RS40	Extinction_phase	34	0	1	0	1	0
+RS40	Extinction_phase	35	0	0	1	2	74
+RS40	Extinction_phase	36	0	1	0	2	82
+RS40	Extinction_phase	37	0	1	0	2	59
+RS40	Extinction_phase	38	0	0	1	2	89
+RS40	Extinction_phase	39	0	1	0	2	59
+RS40	Extinction_phase	40	0	1	0	2	28
+RS40	Extinction_phase	41	1	0	0	2	63
+RS40	Extinction_phase	42	0	1	0	2	19
+RS40	Extinction_phase	43	1	0	0	1	0
+RS40	Extinction_phase	44	0	1	0	1	0
+RS40	Extinction_phase	45	1	0	0	1	0
+RS40	Extinction_phase	46	0	0	1	1	0
+RS41	Pavlovian_phase	1	0	1	0	1	0
+RS41	Pavlovian_phase	2	1	0	0	2	28
+RS41	Pavlovian_phase	3	0	1	0	1	0
+RS41	Pavlovian_phase	4	1	0	0	2	53
+RS41	Pavlovian_phase	5	0	0	1	1	0
+RS41	Pavlovian_phase	6	0	1	0	1	0
+RS41	Pavlovian_phase	7	0	1	0	2	25
+RS41	Pavlovian_phase	8	0	0	1	1	0
+RS41	Pavlovian_phase	9	1	0	0	2	80
+RS41	Pavlovian_phase	10	0	1	0	2	21
+RS41	Pavlovian_phase	11	0	1	0	1	0
+RS41	Pavlovian_phase	12	0	0	1	1	0
+RS41	Pavlovian_phase	13	0	1	0	1	0
+RS41	Pavlovian_phase	14	0	0	1	1	0
+RS41	Pavlovian_phase	15	0	1	0	1	0
+RS41	Pavlovian_phase	16	0	0	1	1	0
+RS41	Pavlovian_phase	17	1	0	0	2	34
+RS41	Pavlovian_phase	18	1	0	0	2	59
+RS41	Pavlovian_phase	19	0	1	0	1	0
+RS41	Pavlovian_phase	20	0	0	1	1	0
+RS41	Pavlovian_phase	21	1	0	0	2	82
+RS41	Pavlovian_phase	22	0	1	0	1	0
+RS41	Pavlovian_phase	23	0	1	0	1	0
+RS41	Pavlovian_phase	24	1	0	0	1	0
+RS41	Pavlovian_phase	25	1	0	0	2	16
+RS41	Pavlovian_phase	26	0	0	1	2	18
+RS41	Pavlovian_phase	27	0	1	0	1	0
+RS41	Pavlovian_phase	28	0	0	1	2	16
+RS41	Extinction_phase	29	0	1	0	1	0
+RS41	Extinction_phase	30	1	0	0	2	13
+RS41	Extinction_phase	31	0	1	0	2	24
+RS41	Extinction_phase	32	0	1	0	2	38
+RS41	Extinction_phase	33	0	0	1	1	0
+RS41	Extinction_phase	34	1	0	0	2	30
+RS41	Extinction_phase	35	0	0	1	1	0
+RS41	Extinction_phase	36	0	0	1	1	0
+RS41	Extinction_phase	37	1	0	0	2	21
+RS41	Extinction_phase	38	1	0	0	1	0
+RS41	Extinction_phase	39	0	1	0	1	0
+RS41	Extinction_phase	40	0	1	0	1	0
+RS41	Extinction_phase	41	0	0	1	1	0
+RS41	Extinction_phase	42	1	0	0	2	15
+RS41	Extinction_phase	43	0	1	0	2	18
+RS41	Extinction_phase	44	0	1	0	2	20
+RS41	Extinction_phase	45	0	0	1	1	0
+RS41	Extinction_phase	46	0	1	0	2	10
+RS42	Pavlovian_phase	1	0	1	0	2	58
+RS42	Pavlovian_phase	2	1	0	0	2	57
+RS42	Pavlovian_phase	3	0	1	0	2	48
+RS42	Pavlovian_phase	4	1	0	0	2	57
+RS42	Pavlovian_phase	5	0	0	1	1	0
+RS42	Pavlovian_phase	6	0	1	0	1	0
+RS42	Pavlovian_phase	7	0	0	1	2	58
+RS42	Pavlovian_phase	8	1	0	0	2	61
+RS42	Pavlovian_phase	9	0	1	0	1	0
+RS42	Pavlovian_phase	10	0	1	0	1	0
+RS42	Pavlovian_phase	11	1	0	0	2	62
+RS42	Pavlovian_phase	12	0	1	0	1	0
+RS42	Pavlovian_phase	13	0	1	0	1	0
+RS42	Pavlovian_phase	14	0	0	1	2	57
+RS42	Pavlovian_phase	15	0	1	0	1	0
+RS42	Pavlovian_phase	16	0	0	1	2	52
+RS42	Pavlovian_phase	17	0	1	0	1	0
+RS42	Pavlovian_phase	18	0	1	0	1	0
+RS42	Pavlovian_phase	19	1	0	0	2	54
+RS42	Pavlovian_phase	20	1	0	0	2	53
+RS42	Pavlovian_phase	21	0	0	1	2	54
+RS42	Pavlovian_phase	22	1	0	0	2	56
+RS42	Pavlovian_phase	23	0	0	1	2	55
+RS42	Pavlovian_phase	24	0	1	0	1	0
+RS42	Pavlovian_phase	25	0	0	1	2	56
+RS42	Pavlovian_phase	26	1	0	0	2	58
+RS42	Pavlovian_phase	27	0	0	1	2	60
+RS42	Pavlovian_phase	28	0	1	0	1	0
+RS42	Extinction_phase	29	0	0	1	2	59
+RS42	Extinction_phase	30	0	1	0	1	0
+RS42	Extinction_phase	31	0	1	0	2	46
+RS42	Extinction_phase	32	1	0	0	1	0
+RS42	Extinction_phase	33	0	0	1	2	63
+RS42	Extinction_phase	34	0	0	1	2	64
+RS42	Extinction_phase	35	0	1	0	2	64
+RS42	Extinction_phase	36	1	0	0	2	64
+RS42	Extinction_phase	37	1	0	0	2	60
+RS42	Extinction_phase	38	0	1	0	2	53
+RS42	Extinction_phase	39	0	0	1	2	54
+RS42	Extinction_phase	40	1	0	0	2	56
+RS42	Extinction_phase	41	1	0	0	2	57
+RS42	Extinction_phase	42	0	1	0	2	54
+RS42	Extinction_phase	43	0	1	0	2	56
+RS42	Extinction_phase	44	0	0	1	2	51
+RS42	Extinction_phase	45	0	1	0	2	52
+RS42	Extinction_phase	46	0	1	0	2	53
+RS43	Pavlovian_phase	1	1	0	0	1	0
+RS43	Pavlovian_phase	2	1	0	0	1	0
+RS43	Pavlovian_phase	3	0	1	0	2	39
+RS43	Pavlovian_phase	4	0	1	0	1	0
+RS43	Pavlovian_phase	5	0	0	1	2	62
+RS43	Pavlovian_phase	6	1	0	0	1	0
+RS43	Pavlovian_phase	7	0	1	0	1	0
+RS43	Pavlovian_phase	8	0	1	0	1	0
+RS43	Pavlovian_phase	9	1	0	0	2	59
+RS43	Pavlovian_phase	10	0	0	1	2	75
+RS43	Pavlovian_phase	11	0	1	0	1	0
+RS43	Pavlovian_phase	12	0	0	1	2	74
+RS43	Pavlovian_phase	13	1	0	0	1	0
+RS43	Pavlovian_phase	14	0	0	1	2	57
+RS43	Pavlovian_phase	15	0	1	0	1	0
+RS43	Pavlovian_phase	16	0	1	0	1	0
+RS43	Pavlovian_phase	17	0	0	1	2	68
+RS43	Pavlovian_phase	18	0	0	1	2	62
+RS43	Pavlovian_phase	19	0	1	0	1	0
+RS43	Pavlovian_phase	20	0	1	0	1	0
+RS43	Pavlovian_phase	21	0	0	1	2	45
+RS43	Pavlovian_phase	22	0	1	0	1	0
+RS43	Pavlovian_phase	23	0	1	0	1	0
+RS43	Pavlovian_phase	24	1	0	0	2	54
+RS43	Pavlovian_phase	25	0	0	1	2	70
+RS43	Pavlovian_phase	26	1	0	0	2	79
+RS43	Pavlovian_phase	27	1	0	0	2	70
+RS43	Pavlovian_phase	28	0	1	0	1	0
+RS43	Extinction_phase	29	1	0	0	1	0
+RS43	Extinction_phase	30	0	1	0	1	0
+RS43	Extinction_phase	31	0	0	1	1	0
+RS43	Extinction_phase	32	0	1	0	1	0
+RS43	Extinction_phase	33	0	0	1	1	0
+RS43	Extinction_phase	34	0	0	1	2	60
+RS43	Extinction_phase	35	1	0	0	1	0
+RS43	Extinction_phase	36	1	0	0	2	44
+RS43	Extinction_phase	37	0	0	1	1	0
+RS43	Extinction_phase	38	0	1	0	1	0
+RS43	Extinction_phase	39	0	1	0	1	0
+RS43	Extinction_phase	40	1	0	0	1	0
+RS43	Extinction_phase	41	0	0	1	2	41
+RS43	Extinction_phase	42	0	1	0	2	45
+RS43	Extinction_phase	43	0	1	0	2	48
+RS43	Extinction_phase	44	1	0	0	1	0
+RS43	Extinction_phase	45	0	1	0	1	0
+RS43	Extinction_phase	46	0	1	0	2	71
+RS44	Pavlovian_phase	1	0	1	0	2	0
+RS44	Pavlovian_phase	1	1	0	0	2	0
+RS44	Pavlovian_phase	2	1	0	0	2	0
+RS44	Pavlovian_phase	2	1	0	0	2	70
+RS44	Pavlovian_phase	3	0	1	0	2	76
+RS44	Pavlovian_phase	4	1	0	0	2	81
+RS44	Pavlovian_phase	5	1	0	0	2	82
+RS44	Pavlovian_phase	6	0	0	1	1	0
+RS44	Pavlovian_phase	7	1	0	0	2	81
+RS44	Pavlovian_phase	8	0	1	0	1	0
+RS44	Pavlovian_phase	9	0	1	0	1	0
+RS44	Pavlovian_phase	10	1	0	0	2	86
+RS44	Pavlovian_phase	11	1	0	0	2	84
+RS44	Pavlovian_phase	12	0	1	0	1	0
+RS44	Pavlovian_phase	13	0	0	1	1	0
+RS44	Pavlovian_phase	14	0	0	1	2	51
+RS44	Pavlovian_phase	15	0	1	0	1	0
+RS44	Pavlovian_phase	16	1	0	0	2	91
+RS44	Pavlovian_phase	17	0	0	1	2	71
+RS44	Pavlovian_phase	18	0	1	0	1	0
+RS44	Pavlovian_phase	19	0	1	0	1	0
+RS44	Pavlovian_phase	20	1	0	0	2	90
+RS44	Pavlovian_phase	21	0	0	1	2	89
+RS44	Pavlovian_phase	22	0	0	1	2	93
+RS44	Pavlovian_phase	23	0	1	0	1	0
+RS44	Pavlovian_phase	24	0	1	0	1	0
+RS44	Pavlovian_phase	25	0	0	1	2	98
+RS44	Pavlovian_phase	26	0	1	0	1	0
+RS44	Pavlovian_phase	27	0	1	0	1	0
+RS44	Pavlovian_phase	28	0	0	1	2	78
+RS44	Extinction_phase	29	0	1	0	1	0
+RS44	Extinction_phase	30	0	1	0	1	0
+RS44	Extinction_phase	31	1	0	0	1	0
+RS44	Extinction_phase	32	1	0	0	2	87
+RS44	Extinction_phase	33	0	0	1	1	0
+RS44	Extinction_phase	34	0	1	0	1	0
+RS44	Extinction_phase	35	0	0	1	1	0
+RS44	Extinction_phase	36	0	1	0	1	0
+RS44	Extinction_phase	37	1	0	0	1	0
+RS44	Extinction_phase	38	1	0	0	2	54
+RS44	Extinction_phase	39	0	1	0	1	0
+RS44	Extinction_phase	40	0	0	1	2	62
+RS44	Extinction_phase	41	0	1	0	1	0
+RS44	Extinction_phase	42	0	1	0	2	53
+RS44	Extinction_phase	43	0	0	1	2	72
+RS44	Extinction_phase	44	1	0	0	2	80
+RS44	Extinction_phase	45	0	0	1	2	82
+RS44	Extinction_phase	46	0	1	0	1	0
+RS45	Pavlovian_phase	1	0	1	0	2	68
+RS45	Pavlovian_phase	2	1	0	0	1	0
+RS45	Pavlovian_phase	3	1	0	0	1	0
+RS45	Pavlovian_phase	4	0	1	0	2	90
+RS45	Pavlovian_phase	5	0	0	1	1	0
+RS45	Pavlovian_phase	6	0	0	1	1	0
+RS45	Pavlovian_phase	7	0	1	0	2	97
+RS45	Pavlovian_phase	8	0	0	1	1	0
+RS45	Pavlovian_phase	9	0	1	0	2	100
+RS45	Pavlovian_phase	10	0	0	1	1	0
+RS45	Pavlovian_phase	11	0	1	0	2	98
+RS45	Pavlovian_phase	12	1	0	0	1	0
+RS45	Pavlovian_phase	13	0	1	0	2	100
+RS45	Pavlovian_phase	14	0	1	0	2	99
+RS45	Pavlovian_phase	15	1	0	0	1	0
+RS45	Pavlovian_phase	16	1	0	0	1	0
+RS45	Pavlovian_phase	17	0	1	0	2	100
+RS45	Pavlovian_phase	18	0	0	1	1	0
+RS45	Pavlovian_phase	19	0	0	1	1	0
+RS45	Pavlovian_phase	20	0	1	0	2	100
+RS45	Pavlovian_phase	21	0	0	1	1	0
+RS45	Pavlovian_phase	22	0	1	0	2	100
+RS45	Pavlovian_phase	23	1	0	0	1	0
+RS45	Pavlovian_phase	24	0	1	0	2	99
+RS45	Pavlovian_phase	25	0	1	0	2	100
+RS45	Pavlovian_phase	26	1	0	0	1	0
+RS45	Pavlovian_phase	27	1	0	0	1	0
+RS45	Pavlovian_phase	28	0	0	1	1	0
+RS45	Extinction_phase	29	0	0	1	1	0
+RS45	Extinction_phase	30	1	0	0	2	50
+RS45	Extinction_phase	31	1	0	0	1	0
+RS45	Extinction_phase	32	0	1	0	2	49
+RS45	Extinction_phase	33	1	0	0	1	0
+RS45	Extinction_phase	34	0	1	0	1	0
+RS45	Extinction_phase	35	0	0	1	1	0
+RS45	Extinction_phase	36	0	1	0	1	0
+RS45	Extinction_phase	37	0	0	1	1	0
+RS45	Extinction_phase	38	0	0	1	1	0
+RS45	Extinction_phase	39	1	0	0	1	0
+RS45	Extinction_phase	40	1	0	0	1	0
+RS45	Extinction_phase	41	0	1	0	1	0
+RS45	Extinction_phase	42	0	1	0	1	0
+RS45	Extinction_phase	43	0	0	1	1	0
+RS45	Extinction_phase	44	0	1	0	1	0
+RS45	Extinction_phase	45	0	1	0	1	0
+RS45	Extinction_phase	46	0	1	0	1	0
+RS46	Pavlovian_phase	1	1	0	0	1	0
+RS46	Pavlovian_phase	2	1	0	0	1	0
+RS46	Pavlovian_phase	3	0	1	0	1	0
+RS46	Pavlovian_phase	4	0	1	0	1	0
+RS46	Pavlovian_phase	5	0	0	1	2	55
+RS46	Pavlovian_phase	6	0	1	0	1	0
+RS46	Pavlovian_phase	7	1	0	0	2	61
+RS46	Pavlovian_phase	8	0	1	0	1	0
+RS46	Pavlovian_phase	9	0	0	1	2	64
+RS46	Pavlovian_phase	10	0	1	0	1	0
+RS46	Pavlovian_phase	11	0	0	1	2	51
+RS46	Pavlovian_phase	12	0	1	0	1	0
+RS46	Pavlovian_phase	13	0	0	1	2	61
+RS46	Pavlovian_phase	14	1	0	0	2	84
+RS46	Pavlovian_phase	15	0	1	0	1	0
+RS46	Pavlovian_phase	16	0	1	0	1	0
+RS46	Pavlovian_phase	17	1	0	0	1	0
+RS46	Pavlovian_phase	18	1	0	0	2	77
+RS46	Pavlovian_phase	19	0	0	1	2	61
+RS46	Pavlovian_phase	20	1	0	0	2	63
+RS46	Pavlovian_phase	21	1	0	0	2	55
+RS46	Pavlovian_phase	22	0	1	0	1	0
+RS46	Pavlovian_phase	23	0	1	0	1	0
+RS46	Pavlovian_phase	24	0	0	1	1	0
+RS46	Pavlovian_phase	25	0	1	0	1	0
+RS46	Pavlovian_phase	26	0	0	1	2	88
+RS46	Pavlovian_phase	27	0	0	1	1	0
+RS46	Pavlovian_phase	28	0	1	0	1	0
+RS46	Extinction_phase	29	1	0	0	2	86
+RS46	Extinction_phase	30	0	1	0	1	0
+RS46	Extinction_phase	31	1	0	0	1	0
+RS46	Extinction_phase	32	1	0	0	1	0
+RS46	Extinction_phase	33	0	1	0	1	0
+RS46	Extinction_phase	34	0	1	0	1	0
+RS46	Extinction_phase	35	0	0	1	1	0
+RS46	Extinction_phase	36	0	0	1	1	0
+RS46	Extinction_phase	37	0	1	0	1	0
+RS46	Extinction_phase	38	0	1	0	1	0
+RS46	Extinction_phase	39	1	0	0	2	51
+RS46	Extinction_phase	40	0	1	0	1	0
+RS46	Extinction_phase	41	0	1	0	1	0
+RS46	Extinction_phase	42	0	0	1	1	0
+RS46	Extinction_phase	43	0	1	0	1	0
+RS46	Extinction_phase	44	0	0	1	2	66
+RS46	Extinction_phase	45	0	0	1	2	68
+RS46	Extinction_phase	46	1	0	0	2	66
+RS47	Pavlovian_phase	1	1	0	0	1	0
+RS47	Pavlovian_phase	2	0	1	0	1	0
+RS47	Pavlovian_phase	3	1	0	0	2	74
+RS47	Pavlovian_phase	4	0	1	0	1	0
+RS47	Pavlovian_phase	5	0	1	0	1	0
+RS47	Pavlovian_phase	6	0	0	1	1	0
+RS47	Pavlovian_phase	7	0	0	1	2	77
+RS47	Pavlovian_phase	8	0	1	0	1	0
+RS47	Pavlovian_phase	9	0	0	1	2	79
+RS47	Pavlovian_phase	10	0	1	0	1	0
+RS47	Pavlovian_phase	11	0	1	0	1	0
+RS47	Pavlovian_phase	12	0	0	1	2	86
+RS47	Pavlovian_phase	13	1	0	0	2	72
+RS47	Pavlovian_phase	14	0	1	0	1	0
+RS47	Pavlovian_phase	15	1	0	0	2	82
+RS47	Pavlovian_phase	16	0	0	1	2	79
+RS47	Pavlovian_phase	17	0	1	0	1	0
+RS47	Pavlovian_phase	18	0	1	0	1	0
+RS47	Pavlovian_phase	19	1	0	0	2	74
+RS47	Pavlovian_phase	20	1	0	0	2	79
+RS47	Pavlovian_phase	21	0	0	1	2	82
+RS47	Pavlovian_phase	22	0	1	0	1	0
+RS47	Pavlovian_phase	23	0	0	1	2	77
+RS47	Pavlovian_phase	24	0	1	0	1	0
+RS47	Pavlovian_phase	25	1	0	0	2	78
+RS47	Pavlovian_phase	26	1	0	0	2	80
+RS47	Pavlovian_phase	27	0	0	1	2	80
+RS47	Pavlovian_phase	28	0	1	0	1	0
+RS47	Extinction_phase	29	0	1	0	1	0
+RS47	Extinction_phase	30	0	0	1	1	0
+RS47	Extinction_phase	31	0	1	0	2	75
+RS47	Extinction_phase	32	0	1	0	2	78
+RS47	Extinction_phase	33	1	0	0	1	0
+RS47	Extinction_phase	34	1	0	0	1	0
+RS47	Extinction_phase	35	0	1	0	2	74
+RS47	Extinction_phase	36	1	0	0	2	79
+RS47	Extinction_phase	37	0	0	1	2	77
+RS47	Extinction_phase	38	0	1	0	1	0
+RS47	Extinction_phase	39	0	0	1	2	76
+RS47	Extinction_phase	40	0	1	0	2	80
+RS47	Extinction_phase	41	1	0	0	2	83
+RS47	Extinction_phase	42	0	0	1	2	79
+RS47	Extinction_phase	43	0	1	0	2	77
+RS47	Extinction_phase	44	1	0	0	2	78
+RS47	Extinction_phase	45	0	0	1	2	76
+RS47	Extinction_phase	46	0	1	0	2	75
+RS48	Pavlovian_phase	1	0	1	0	2	67
+RS48	Pavlovian_phase	2	1	0	0	2	44
+RS48	Pavlovian_phase	3	1	0	0	2	89
+RS48	Pavlovian_phase	4	0	1	0	1	0
+RS48	Pavlovian_phase	5	0	1	0	2	97
+RS48	Pavlovian_phase	6	0	0	1	1	0
+RS48	Pavlovian_phase	7	0	0	1	1	0
+RS48	Pavlovian_phase	8	0	1	0	1	0
+RS48	Pavlovian_phase	9	0	1	0	1	0
+RS48	Pavlovian_phase	10	0	0	1	2	70
+RS48	Pavlovian_phase	11	1	0	0	1	0
+RS48	Pavlovian_phase	12	0	1	0	1	0
+RS48	Pavlovian_phase	13	1	0	0	1	0
+RS48	Pavlovian_phase	14	0	1	0	1	0
+RS48	Pavlovian_phase	15	1	0	0	2	72
+RS48	Pavlovian_phase	16	0	0	1	1	0
+RS48	Pavlovian_phase	17	1	0	0	1	0
+RS48	Pavlovian_phase	18	0	0	1	2	63
+RS48	Pavlovian_phase	19	0	1	0	1	0
+RS48	Pavlovian_phase	20	1	0	0	1	0
+RS48	Pavlovian_phase	21	0	0	1	2	85
+RS48	Pavlovian_phase	22	0	1	0	1	0
+RS48	Pavlovian_phase	23	0	1	0	1	0
+RS48	Pavlovian_phase	24	0	0	1	2	99
+RS48	Pavlovian_phase	25	0	1	0	1	0
+RS48	Pavlovian_phase	26	0	0	1	2	92
+RS48	Pavlovian_phase	27	0	1	0	1	0
+RS48	Pavlovian_phase	28	1	0	0	1	0
+RS48	Extinction_phase	29	0	1	0	1	0
+RS48	Extinction_phase	30	0	0	1	1	0
+RS48	Extinction_phase	31	1	0	0	1	0
+RS48	Extinction_phase	32	0	1	0	1	0
+RS48	Extinction_phase	33	1	0	0	1	0
+RS48	Extinction_phase	34	0	0	1	1	0
+RS48	Extinction_phase	35	0	1	0	2	87
+RS48	Extinction_phase	36	0	0	1	2	38
+RS48	Extinction_phase	37	0	0	1	1	0
+RS48	Extinction_phase	38	0	1	0	1	0
+RS48	Extinction_phase	39	1	0	0	1	0
+RS48	Extinction_phase	40	0	1	0	1	0
+RS48	Extinction_phase	41	1	0	0	1	0
+RS48	Extinction_phase	42	0	1	0	1	0
+RS48	Extinction_phase	43	0	0	1	1	0
+RS48	Extinction_phase	44	0	1	0	1	0
+RS48	Extinction_phase	45	1	0	0	1	0
+RS48	Extinction_phase	46	0	1	0	1	0
+RS49	Pavlovian_phase	1	0	1	0	1	0
+RS49	Pavlovian_phase	2	1	0	0	1	0
+RS49	Pavlovian_phase	3	1	0	0	1	0
+RS49	Pavlovian_phase	4	0	1	0	1	0
+RS49	Pavlovian_phase	5	0	0	1	1	0
+RS49	Pavlovian_phase	6	0	1	0	1	0
+RS49	Pavlovian_phase	7	0	1	0	1	0
+RS49	Pavlovian_phase	8	0	0	1	1	0
+RS49	Pavlovian_phase	9	0	0	1	2	71
+RS49	Pavlovian_phase	10	1	0	0	2	72
+RS49	Pavlovian_phase	11	0	1	0	1	0
+RS49	Pavlovian_phase	12	1	0	0	2	80
+RS49	Pavlovian_phase	13	0	1	0	1	0
+RS49	Pavlovian_phase	14	0	0	1	2	84
+RS49	Pavlovian_phase	15	1	0	0	2	81
+RS49	Pavlovian_phase	16	0	1	0	1	0
+RS49	Pavlovian_phase	17	1	0	0	2	80
+RS49	Pavlovian_phase	18	0	1	0	1	0
+RS49	Pavlovian_phase	19	0	1	0	1	0
+RS49	Pavlovian_phase	20	1	0	0	2	71
+RS49	Pavlovian_phase	21	0	0	1	2	61
+RS49	Pavlovian_phase	22	0	1	0	1	0
+RS49	Pavlovian_phase	23	0	0	1	2	55
+RS49	Pavlovian_phase	24	0	1	0	1	0
+RS49	Pavlovian_phase	25	0	0	1	2	53
+RS49	Pavlovian_phase	26	0	0	1	2	50
+RS49	Pavlovian_phase	27	0	1	0	1	0
+RS49	Pavlovian_phase	28	1	0	0	2	44
+RS49	Extinction_phase	29	0	1	0	1	0
+RS49	Extinction_phase	30	0	0	1	1	0
+RS49	Extinction_phase	31	1	0	0	1	0
+RS49	Extinction_phase	32	0	1	0	1	0
+RS49	Extinction_phase	33	1	0	0	1	0
+RS49	Extinction_phase	34	1	0	0	2	66
+RS49	Extinction_phase	35	0	1	0	2	55
+RS49	Extinction_phase	36	0	0	1	2	42
+RS49	Extinction_phase	37	0	1	0	2	47
+RS49	Extinction_phase	38	0	1	0	2	52
+RS49	Extinction_phase	39	0	0	1	1	0
+RS49	Extinction_phase	40	0	1	0	2	75
+RS49	Extinction_phase	41	0	0	1	2	43
+RS49	Extinction_phase	42	0	1	0	2	57
+RS49	Extinction_phase	43	1	0	0	2	76
+RS49	Extinction_phase	44	1	0	0	2	67
+RS49	Extinction_phase	45	0	1	0	2	72
+RS49	Extinction_phase	46	0	0	1	2	67
+RS50	Pavlovian_phase	1	1	0	0	2	69
+RS50	Pavlovian_phase	2	0	1	0	2	56
+RS50	Pavlovian_phase	3	0	1	0	1	0
+RS50	Pavlovian_phase	4	1	0	0	2	80
+RS50	Pavlovian_phase	5	0	1	0	1	0
+RS50	Pavlovian_phase	6	1	0	0	2	81
+RS50	Pavlovian_phase	7	0	1	0	1	0
+RS50	Pavlovian_phase	8	1	0	0	2	77
+RS50	Pavlovian_phase	9	1	0	0	2	84
+RS50	Pavlovian_phase	10	0	0	1	1	0
+RS50	Pavlovian_phase	11	0	1	0	1	0
+RS50	Pavlovian_phase	12	0	1	0	1	0
+RS50	Pavlovian_phase	13	1	0	0	2	78
+RS50	Pavlovian_phase	14	0	0	1	1	0
+RS50	Pavlovian_phase	15	0	0	1	2	55
+RS50	Pavlovian_phase	16	0	1	0	1	0
+RS50	Pavlovian_phase	17	1	0	0	2	97
+RS50	Pavlovian_phase	18	0	0	1	1	0
+RS50	Pavlovian_phase	19	0	1	0	1	0
+RS50	Pavlovian_phase	20	0	0	1	2	64
+RS50	Pavlovian_phase	21	0	1	0	1	0
+RS50	Pavlovian_phase	22	0	1	0	1	0
+RS50	Pavlovian_phase	23	1	0	0	2	80
+RS50	Pavlovian_phase	24	0	1	0	1	0
+RS50	Pavlovian_phase	25	0	0	1	2	51
+RS50	Pavlovian_phase	26	0	0	1	2	77
+RS50	Pavlovian_phase	27	0	1	0	1	0
+RS50	Pavlovian_phase	28	0	0	1	2	57
+RS50	Extinction_phase	29	0	1	0	1	0
+RS50	Extinction_phase	30	0	0	1	1	0
+RS50	Extinction_phase	31	0	1	0	1	0
+RS50	Extinction_phase	32	0	1	0	1	0
+RS50	Extinction_phase	33	0	0	1	1	0
+RS50	Extinction_phase	34	0	1	0	2	69
+RS50	Extinction_phase	35	0	1	0	2	64
+RS50	Extinction_phase	36	1	0	0	1	0
+RS50	Extinction_phase	37	0	0	1	1	0
+RS50	Extinction_phase	38	1	0	0	2	62
+RS50	Extinction_phase	39	1	0	0	2	61
+RS50	Extinction_phase	40	0	0	1	2	63
+RS50	Extinction_phase	41	0	1	0	2	72
+RS50	Extinction_phase	42	0	1	0	2	63
+RS50	Extinction_phase	43	1	0	0	2	70
+RS50	Extinction_phase	44	0	1	0	2	53
+RS50	Extinction_phase	45	0	0	1	2	51
+RS50	Extinction_phase	46	1	0	0	2	52
+RS51	Pavlovian_phase	1	1	0	0	2	57
+RS51	Pavlovian_phase	2	1	0	0	2	64
+RS51	Pavlovian_phase	3	0	1	0	1	0
+RS51	Pavlovian_phase	4	0	1	0	1	0
+RS51	Pavlovian_phase	5	0	1	0	1	0
+RS51	Pavlovian_phase	6	0	1	0	1	0
+RS51	Pavlovian_phase	7	1	0	0	2	75
+RS51	Pavlovian_phase	8	1	0	0	2	82
+RS51	Pavlovian_phase	9	0	1	0	1	0
+RS51	Pavlovian_phase	10	1	0	0	2	81
+RS51	Pavlovian_phase	11	0	1	0	1	0
+RS51	Pavlovian_phase	12	0	0	1	1	0
+RS51	Pavlovian_phase	13	0	0	1	2	59
+RS51	Pavlovian_phase	14	0	1	0	1	0
+RS51	Pavlovian_phase	15	0	0	1	2	69
+RS51	Pavlovian_phase	16	0	0	1	2	80
+RS51	Pavlovian_phase	17	1	0	0	2	91
+RS51	Pavlovian_phase	18	0	1	0	1	0
+RS51	Pavlovian_phase	19	1	0	0	2	90
+RS51	Pavlovian_phase	20	0	1	0	1	0
+RS51	Pavlovian_phase	21	1	0	0	2	92
+RS51	Pavlovian_phase	22	0	0	1	1	0
+RS51	Pavlovian_phase	23	0	1	0	1	0
+RS51	Pavlovian_phase	24	0	0	1	2	86
+RS51	Pavlovian_phase	25	0	1	0	1	0
+RS51	Pavlovian_phase	26	0	0	1	2	81
+RS51	Pavlovian_phase	27	0	1	0	1	0
+RS51	Pavlovian_phase	28	0	0	1	2	76
+RS51	Extinction_phase	29	0	1	0	1	0
+RS51	Extinction_phase	30	0	1	0	1	0
+RS51	Extinction_phase	31	0	0	1	1	0
+RS51	Extinction_phase	32	0	1	0	2	34
+RS51	Extinction_phase	33	0	0	1	2	75
+RS51	Extinction_phase	34	0	0	1	2	79
+RS51	Extinction_phase	35	1	0	0	1	0
+RS51	Extinction_phase	36	0	1	0	2	38
+RS51	Extinction_phase	37	0	0	1	2	77
+RS51	Extinction_phase	38	0	1	0	2	50
+RS51	Extinction_phase	39	1	0	0	2	94
+RS51	Extinction_phase	40	1	0	0	2	93
+RS51	Extinction_phase	41	0	1	0	2	29
+RS51	Extinction_phase	42	1	0	0	2	86
+RS51	Extinction_phase	43	0	1	0	2	35
+RS51	Extinction_phase	44	0	0	1	1	0
+RS51	Extinction_phase	45	1	0	0	2	35
+RS51	Extinction_phase	46	0	1	0	2	22
