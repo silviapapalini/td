@@ -15,9 +15,9 @@ X <- read_csv("Relief.csv", col_types = cols(
         TimingCS = factor(TimingCS, levels=c("CS","US"), labels=c("Onset", "Offset")),
     )
 
-selection <- c("RS01", "RS05", "RS06", "RS07", "RS08", "RS11", "RS13",
-    "RS14", "RS16", "RS17", "RS21", "RS22", "RS23", "RS27", "RS29",
-    "RS31", "RS32", "RS33", "RS38", "RS39", "RS40", "RS42", "RS46", "RS48")
+selection <- c("RS01", "RS03", "RS05", "RS06", "RS07", "RS08", "RS10", "RS11", "RS13",
+    "RS14", "RS16", "RS17", "RS20", "RS21", "RS22", "RS23", "RS26", "RS27", "RS29",
+    "RS31", "RS32", "RS33", "RS38", "RS39", "RS40", "RS41", "RS42", "RS46", "RS48", "RS49", "RS50", "RS51")
 Ext <- dplyr::filter(X, ID != "RS34", Phase == "Extinction", CSType == "CSplus") %>%
      dplyr::arrange(ID, TrialCS, TimingCS) %>% dplyr::mutate(selected = (ID %in% selection))
 
@@ -70,6 +70,9 @@ temporal_difference_mix <- function(cs, rewards, alpha, gamma, initial) {
 
 first <- function(x) head(x, n=1)
 
+logistic <- function(x) 1 / (1 + exp(-x))
+logit <- function(p) log(p / (1 - p))
+
 td <- function(ID, Trial, alpha, gamma, init.onset, init.offset, tau=100) {
     s <- split(1:length(ID), ID)
     PE <- rep(NA, length(ID))
@@ -88,6 +91,14 @@ td <- function(ID, Trial, alpha, gamma, init.onset, init.offset, tau=100) {
     }
 
     return(pmax(c(PE) * tau, 0))
+}
+
+td_bounded <- function(ID, Trial, alpha, gamma, init.onset, init.offset, tau=100) {
+    alpha <- logistic(alpha)
+    gamma <- logistic(gamma)
+    init.onset <- logistic(init.onset)
+    init.offset <- logistic(init.offset)
+    td(ID, Trial, alpha, gamma, init.onset, init.offset, tau)
 }
 
 partial <- function(f, x, eps = 1e-6) {
@@ -127,17 +138,33 @@ fit <- nlme(
 S$pred <- predict(fit)
 ggplot(S, aes(x=TrialCS, color=TimingCS)) + geom_point(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(~ID)
 
-# one subject
-S <- dplyr::filter(Ext, ID == "RS44")
-fit <- nls(
-    Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset),
-    data = S,
-    start = c(
-        alpha = .7,
-        gamma = .9,
-        init.onset = .5,
-        init.offset = .2
-    )
-)
-S$pred <- predict(fit)
-ggplot(S, aes(x=TrialCS, color=TimingCS)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred))
+resVar <- function(object) {
+    rss <- sum(residuals(object)^2)
+    n <- length(residuals(object))
+    p <- length(coef(object))
+    rss/(n - p)
+}
+
+estimate_subject <- function(S) {
+    # one subject
+    tryCatch({
+        fit <- nls(
+            Relief ~ td_bounded(ID, Trial, alpha, gamma, init.onset = logit(.5), init.offset = logit(.2)),
+            data = S,
+            algorithm = "port",
+            start = c(
+                alpha = logit(.7),
+                gamma = logit(.9)
+                # init.onset = logit(.5),
+                # init.offset = logit(.2)
+            ),
+            trace = TRUE
+        )
+        # S$pred <- predict(fit)
+        as.data.frame(t(c(coef(fit), var = resVar(fit))))
+    }, error = function(e) {
+        data.frame(alpha = NA, gamma = NA, init.onset = NA, init.offset = NA, var = NA)
+    })
+}
+
+fits <- Ext %>% dplyr::group_by(ID) %>% dplyr::group_modify(~ estimate_subject(.x), .keep=TRUE)
