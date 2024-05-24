@@ -90,7 +90,8 @@ td <- function(ID, Trial, alpha, gamma, init.onset, init.offset, tau=100) {
             init.onset[f], init.offset[f])
     }
 
-    return(pmax(c(PE) * tau, 0))
+    return(c(PE) * tau)
+    # return(pmax(c(PE) * tau, 0))
 }
 
 td_bounded <- function(ID, Trial, alpha, gamma, init.onset, init.offset, tau=100) {
@@ -149,22 +150,50 @@ estimate_subject <- function(S) {
     # one subject
     tryCatch({
         fit <- nls(
-            Relief ~ td_bounded(ID, Trial, alpha, gamma, init.onset = logit(.5), init.offset = logit(.2)),
+            Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset),
             data = S,
             algorithm = "port",
             start = c(
-                alpha = logit(.7),
-                gamma = logit(.9)
-                # init.onset = logit(.5),
-                # init.offset = logit(.2)
+                alpha = .7,
+                gamma = .9,
+                init.onset = .5,
+                init.offset = .2
+            ),
+            lower = c(
+                alpha = 0.0,
+                gamma = 0.0,
+                init.onset = 0.0,
+                init.offset = 0.0
+            ),
+            upper = c(
+                alpha = 1.0,
+                gamma = 1.0,
+                init.onset = 1.0,
+                init.offset = 1.0
             ),
             trace = TRUE
         )
-        # S$pred <- predict(fit)
-        as.data.frame(t(c(coef(fit), var = resVar(fit))))
+        pred <- predict(fit)
+        cbind(as.data.frame(t(c(coef(fit), var = resVar(fit)))),
+            Trial = S$Trial, TimingCS = S$TimingCS, pred = pred)
     }, error = function(e) {
         data.frame(alpha = NA, gamma = NA, init.onset = NA, init.offset = NA, var = NA)
     })
 }
 
 fits <- Ext %>% dplyr::group_by(ID) %>% dplyr::group_modify(~ estimate_subject(.x), .keep=TRUE)
+Z <- dplyr::left_join(Ext, fits, by = c("ID","Trial", "TimingCS"))
+ggplot(Z, aes(x=Trial, color=TimingCS)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Anxiety~ID)
+
+estimate_learning <- function(S) {
+    fit <- lm(Relief ~ TrialCS, data=S)
+    pred <- predict(fit)
+    cbind(as.data.frame(t(c(coef(fit), var = resVar(fit)))),
+        Trial = S$Trial, TimingCS = S$TimingCS, pred = pred
+    )
+}
+ols <- Ext %>% dplyr::group_by(ID) %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::group_modify(~ estimate_learning(.x), .keep=TRUE)
+
+Z <- dplyr::left_join(Ext, ols, by = c("ID","Trial", "TimingCS"))
+Z <- Z %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::mutate(Learner = ifelse(TrialCS.y >= -5, "Bad", "Good"))
+ggplot(Z, aes(x=Trial, color=Learner)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Learner~ID)

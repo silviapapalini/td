@@ -4,8 +4,7 @@ library(ggplot2)
 X <- read_csv("Relief.csv") %>% dplyr::mutate(Relief = ifelse(is.na(ReliefRating), 0, ReliefRating))
 Y <- dplyr::filter(X, Phase == "Extinction") %>%
     dplyr::mutate(
-        CSType=recode_factor(CSType, "CSmin1"="CSmin", "CSmin2"="CSmin"),
-        TimingCS=factor(TimingCS, levels=c("CS","US"), labels=c("Onset", "Offset"))) %>%
+        CSType=recode_factor(CSType, "CSmin1"="CSmin", "CSmin2"="CSmin")) %>%
     dplyr::group_by(TimingCS, TrialCS, CSType, Anxiety) %>%
     dplyr::summarize(
         mu_only = mean(ReliefRating, na.rm=TRUE),
@@ -35,7 +34,7 @@ q <- ggplot(Y, aes(x=TrialCS, y=prop_yes, group=interaction(Anxiety,CSType), col
     theme(
         legend.text=element_text(size=10),
         legend.title=element_text(size=12, face='bold')) +
-    ylab("Average Magnitude Relief") +
+    ylab("Average Choice") +
     guides(color=guide_legend("CS"), linetype=guide_legend("Anxiety (STAI)"))
 
 
