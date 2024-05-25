@@ -134,13 +134,14 @@ td.print <- function(...) print(td(...))
 
 S <- dplyr::filter(Ext, selected) %>% dplyr::mutate(
     DTS = scale(DTS), STAI = scale(STAI),
-    PANASp = scale(PANASp), PANASn = scale(PANASn)
+    PANASp = scale(PANASp), PANASn = scale(PANASn),
+    Distress = factor(ifelse(DTS >= median(DTS), 0, 1), levels=c(0,1), labels=c("Low", "High"))
 )
 fit <- nlme(
     Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset),
     data = S,
     # fixed = alpha + gamma + init.onset + init.offset ~ 1,
-    fixed = list(alpha ~ 1 + PANASp, gamma ~ 1 + PANASp, init.onset + init.offset ~ 1),
+    fixed = list(alpha ~ 1 + STAI, gamma ~ 1 + STAI, init.onset + init.offset ~ 1),
     random = pdDiag(alpha + gamma ~ 1),
     groups = ~ ID,
     # start = c( alpha = .7, gamma = .9, init.onset = .5, init.offset = .2),
