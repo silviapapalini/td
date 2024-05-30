@@ -1,5 +1,6 @@
 library(tidyverse)
 library(ggplot2)
+setwd("C:/Users/u0121717/OneDrive - KU Leuven/Desktop/relief TD/github")
 
 X <- read_csv("Relief.csv") %>% dplyr::mutate(Relief = ifelse(is.na(ReliefRating), 0, ReliefRating))
 Y <- dplyr::filter(X, Phase == "Extinction") %>%
