@@ -2,6 +2,18 @@ library(nlme)
 library(abind)
 library(tidyverse)
 library(ggplot2)
+library(gtsummary)
+library(dplyr)
+library(patchwork)
+library(ggeffects)
+library(readr)
+library(lme4)
+library(lmerTest)
+library(optimx)
+library(hrbrthemes)
+library(RESI)
+
+setwd("C:/Users/u0121717/OneDrive - KU Leuven/Desktop/relief TD/github")
 
 X <- read_csv("Relief.csv", col_types = cols(
         CSType = col_factor(c("CSmin1", "CSmin2", "CSplus")),
@@ -15,25 +27,46 @@ X <- read_csv("Relief.csv", col_types = cols(
         TimingCS = factor(TimingCS, levels=c("CS","US"), labels=c("Onset", "Offset")),
     )
 
-Ext <- dplyr::filter(X, ID != "RS34", Phase == "Extinction", CSType == "CSplus") %>%
-     dplyr::arrange(ID, TrialCS, TimingCS) %>% dplyr::mutate(selected = (ID %in% selection))
+## HERE THE TD for the CS+
+
+Ext <- dplyr::filter(X, ID != "RS34", Phase == "Extinction") %>%
+     dplyr::arrange(ID, TrialCS, TimingCS) %>% dplyr::mutate(
+       DTS = scale(DTS), STAI = scale(STAI),
+       PANASp = scale(PANASp), PANASn = scale(PANASn),
+       Distress = factor(ifelse(DTS >= median(DTS), 0, 1), levels=c(0,1), labels=c("Low", "High"))
+     )
+
+Ext_plus <- dplyr::filter(Ext, CSType == "CSplus")
+
+resVar <- function(object) {
+  rss <- sum(residuals(object)^2)
+  n <- length(residuals(object))
+  p <- length(coef(object))
+  rss/(n - p)
+}
 
 # estimate learning with linear model fit. Slope >= -x => Good learner
-estimate_learning <- function(S) {
+good_bad_learning <- function(Ext) {
+  estimate_learning <- function(S) {
     fit <- lm(Relief ~ TrialCS, data=S)
     pred <- predict(fit)
     cbind(as.data.frame(t(c(coef(fit), var = resVar(fit)))),
-        Trial = S$Trial, TimingCS = S$TimingCS, pred = pred
+          Trial = S$Trial, TimingCS = S$TimingCS, pred = pred
     )
+  }
+  
+  ols <- Ext %>% dplyr::group_by(ID) %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::group_modify(~ estimate_learning(.x), .keep=TRUE)
+  
+  Z <- dplyr::left_join(Ext, ols, by = c("ID","Trial", "TimingCS"))
+  Z <- Z %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::mutate(Learner = ifelse(TrialCS.y >= -1, "Bad", "Good"))
+  Z
 }
-ols <- Ext %>% dplyr::group_by(ID) %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::group_modify(~ estimate_learning(.x), .keep=TRUE)
 
-Z <- dplyr::left_join(Ext, ols, by = c("ID","Trial", "TimingCS"))
-Z <- Z %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::mutate(Learner = ifelse(TrialCS.y >= -1, "Bad", "Good"))
-ggplot(Z, aes(x=Trial, color=Learner)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Learner~ID)
+Z <- good_bad_learning(Ext_plus)
+ggplot(Z, aes(x=TrialCS.x, color=Learner)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Learner~ID)
 
 Good <- unique((Z %>% dplyr::filter(Learner == "Good"))$ID)
-Ext <- dplyr::mutate(Ext, selected = (ID %in% Good))
+Ext_plus <- dplyr::mutate(Ext_plus, selected = (ID %in% Good)) %>% dplyr::filter(selected)
 
 temporal_difference_cs <- function(reward, trials, alpha, gamma, initial.onset, initial.offset) {
     Q.onset <- initial.onset
@@ -132,62 +165,40 @@ partial <- function(f, x, eps = 1e-6) {
 
 td.print <- function(...) print(td(...))
 
-S <- dplyr::filter(Ext, selected) %>% dplyr::mutate(
-    DTS = scale(DTS), STAI = scale(STAI),
-    PANASp = scale(PANASp), PANASn = scale(PANASn),
-    Distress = factor(ifelse(DTS >= median(DTS), 0, 1), levels=c(0,1), labels=c("Low", "High"))
-)
+
+#check number participants
+dplyr::n_distinct(Ext_plus$ID)
+
+# needs to be in the correct order
+Ext_plus <- dplyr::arrange(Ext_plus, ID, TrialCS, TimingCS)
+
 fit <- nlme(
     Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset),
-    data = S,
-    # fixed = alpha + gamma + init.onset + init.offset ~ 1,
-    fixed = list(alpha ~ 1 + STAI, gamma ~ 1 + STAI, init.onset + init.offset ~ 1),
+    data = Ext_plus,
+    #fixed = alpha + gamma + init.onset + init.offset ~ 1,
+    fixed = list(alpha ~ 1 + PANASp, gamma ~ 1 + PANASp, init.onset + init.offset ~ 1),
     random = pdDiag(alpha + gamma ~ 1),
     groups = ~ ID,
-    # start = c( alpha = .7, gamma = .9, init.onset = .5, init.offset = .2),
+    #start = c( alpha = .7, gamma = .9, init.onset = .5, init.offset = .2),
     start = c(.7, 0.0, .9, 0.0, .5, .2),
     # verbose = TRUE,
     control = nlmeControl(maxIter=100)
 )
 summary(fit)
+TD_summary = summary(fit)
 
-#   Nonlinear mixed-effects model fit by maximum likelihood
-#   Model: Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset)
-#   Data: S
-#        AIC      BIC    logLik
-#   5700.183 5731.414 -2843.092
-
-# Random effects:
-#  Formula: list(alpha ~ 1, gamma ~ 1)
-#  Level: ID
-#  Structure: Diagonal
-#             alpha     gamma Residual
-# StdDev: 0.2487168 0.6656506 17.14209
-
-# Fixed effects:  alpha + gamma + init.onset + init.offset ~ 1
-#                 Value  Std.Error  DF  t-value p-value
-# alpha       0.2995189 0.04130052 597 7.252183   0.000
-# gamma       0.8094844 0.12310514 597 6.575553   0.000
-# init.onset  0.0325815 0.03114679 597 1.046064   0.296
-# init.offset 0.1278656 0.01830888 597 6.983804   0.000
-#  Correlation:
-#             alpha  gamma  int.ns
-# gamma       -0.015
-# init.onset  -0.037  0.403
-# init.offset -0.101  0.156  0.499
 
 # adding random effects on init.onset and init.offset
 # =>  BIC = 5744.336 and estimated stdev ~ 0
 
-S$pred <- predict(fit)
-ggplot(S, aes(x=TrialCS, color=TimingCS)) + geom_point(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(~ID)
+Ext_plus$pred <- predict(fit)
+ggplot(Ext_plus, aes(x=TrialCS, color=TimingCS)) + geom_point(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(~ID)
 
-resVar <- function(object) {
-    rss <- sum(residuals(object)^2)
-    n <- length(residuals(object))
-    p <- length(coef(object))
-    rss/(n - p)
-}
+# plotting
+
+#q <- ggpredict(fit, terms=c("TrialCS", "CSType")) %>% as.data.frame()%>% dplyr::rename(TrialCS=x, TimingCS=group)
+
+# end plotting
 
 estimate_subject <- function(S) {
     # one subject
@@ -224,7 +235,70 @@ estimate_subject <- function(S) {
     })
 }
 
-fits <- Ext %>% dplyr::group_by(ID) %>% dplyr::group_modify(~ estimate_subject(.x), .keep=TRUE)
-Z <- dplyr::left_join(Ext, fits, by = c("ID","Trial", "TimingCS"))
-ggplot(Z, aes(x=Trial, color=TimingCS)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Anxiety~ID)
+#fits <- Ext %>% dplyr::group_by(ID) %>% dplyr::group_modify(~ estimate_subject(.x), .keep=TRUE)
+#Z <- dplyr::left_join(Ext, fits, by = c("ID","Trial", "TimingCS"))
+#ggplot(Z, aes(x=Trial, color=TimingCS)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Anxiety~ID)
 
+
+## HERE THE TD for the CSmin2 and CSmin1 merged
+
+# Ext_min <- Ext %>%
+#   #dplyr::mutate(CSType=recode_factor(CSType, "CSmin1"="CSmin", "CSmin2"="CSmin")) %>%
+#   dplyr::filter(CSType == "CSmin2") %>%
+#   dplyr::group_by(ID, TimingCS, TrialCS) %>%
+#   dplyr::summarize(
+#     Trial = first(Trial),
+#     ReliefRating = mean(ReliefRating, na.rm=TRUE),
+#     Relief = mean(Relief, na.rm=TRUE),
+#     ReliefChoice = mean(ReliefChoice, na.rm=TRUE),
+#     PANASp = mean(PANASp, na.rm=TRUE),
+#   ) %>% dplyr::ungroup()
+
+Ext_min <- Ext %>%
+  dplyr::mutate(CSType=recode_factor(CSType, "CSmin1"="CSmin", "CSmin2"="CSmin")) %>%
+  dplyr::filter(CSType == "CSmin") %>%
+  dplyr::group_by(ID, TimingCS, TrialCS, CSType) %>%
+  dplyr::summarize(
+    Trial = first(Trial),
+    across(!Trial & !where(is.numeric), ~ first(.)),
+    across(!Trial & where(is.numeric), ~ mean(., na.rm=TRUE))
+  )
+
+# comment the next 3 lines to use the good/bad from CSplus
+Z <- good_bad_learning(Ext_min)
+ggplot(Z, aes(x=TrialCS.x, color=Learner)) + geom_jitter(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(Learner~ID)
+Good <- unique((Z %>% dplyr::filter(Learner == "Good"))$ID)
+
+Ext_min <- dplyr::mutate(Ext_min, selected = (ID %in% Good)) %>% dplyr::filter(selected)
+
+#check number participants
+dplyr::n_distinct(Ext_min$ID)
+
+# needs to be in the correct order
+Ext_min <- dplyr::arrange(Ext_min, ID, TrialCS, TimingCS)
+
+fit <- nlme(
+  Relief ~ td(ID, Trial, alpha, gamma, init.onset, init.offset),
+  data = Ext_min,
+  #fixed = alpha + gamma + init.onset + init.offset ~ 1,
+  fixed = list(alpha ~ 1 + PANASp, gamma ~ 1 + PANASp, init.onset + init.offset ~ 1),
+  random = pdDiag(alpha + gamma ~ 1),
+  groups = ~ ID,
+  #start = c( alpha = .7, gamma = .9, init.onset = .5, init.offset = .8),
+  start = c(.7, 0.0, .9, 0.0, .5, .8),
+  # verbose = TRUE,
+  control = nlmeControl(maxIter=100)
+)
+summary(fit)
+TD_summary = summary(fit)
+
+
+Ext_min$pred <- predict(fit)
+ggplot(Ext_min, aes(x=TrialCS, color=TimingCS)) + geom_point(aes(y=Relief)) + geom_line(aes(y=pred)) + facet_wrap(~ID)
+
+# plotting
+
+q <- ggpredict(fit, terms=c("TrialCS", "CSType")) %>% as.data.frame()%>% dplyr::rename(TrialCS=x, TimingCS=group)
+
+
+# end plotting
