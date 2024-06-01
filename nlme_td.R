@@ -207,8 +207,7 @@ Q <- S %>% dplyr::group_by(TrialCS, TimingCS) %>% summarise_at(vars(Relief, pred
 ggplot(S, aes(x=TrialCS, color=TimingCS)) +
     geom_jitter(aes(y=Relief), wi) +
     geom_line(aes(y=fixed), color="black") +
-    facet_wrap(~TimingCS) + geom_ribbon(aes(ymin=pred_Q1,ymax=pred_Q3), alpha=.3, da
-ta=Q)
+    facet_wrap(~TimingCS) + geom_ribbon(aes(ymin=pred_Q1,ymax=pred_Q3), alpha=.3, data=Q)
 
 #q <- ggpredict(fit, terms=c("TrialCS", "CSType")) %>% as.data.frame()%>% dplyr::rename(TrialCS=x, TimingCS=group)
 
