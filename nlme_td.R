@@ -54,9 +54,9 @@ good_bad_learning <- function(Ext) {
           Trial = S$Trial, TimingCS = S$TimingCS, pred = pred
     )
   }
-  
+
   ols <- Ext %>% dplyr::group_by(ID) %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::group_modify(~ estimate_learning(.x), .keep=TRUE)
-  
+
   Z <- dplyr::left_join(Ext, ols, by = c("ID","Trial", "TimingCS"))
   Z <- Z %>% dplyr::filter(TimingCS == "Offset") %>% dplyr::mutate(Learner = ifelse(TrialCS.y >= -1, "Bad", "Good"))
   Z
@@ -178,11 +178,12 @@ fit <- nlme(
     #fixed = alpha + gamma + init.onset + init.offset ~ 1,
     fixed = list(alpha ~ 1 + PANASp, gamma ~ 1 + PANASp, init.onset + init.offset ~ 1),
     random = pdDiag(alpha + gamma ~ 1),
+    # random = pdLogChol(diag(1:2), nam=c("alpha", "gamma"), alpha + gamma ~ 1),
     groups = ~ ID,
     #start = c( alpha = .7, gamma = .9, init.onset = .5, init.offset = .2),
     start = c(.7, 0.0, .9, 0.0, .5, .2),
     # verbose = TRUE,
-    control = nlmeControl(maxIter=100)
+    control = nlmeControl(maxIter = 100, msMaxIter = 1000)
 )
 summary(fit)
 TD_summary = summary(fit)
