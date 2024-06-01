@@ -199,13 +199,14 @@ ggplot(Ext_plus, aes(x=TrialCS, color=TimingCS)) + geom_point(aes(y=Relief)) + g
 ff <- fixed.effects(fit)
 r <- function(x) rep(x, nrow(S))
 pred <- td(S$ID, S$TrialCS, r(ff["alpha"]), r(ff["gamma"]), r(ff["init.onset"]), r(ff["init.offset"]))
+S <- Ext_plus
 S$fixed <- pred
 
 Q <- S %>% dplyr::group_by(TrialCS, TimingCS) %>% summarise_at(vars(Relief, pred),
                list(Q1=~quantile(., probs = 0.025),
                     median=median, Q3=~quantile(., probs = 0.975)))
 ggplot(S, aes(x=TrialCS, color=TimingCS)) +
-    geom_jitter(aes(y=Relief), wi) +
+    geom_jitter(aes(y=Relief), width = 0.1) +
     geom_line(aes(y=fixed), color="black") +
     facet_wrap(~TimingCS) + geom_ribbon(aes(ymin=pred_Q1,ymax=pred_Q3), alpha=.3, data=Q)
 
