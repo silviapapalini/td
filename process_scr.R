@@ -46,7 +46,7 @@ process_trial_scr <- function(x) {
     offset_scr <- calculate_scr(x$skin_stream, offset, offset + 3 * sample_rate, 1 * sample_rate)
     data.frame(
         Onset_Time = onset,
-        Offset_time = offset,
+        Offset_Time = offset,
         Onset_SCR = onset_scr,
         Offset_SCR = offset_scr
     )
@@ -59,22 +59,22 @@ process_scr <- function(fname) {
         # combine CSs into single CS column
         tidyr::unite(`T.CSM`,`T.CS_UU`, `T.CS_EE`, col = "CSType", remove=FALSE) %>%
         dplyr::rename(`CS-` = `T.CSM`,`CS--` = `T.CS_UU`, `CS+` = `T.CS_EE`) %>%
-        tidyr::extract(`#TRIAL_POOL`, regex="_([0-9])([0-9]?)", into=c("Phase", "Block")) %>%
-        dplyr::arrange(SUBJ_ID, Phase, Block, `#TRIAL_NUMBER`) %>%
+        tidyr::extract(`#TRIAL_POOL`, regex="_([0-9])[0-9]?", into="Phase") %>%
+        dplyr::arrange(SUBJ_ID, Phase, time) %>%
+        dplyr::mutate(Trial = cumsum(c(TRUE,diff(`#TRIAL_NUMBER`)))) %>%
 
         # calculate SCR
-        dplyr::group_by(SUBJ_ID, Phase, Block, `#TRIAL_NUMBER`, CSType, `CS-`, `CS--`, `CS+`) %>%
+        dplyr::group_by(SUBJ_ID, Phase, Trial, CSType, `CS-`, `CS--`, `CS+`) %>%
             dplyr::group_modify( ~ process_trial_scr(.x) ) %>%
         dplyr::ungroup() %>%
 
         #calculate trial numbers per CS
-        dplyr::group_by(SUBJ_ID, Phase, Block) %>%
+        dplyr::group_by(SUBJ_ID, Phase) %>%
             dplyr::mutate(
                 TrialCS = calc_trial_number(`CS-`, `CS--`, `CS+`),
-                Trial = `#TRIAL_NUMBER`, .keep = "unused") %>%
+                .keep = "unused") %>%
         dplyr::ungroup() %>%
         dplyr::mutate(
-            Block = as.integer(Block),
             CSType = factor(CSType,
                 levels = c("1_0_0", "0_1_0", "0_0_1"),
                 labels = c("CSmin1","CSmin2", "CSplus")),
@@ -85,3 +85,6 @@ process_scr <- function(fname) {
 
 X <- do.call(rbind, lapply(list.files(path="./data", pattern="skin_RS[0-9]+.tab", full.names=TRUE), process_scr))
 write.table(X, file='SCR.csv', quote=FALSE, row.names=FALSE, sep=",")
+
+Y <- dplyr::filter(X, Phase == "Extinction") %>% dplyr::group_by(TimingCS, TrialCS, CSType) %>% dplyr::summarize(mu = mean(SCR, na.rm=TRUE))
+ggplot(Y, aes(x=TrialCS, y=mu, color=CSType, group=CSType)) + geom_line() + facet_wrap(~TimingCS)
